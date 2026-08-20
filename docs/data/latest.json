@@ -1,0 +1,284 @@
+{
+  "generated_at": "2026-08-20T23:03:45.323371+00:00",
+  "erreur": null,
+  "nb_matchs": 12,
+  "matchs": [
+    {
+      "match": "LDU Quito vs Mirassol",
+      "competition": "Copa Libertadores",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.17,
+        "lambda_exterieur": 0.63,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE MIRASSOL",
+            "cote": 6.48,
+            "probabilite_modele": 19.9,
+            "ev_pct": 28.7
+          },
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 53.5,
+            "ev_pct": 14.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Macará vs Santos",
+      "competition": "Copa Sudamericana",
+      "modele_a": {
+        "pari": "PLUS DE 1.0 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.17,
+        "lambda_exterieur": 0.63,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE SANTOS",
+            "cote": 6.32,
+            "probabilite_modele": 19.9,
+            "ev_pct": 25.8
+          },
+          {
+            "marche": "PLUS DE 1.0 BUTS",
+            "cote": 2.3,
+            "probabilite_modele": 53.9,
+            "ev_pct": 23.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Olimpia Asunción vs Vasco da Gama",
+      "competition": "Copa Sudamericana",
+      "modele_a": {
+        "pari": "VICTOIRE VASCO DA GAMA",
+        "cote": 1.6,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.75,
+        "lambda_exterieur": 2.98,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE OLIMPIA ASUNCIÓN",
+            "cote": 6.58,
+            "probabilite_modele": 20.8,
+            "ev_pct": 36.7
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 51.2,
+            "ev_pct": 8.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Athletic Club (MG) vs Clube de Regatas Brasil",
+      "competition": "Brazil Série B",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.79,
+        "lambda_exterieur": 0.79,
+        "divergence_pinnacle_public_pct": 6.3,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE ATHLETIC CLUB (MG)",
+            "cote": 3.87,
+            "probabilite_modele": 32.2,
+            "ev_pct": 24.4
+          },
+          {
+            "marche": "NUL",
+            "cote": 2.9,
+            "probabilite_modele": 35.6,
+            "ev_pct": 3.4
+          },
+          {
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 53.2,
+            "ev_pct": 2.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Grêmio Novorizontino vs América Mineiro",
+      "competition": "Brazil Série B",
+      "modele_a": {
+        "pari": "VICTOIRE GRÊMIO NOVORIZONTINO",
+        "cote": 1.53,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.91,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 1.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 51.3,
+            "ev_pct": 4.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Botafogo vs Club Cienciano",
+      "competition": "Copa Sudamericana",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 3.08,
+        "lambda_exterieur": 0.63,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.4,
+            "probabilite_modele": 49.2,
+            "ev_pct": 18.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Corinthians-SP vs Rosario Central",
+      "competition": "Copa Libertadores",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.95,
+        "lambda_exterieur": 0.69,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 49.0,
+            "ev_pct": 1.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Kashiwa Reysol vs V-Varen Nagasaki",
+      "competition": "J League",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.75,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.94,
+            "probabilite_modele": 52.6,
+            "ev_pct": 2.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "FC Tokyo vs JEF United Chiba",
+      "competition": "J League",
+      "modele_a": {
+        "pari": "VICTOIRE FC TOKYO",
+        "cote": 1.54,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.9,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Waldhof Mannheim vs 1. FC Kaiserslautern",
+      "competition": "DFB-Pokal",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 1.83,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Al-Riyadh vs Al-Nassr",
+      "competition": "Saudi Pro League",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.89,
+        "lambda_exterieur": 2.67,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 52.5,
+            "ev_pct": 1.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "SJK Seinäjoki vs FC Lahti",
+      "competition": "Veikkausliiga - Finland",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": -0.9,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    }
+  ]
+}
