@@ -90,35 +90,56 @@ def poisson_over(lam_home, lam_away, ligne):
     return 1 - p_under_ou_egal
 
 
+def _erreur_ajustement(lh, la, fair_home, fair_draw, fair_away, fair_over, ligne):
+    ph, pd, pa = poisson_1x2(lh, la, max_goals=8)
+    po = poisson_over(lh, la, ligne)
+    erreur = (ph - fair_home) ** 2 + (pd - fair_draw) ** 2 + (pa - fair_away) ** 2
+    if fair_over is not None:
+        erreur += (po - fair_over) ** 2
+    return erreur
+
+
 def estimer_lambdas(fair_home, fair_draw, fair_away, fair_over, ligne):
-    if fair_over is None or fair_home is None:
+    """
+    Reconstruit lambda_home / lambda_away avec DEUX paramètres indépendants
+    (pas de somme totale imposée), calés simultanément sur les 4 probabilités
+    de marché dévigées (victoire dom/nul/ext + over/under). Recherche par
+    grille en deux passes (grossière puis affinée) : plus robuste que la
+    version à un seul paramètre, qui ne pouvait pas bien ajuster les matchs
+    déséquilibrés (biais systématique observé sur les gros outsiders).
+    """
+    if fair_home is None:
         return None, None
 
-    lo, hi = 0.2, 8.0
-    for _ in range(40):
-        mid = (lo + hi) / 2
-        seuil = math.floor(ligne)
-        p_under_ou_egal = sum(poisson_pmf(k, mid) for k in range(seuil + 1))
-        p_over_mid = 1 - p_under_ou_egal
-        if p_over_mid < fair_over:
-            lo = mid
-        else:
-            hi = mid
-    lam_total = (lo + hi) / 2
-
+    # Passe 1 : grille grossière
     meilleure_erreur = None
-    meilleur_f = 0.5
-    f = 0.05
-    while f <= 0.95:
-        lh, la = lam_total * f, lam_total * (1 - f)
-        ph, pd, pa = poisson_1x2(lh, la, max_goals=8)
-        erreur = (ph - fair_home) ** 2 + (pd - fair_draw) ** 2 + (pa - fair_away) ** 2
-        if meilleure_erreur is None or erreur < meilleure_erreur:
-            meilleure_erreur = erreur
-            meilleur_f = f
-        f += 0.01
+    meilleur_lh, meilleur_la = 1.3, 1.3
+    lh = 0.2
+    while lh <= 4.0:
+        la = 0.2
+        while la <= 4.0:
+            erreur = _erreur_ajustement(lh, la, fair_home, fair_draw, fair_away, fair_over, ligne)
+            if meilleure_erreur is None or erreur < meilleure_erreur:
+                meilleure_erreur = erreur
+                meilleur_lh, meilleur_la = lh, la
+            la += 0.2
+        lh += 0.2
 
-    return lam_total * meilleur_f, lam_total * (1 - meilleur_f)
+    # Passe 2 : affinage autour du meilleur point trouvé
+    lh_min, lh_max = max(0.05, meilleur_lh - 0.2), meilleur_lh + 0.2
+    la_min, la_max = max(0.05, meilleur_la - 0.2), meilleur_la + 0.2
+    lh = lh_min
+    while lh <= lh_max:
+        la = la_min
+        while la <= la_max:
+            erreur = _erreur_ajustement(lh, la, fair_home, fair_draw, fair_away, fair_over, ligne)
+            if erreur < meilleure_erreur:
+                meilleure_erreur = erreur
+                meilleur_lh, meilleur_la = lh, la
+            la += 0.02
+        lh += 0.02
+
+    return meilleur_lh, meilleur_la
 
 
 # ============================================================
@@ -235,6 +256,21 @@ try:
                 p_home_mod, p_draw_mod, p_away_mod = poisson_1x2(lam_h, lam_a)
                 p_over_mod = poisson_over(lam_h, lam_a, ligne_buts)
                 p_under_mod = 1 - p_over_mod
+
+                # Si Pinnacle est disponible, on mélange l'estimation Poisson
+                # avec sa probabilité dévigée (référence sharp) pour réduire
+                # l'impact d'un mauvais ajustement du modèle sur un seul match.
+                if pin_home and pin_draw and pin_away:
+                    fh_pin, fd_pin, fa_pin = devig_3way(pin_home, pin_draw, pin_away)
+                    if fh_pin is not None:
+                        p_home_mod = (p_home_mod + fh_pin) / 2
+                        p_draw_mod = (p_draw_mod + fd_pin) / 2
+                        p_away_mod = (p_away_mod + fa_pin) / 2
+                if pin_over and pin_under:
+                    fo_pin, fu_pin = devig_2way(pin_over, pin_under)
+                    if fo_pin is not None:
+                        p_over_mod = (p_over_mod + fo_pin) / 2
+                        p_under_mod = (p_under_mod + fu_pin) / 2
 
                 marches = [
                     ("VICTOIRE " + home.upper(), p_home_mod, pub_home or pin_home),
