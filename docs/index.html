@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Robot Code 90 — Dashboard</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --panel: #171a21;
+    --border: #2a2e38;
+    --text: #e6e8ec;
+    --muted: #8b909c;
+    --green: #3ecf8e;
+    --red: #ef5b5b;
+    --amber: #e8b339;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    padding: 24px 16px 64px;
+  }
+  header {
+    max-width: 900px;
+    margin: 0 auto 24px;
+  }
+  h1 {
+    font-size: 1.4rem;
+    margin: 0 0 4px;
+  }
+  #meta {
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+  }
+  .match-title {
+    font-weight: 600;
+    font-size: 1.02rem;
+  }
+  .comp {
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin-bottom: 10px;
+  }
+  .row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-top: 10px;
+  }
+  @media (max-width: 560px) {
+    .row { grid-template-columns: 1fr; }
+  }
+  .col-title {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+  .pill {
+    display: inline-block;
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 999px;
+    margin-left: 6px;
+  }
+  .pill.ev-pos { background: rgba(62,207,142,0.15); color: var(--green); }
+  .bet-line {
+    font-size: 0.88rem;
+    padding: 6px 0;
+    border-top: 1px solid var(--border);
+  }
+  .bet-line:first-of-type { border-top: none; }
+  .empty {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-style: italic;
+  }
+  #status {
+    text-align: center;
+    color: var(--muted);
+    padding: 40px 0;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>⚽ Robot Code 90 — Dashboard</h1>
+  <div id="meta">Chargement…</div>
+</header>
+
+<main id="content">
+  <div id="status">Chargement des résultats…</div>
+</main>
+
+<script>
+async function charger() {
+  const contenu = document.getElementById("content");
+  const meta = document.getElementById("meta");
+  try {
+    const res = await fetch("data/latest.json?_=" + Date.now());
+    if (!res.ok) throw new Error("Fichier de résultats introuvable");
+    const data = await res.json();
+
+    const date = new Date(data.generated_at);
+    meta.textContent = `Dernière mise à jour : ${date.toLocaleString("fr-FR")} · ${data.nb_matchs} match(s) analysé(s)`;
+
+    if (data.erreur) {
+      contenu.innerHTML = `<div class="card"><span class="empty">Erreur lors de la dernière exécution : ${data.erreur}</span></div>`;
+      return;
+    }
+
+    if (!data.matchs || data.matchs.length === 0) {
+      contenu.innerHTML = `<div class="card"><span class="empty">Aucun match exploitable pour le moment.</span></div>`;
+      return;
+    }
+
+    contenu.innerHTML = data.matchs.map(renderMatch).join("");
+  } catch (e) {
+    contenu.innerHTML = `<div id="status">Impossible de charger les résultats (${e.message}).<br>Vérifie que le workflow GitHub Actions a bien tourné au moins une fois.</div>`;
+  }
+}
+
+function renderMatch(m) {
+  const a = m.modele_a
+    ? `<div class="bet-line">🟩 ${m.modele_a.pari} @ ${m.modele_a.cote}<br><span class="empty">Indice fixe : ${m.modele_a.indice_fixe}%</span></div>`
+    : `<div class="bet-line empty">Aucun signal</div>`;
+
+  let b;
+  if (m.modele_b && m.modele_b.value_bets && m.modele_b.value_bets.length > 0) {
+    b = m.modele_b.value_bets.map(v => `
+      <div class="bet-line">
+        🟩 ${v.marche} @ ${v.cote}
+        <span class="pill ev-pos">EV ${v.ev_pct > 0 ? "+" : ""}${v.ev_pct}%</span>
+        <br><span class="empty">Proba modèle : ${v.probabilite_modele}%</span>
+      </div>`).join("");
+  } else if (m.modele_b) {
+    b = `<div class="bet-line empty">Aucune value détectée (EV positive)</div>`;
+  } else {
+    b = `<div class="bet-line empty">Données insuffisantes</div>`;
+  }
+
+  const divergence = m.modele_b && m.modele_b.divergence_pinnacle_public_pct !== null && m.modele_b.divergence_pinnacle_public_pct !== undefined
+    ? `<div class="empty" style="margin-top:6px;">Écart Pinnacle/public : ${m.modele_b.divergence_pinnacle_public_pct > 0 ? "+" : ""}${m.modele_b.divergence_pinnacle_public_pct} pts</div>`
+    : "";
+
+  return `
+    <div class="card">
+      <div class="match-title">${m.match}</div>
+      <div class="comp">${m.competition}${m.pinnacle_disponible ? "" : " · Pinnacle indisponible"}</div>
+      <div class="row">
+        <div>
+          <div class="col-title">Modèle A · heuristique</div>
+          ${a}
+        </div>
+        <div>
+          <div class="col-title">Modèle B · EV réel</div>
+          ${b}
+          ${divergence}
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+charger();
+</script>
+
+</body>
+  </html>
