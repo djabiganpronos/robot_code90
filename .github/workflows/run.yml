@@ -1,0 +1,40 @@
+name: Robot Code 90 - Analyse et publication
+
+on:
+  schedule:
+    # Toutes les 6 heures (UTC). Ajuste selon ton quota API et tes besoins.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write   # nécessaire pour committer les résultats dans le dépôt
+
+jobs:
+  run-analyse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installation des dépendances
+        run: pip install -r requirements.txt
+
+      - name: Exécution du script d'analyse
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          APIFOOTBALL_KEY: ${{ secrets.APIFOOTBALL_KEY }}
+        run: python scripts/code90.py
+
+      - name: Publication des résultats (commit automatique)
+        run: |
+          git config user.name "robot-code90-bot"
+          git config user.email "actions@github.com"
+          git add docs/data/latest.json docs/data/history.csv
+          git diff --staged --quiet || git commit -m "Mise à jour automatique des résultats [skip ci]"
+          git push
