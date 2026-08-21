@@ -1,62 +1,8 @@
 {
-  "generated_at": "2026-08-21T08:48:52.067199+00:00",
+  "generated_at": "2026-08-21T14:06:16.564060+00:00",
   "erreur": null,
   "nb_matchs": 7,
   "matchs": [
-    {
-      "match": "Kashiwa Reysol vs V-Varen Nagasaki",
-      "competition": "J League",
-      "commence_time": "2026-08-21T10:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE KASHIWA REYSOL",
-        "cote": 1.46,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 1.96,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": 1.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 49.4,
-            "ev_pct": 0.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Tokyo vs JEF United Chiba",
-      "competition": "J League",
-      "commence_time": "2026-08-21T10:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 52.5,
-            "ev_pct": 4.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Données de forme indisponibles (plan gratuit limité ou compétition non couverte)"
-      }
-    },
     {
       "match": "Waldhof Mannheim vs 1. FC Kaiserslautern",
       "competition": "DFB-Pokal",
@@ -68,7 +14,7 @@
       },
       "modele_b": {
         "lambda_domicile": 1.48,
-        "lambda_exterieur": 1.82,
+        "lambda_exterieur": 1.8,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -78,15 +24,11 @@
       "match": "Al-Riyadh vs Al-Nassr",
       "competition": "Saudi Pro League",
       "commence_time": "2026-08-21T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
         "lambda_domicile": 0.94,
-        "lambda_exterieur": 2.82,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_exterieur": 2.78,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -103,9 +45,9 @@
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.09,
+            "cote": 2.1,
             "probabilite_modele": 48.6,
-            "ev_pct": 1.5
+            "ev_pct": 2.2
           }
         ]
       },
@@ -124,8 +66,8 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.94,
+        "lambda_domicile": 1.34,
+        "lambda_exterieur": 1.96,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -147,6 +89,40 @@
         "value_bets": []
       },
       "pinnacle_disponible": false
+    },
+    {
+      "match": "Union Berlin vs Bayern Munich",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-08-21T16:20:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.82,
+        "lambda_exterieur": 2.92,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "IK Sirius vs BK Hacken",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-08-21T17:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE IK SIRIUS",
+        "cote": 1.75,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.22,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
