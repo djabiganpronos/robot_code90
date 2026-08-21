@@ -1,0 +1,152 @@
+{
+  "generated_at": "2026-08-21T08:48:52.067199+00:00",
+  "erreur": null,
+  "nb_matchs": 7,
+  "matchs": [
+    {
+      "match": "Kashiwa Reysol vs V-Varen Nagasaki",
+      "competition": "J League",
+      "commence_time": "2026-08-21T10:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KASHIWA REYSOL",
+        "cote": 1.46,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 49.4,
+            "ev_pct": 0.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Tokyo vs JEF United Chiba",
+      "competition": "J League",
+      "commence_time": "2026-08-21T10:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.78,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 52.5,
+            "ev_pct": 4.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Données de forme indisponibles (plan gratuit limité ou compétition non couverte)"
+      }
+    },
+    {
+      "match": "Waldhof Mannheim vs 1. FC Kaiserslautern",
+      "competition": "DFB-Pokal",
+      "commence_time": "2026-08-21T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.82,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Al-Riyadh vs Al-Nassr",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-08-21T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.94,
+        "lambda_exterieur": 2.82,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "SJK Seinäjoki vs FC Lahti",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-08-21T16:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": -1.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 48.6,
+            "ev_pct": 1.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "SC Preußen Münster vs Karlsruher SC",
+      "competition": "DFB-Pokal",
+      "commence_time": "2026-08-21T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.36,
+        "lambda_exterieur": 1.94,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Al-Hazem vs Diriyah Club",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-08-21T16:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    }
+  ]
+}
