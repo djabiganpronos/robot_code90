@@ -120,25 +120,418 @@ async function charger() {
     const data = await res.json();
 
     const date = new Date(data.generated_at);
-    meta.textContent = `Dernière mise à jour : ${date.toLocaleString("fr-FR")} · ${data.nb_matchs} match(s) analysé(s)`;
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Robot Code 90 — Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0b120f;
+    --panel: #121b16;
+    --panel-hi: #16211a;
+    --border: #233029;
+    --ink: #eef2ee;
+    --mute: #8a9690;
+    --gold: #d4a441;
+    --gold-dim: rgba(212,164,65,0.14);
+    --live: #e2574c;
+    --live-dim: rgba(226,87,76,0.14);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    background-image:
+      radial-gradient(ellipse 900px 500px at 20% -10%, rgba(212,164,65,0.06), transparent 60%);
+    color: var(--ink);
+    font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+    padding-bottom: 64px;
+  }
+  .mono { font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+
+  /* -------- barre supérieure -------- */
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: rgba(11,18,15,0.92);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 16px 14px;
+  }
+  .topbar-inner { max-width: 900px; margin: 0 auto; }
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 3px;
+  }
+  h1 {
+    font-size: 1.32rem;
+    font-weight: 700;
+    margin: 0 0 8px;
+    letter-spacing: -0.01em;
+  }
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  #meta { color: var(--mute); font-size: 0.78rem; }
+  #meta .mono { color: var(--mute); }
+  .run-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.03em;
+    color: var(--gold);
+    text-decoration: none;
+    border: 1px solid rgba(212,164,65,0.4);
+    border-radius: 7px;
+    padding: 6px 11px;
+    white-space: nowrap;
+  }
+  .run-link:active { background: var(--gold-dim); }
+
+  /* -------- contenu -------- */
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 18px 16px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .day-divider {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 6px 0 -4px;
+    color: var(--mute);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .day-divider::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 16px 14px;
+    position: relative;
+    overflow: hidden;
+  }
+  .card.has-value { border-color: rgba(212,164,65,0.35); }
+
+  .card-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .match-title {
+    font-weight: 600;
+    font-size: 1.03rem;
+    line-height: 1.25;
+  }
+  .comp {
+    color: var(--mute);
+    font-size: 0.78rem;
+    margin-top: 2px;
+  }
+  .kickoff {
+    text-align: right;
+    flex-shrink: 0;
+  }
+  .kickoff-time {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+  .status-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-top: 3px;
+    padding: 2px 7px;
+    border-radius: 999px;
+  }
+  .status-pill.upcoming { color: var(--mute); background: rgba(138,150,144,0.12); }
+  .status-pill.live { color: var(--live); background: var(--live-dim); }
+  .status-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: currentColor;
+  }
+  .status-pill.live .status-dot { animation: pulse 1.6s ease-in-out infinite; }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+  }
+
+  .value-badge {
+    position: absolute;
+    top: 0; right: 0;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: #1a1408;
+    background: var(--gold);
+    padding: 4px 10px 4px 12px;
+    border-bottom-left-radius: 10px;
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid var(--border);
+  }
+  @media (max-width: 560px) {
+    .row { grid-template-columns: 1fr; gap: 12px; }
+  }
+  .col-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--mute);
+    margin-bottom: 7px;
+  }
+  .bet-line {
+    font-size: 0.88rem;
+    padding: 7px 0;
+    border-top: 1px solid var(--border);
+  }
+  .bet-line:first-of-type { border-top: none; padding-top: 0; }
+  .bet-market { font-weight: 500; }
+  .bet-odds { font-family: 'IBM Plex Mono', monospace; color: var(--mute); }
+  .ev-tag {
+    display: inline-block;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 1px 7px;
+    border-radius: 5px;
+    margin-left: 6px;
+    background: var(--gold-dim);
+    color: var(--gold);
+  }
+  .sub-line {
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--mute);
+    font-size: 0.74rem;
+    margin-top: 2px;
+  }
+  .empty { color: var(--mute); font-size: 0.85rem; font-style: italic; }
+  .divergence {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--mute);
+    margin-top: 8px;
+  }
+
+  #status {
+    text-align: center;
+    color: var(--mute);
+    padding: 60px 20px;
+    max-width: 500px;
+    margin: 0 auto;
+    font-size: 0.9rem;
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="eyebrow">Analyse pré-match · Modèle A / Modèle B</div>
+    <h1>⚽ Robot Code 90</h1>
+    <div class="meta-row">
+      <div id="meta">Chargement…</div>
+      <a class="run-link" id="run-link" href="#" target="_blank" rel="noopener">↻ Lancer une analyse</a>
+    </div>
+  </div>
+</div>
+
+<main id="content">
+  <div id="status">Chargement des résultats…</div>
+</main>
+
+<script>
+// Renseigne ce lien une fois : owner/repo GitHub (visible dans l'URL de ton dépôt)
+const GITHUB_OWNER = "djabiganpronos";
+const GITHUB_REPO = "robot_code90";
+document.getElementById("run-link").href =
+  `https://github.com/${GITHUB_OWNER}/${GITHUB_REPO}/actions/workflows/run.yml`;
+
+const DUREE_MATCH_MIN = 130; // marge pour considérer un match "terminé" à défaut de score live réel
+
+async function charger() {
+  const contenu = document.getElementById("content");
+  const meta = document.getElementById("meta");
+  try {
+    const res = await fetch("data/latest.json?_=" + Date.now());
+    if (!res.ok) throw new Error("Fichier de résultats introuvable");
+    const data = await res.json();
+
+    const genere = new Date(data.generated_at);
+    meta.innerHTML = `Mis à jour <span class="mono">${genere.toLocaleString("fr-FR", {day:"2-digit", month:"2-digit", hour:"2-digit", minute:"2-digit"})}</span> · ${data.nb_matchs} match(s)`;
 
     if (data.erreur) {
-      contenu.innerHTML = `<div class="card"><span class="empty">Erreur lors de la dernière exécution : ${data.erreur}</span></div>`;
+      contenu.innerHTML = `<div id="status">Erreur lors de la dernière exécution :<br><span class="mono">${escapeHtml(data.erreur)}</span></div>`;
       return;
     }
-
     if (!data.matchs || data.matchs.length === 0) {
-      contenu.innerHTML = `<div class="card"><span class="empty">Aucun match exploitable pour le moment.</span></div>`;
+      contenu.innerHTML = `<div id="status">Aucun match exploitable pour le moment.</div>`;
       return;
     }
 
-    contenu.innerHTML = data.matchs.map(renderMatch).join("");
+    let html = "";
+    let dernierJour = null;
+    const maintenant = new Date();
+
+    data.matchs.forEach(m => {
+      if (m.commence_time) {
+        const jourLabel = libelleJour(new Date(m.commence_time), maintenant);
+        if (jourLabel !== dernierJour) {
+          html += `<div class="day-divider">${jourLabel}</div>`;
+          dernierJour = jourLabel;
+        }
+      }
+      html += renderMatch(m, maintenant);
+    });
+
+    contenu.innerHTML = html;
   } catch (e) {
-    contenu.innerHTML = `<div id="status">Impossible de charger les résultats (${e.message}).<br>Vérifie que le workflow GitHub Actions a bien tourné au moins une fois.</div>`;
+    contenu.innerHTML = `<div id="status">Impossible de charger les résultats (${escapeHtml(e.message)}).<br>Vérifie que le workflow GitHub Actions a bien tourné au moins une fois.</div>`;
   }
 }
 
-function renderMatch(m) {
+function libelleJour(date, maintenant) {
+  const unJour = 86400000;
+  const j1 = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+  const j0 = new Date(maintenant.getFullYear(), maintenant.getMonth(), maintenant.getDate());
+  const diff = Math.round((j1 - j0) / unJour);
+  if (diff === 0) return "Aujourd'hui";
+  if (diff === 1) return "Demain";
+  return date.toLocaleDateString("fr-FR", { weekday: "long", day: "2-digit", month: "2-digit" });
+}
+
+function statutMatch(commenceTime, maintenant) {
+  if (!commenceTime) return { classe: "upcoming", label: "Horaire inconnu" };
+  const debut = new Date(commenceTime);
+  const finEstimee = new Date(debut.getTime() + DUREE_MATCH_MIN * 60000);
+  if (maintenant < debut) {
+    return { classe: "upcoming", label: "À venir" };
+  } else if (maintenant < finEstimee) {
+    return { classe: "live", label: "En cours (estimé)" };
+  }
+  return { classe: "upcoming", label: "Terminé (estimé)" };
+}
+
+function renderMatch(m, maintenant) {
+  const heure = m.commence_time
+    ? new Date(m.commence_time).toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" })
+    : "—";
+  const statut = statutMatch(m.commence_time, maintenant);
+
+  const a = m.modele_a
+    ? `<div class="bet-line">
+         <span class="bet-market">${escapeHtml(m.modele_a.pari)}</span>
+         <span class="bet-odds">@ ${m.modele_a.cote}</span>
+         <div class="sub-line">indice fixe : ${m.modele_a.indice_fixe}%</div>
+       </div>`
+    : `<div class="bet-line empty">Aucun signal</div>`;
+
+  let b, nbValueBets = 0;
+  if (m.modele_b && m.modele_b.value_bets && m.modele_b.value_bets.length > 0) {
+    nbValueBets = m.modele_b.value_bets.length;
+    b = m.modele_b.value_bets.map(v => `
+      <div class="bet-line">
+        <span class="bet-market">${escapeHtml(v.marche)}</span>
+        <span class="bet-odds">@ ${v.cote}</span>
+        <span class="ev-tag">EV ${v.ev_pct > 0 ? "+" : ""}${v.ev_pct}%</span>
+        <div class="sub-line">proba modèle : ${v.probabilite_modele}%</div>
+      </div>`).join("");
+  } else if (m.modele_b) {
+    b = `<div class="bet-line empty">Aucune value détectée</div>`;
+  } else {
+    b = `<div class="bet-line empty">Données insuffisantes</div>`;
+  }
+
+  const divergence = (m.modele_b && m.modele_b.divergence_pinnacle_public_pct !== null && m.modele_b.divergence_pinnacle_public_pct !== undefined)
+    ? `<div class="divergence">Écart Pinnacle/public : ${m.modele_b.divergence_pinnacle_public_pct > 0 ? "+" : ""}${m.modele_b.divergence_pinnacle_public_pct} pts</div>`
+    : "";
+
+  const badgeValue = nbValueBets > 0
+    ? `<div class="value-badge">🎯 ${nbValueBets} value${nbValueBets > 1 ? "s" : ""}</div>`
+    : "";
+
+  return `
+    <div class="card ${nbValueBets > 0 ? "has-value" : ""}">
+      ${badgeValue}
+      <div class="card-head">
+        <div>
+          <div class="match-title">${escapeHtml(m.match)}</div>
+          <div class="comp">${escapeHtml(m.competition)}${m.pinnacle_disponible ? "" : " · Pinnacle indisponible"}</div>
+        </div>
+        <div class="kickoff">
+          <div class="kickoff-time mono">${heure}</div>
+          <div class="status-pill ${statut.classe}"><span class="status-dot"></span>${statut.label}</div>
+        </div>
+      </div>
+      <div class="row">
+        <div>
+          <div class="col-title">Modèle A · heuristique</div>
+          ${a}
+        </div>
+        <div>
+          <div class="col-title">Modèle B · EV réel</div>
+          ${b}
+          ${divergence}
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function escapeHtml(str) {
+  const d = document.createElement("div");
+  d.textContent = str;
+  return d.innerHTML;
+}
+
+charger();
+</script>
+
+</body>
+</html>
+ renderMatch(m) {
   const a = m.modele_a
     ? `<div class="bet-line">🟩 ${m.modele_a.pari} @ ${m.modele_a.cote}<br><span class="empty">Indice fixe : ${m.modele_a.indice_fixe}%</span></div>`
     : `<div class="bet-line empty">Aucun signal</div>`;
