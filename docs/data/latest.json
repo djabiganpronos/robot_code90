@@ -1,168 +1,76 @@
 {
-  "generated_at": "2026-08-20T23:21:51.154168+00:00",
+  "generated_at": "2026-08-21T00:57:59.878846+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 11,
   "matchs": [
-    {
-      "match": "LDU Quito vs Mirassol",
-      "competition": "Copa Libertadores",
-      "modele_a": {
-        "pari": "PLUS DE 0.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.6,
-        "lambda_exterieur": 0.25,
-        "divergence_pinnacle_public_pct": 3.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 0.5 BUTS",
-            "cote": 1.93,
-            "probabilite_modele": 55.8,
-            "ev_pct": 7.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Macará vs Santos",
-      "competition": "Copa Sudamericana",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.62,
-        "lambda_exterieur": 0.19,
-        "divergence_pinnacle_public_pct": 6.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 0.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 48.9,
-            "ev_pct": 6.1
-          },
-          {
-            "marche": "VICTOIRE MACARÁ",
-            "cote": 2.53,
-            "probabilite_modele": 41.5,
-            "ev_pct": 5.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Olimpia Asunción vs Vasco da Gama",
-      "competition": "Copa Sudamericana",
-      "modele_a": {
-        "pari": "VICTOIRE VASCO DA GAMA",
-        "cote": 1.56,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.64,
-        "lambda_exterieur": 2.88,
-        "divergence_pinnacle_public_pct": 2.4,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE OLIMPIA ASUNCIÓN",
-            "cote": 8.76,
-            "probabilite_modele": 16.5,
-            "ev_pct": 44.2
-          },
-          {
-            "marche": "MOINS DE 4.0 BUTS",
-            "cote": 2.35,
-            "probabilite_modele": 52.0,
-            "ev_pct": 22.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Athletic Club (MG) vs Clube de Regatas Brasil",
-      "competition": "Brazil Série B",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.68,
-        "lambda_exterieur": 1.78,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE ATHLETIC CLUB (MG)",
-            "cote": 8.37,
-            "probabilite_modele": 12.6,
-            "ev_pct": 5.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Grêmio Novorizontino vs América Mineiro",
       "competition": "Brazil Série B",
+      "commence_time": "2026-08-20T23:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE GRÊMIO NOVORIZONTINO",
-        "cote": 1.56,
-        "indice_fixe": 78
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.86,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 0.05,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.25 BUTS",
+            "marche": "NUL",
+            "cote": 7.42,
+            "probabilite_modele": 18.2,
+            "ev_pct": 35.0
+          },
+          {
+            "marche": "PLUS DE 1.5 BUTS",
             "cote": 2.01,
-            "probabilite_modele": 50.1,
-            "ev_pct": 0.8
+            "probabilite_modele": 50.4,
+            "ev_pct": 1.3
+          },
+          {
+            "marche": "MOINS DE 1.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 49.6,
+            "ev_pct": 0.3
           }
         ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": false
     },
     {
       "match": "Botafogo vs Club Cienciano",
       "competition": "Copa Sudamericana",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 3.04,
-        "lambda_exterieur": 0.66,
-        "divergence_pinnacle_public_pct": -0.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.4,
-            "probabilite_modele": 49.5,
-            "ev_pct": 18.6
-          }
-        ]
+      "commence_time": "2026-08-21T00:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 3.28,
+        "lambda_exterieur": 0.32,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
     },
     {
       "match": "Corinthians-SP vs Rosario Central",
       "competition": "Copa Libertadores",
+      "commence_time": "2026-08-21T00:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 0.96,
-        "lambda_exterieur": 0.68,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.0,
+        "lambda_exterieur": 0.62,
+        "divergence_pinnacle_public_pct": 3.2,
         "value_bets": [
           {
             "marche": "PLUS DE 1.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 48.9,
-            "ev_pct": 1.5
+            "cote": 2.2,
+            "probabilite_modele": 48.7,
+            "ev_pct": 7.3
           }
         ]
       },
@@ -171,6 +79,7 @@
     {
       "match": "Kashiwa Reysol vs V-Varen Nagasaki",
       "competition": "J League",
+      "commence_time": "2026-08-21T10:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
@@ -179,13 +88,13 @@
       "modele_b": {
         "lambda_domicile": 1.76,
         "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 0.4,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 1.94,
             "probabilite_modele": 52.5,
-            "ev_pct": 2.0
+            "ev_pct": 1.9
           }
         ]
       },
@@ -194,6 +103,7 @@
     {
       "match": "FC Tokyo vs JEF United Chiba",
       "competition": "J League",
+      "commence_time": "2026-08-21T10:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE FC TOKYO",
         "cote": 1.54,
@@ -202,7 +112,7 @@
       "modele_b": {
         "lambda_domicile": 1.9,
         "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 0.4,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -210,6 +120,7 @@
     {
       "match": "Waldhof Mannheim vs 1. FC Kaiserslautern",
       "competition": "DFB-Pokal",
+      "commence_time": "2026-08-21T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.6,
@@ -226,6 +137,7 @@
     {
       "match": "Al-Riyadh vs Al-Nassr",
       "competition": "Saudi Pro League",
+      "commence_time": "2026-08-21T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.81,
@@ -249,6 +161,7 @@
     {
       "match": "SJK Seinäjoki vs FC Lahti",
       "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-08-21T16:00:00Z",
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.36,
@@ -260,6 +173,64 @@
             "cote": 2.08,
             "probabilite_modele": 48.2,
             "ev_pct": 0.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "SC Preußen Münster vs Karlsruher SC",
+      "competition": "DFB-Pokal",
+      "commence_time": "2026-08-21T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.59,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.86,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Al-Hazem vs Diriyah Club",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-08-21T16:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Union Berlin vs Bayern Munich",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-08-21T16:20:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.78,
+        "lambda_exterieur": 2.8,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 52.0,
+            "ev_pct": 2.5
           }
         ]
       },
