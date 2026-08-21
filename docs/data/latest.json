@@ -1,98 +1,27 @@
 {
-  "generated_at": "2026-08-21T01:07:31.638036+00:00",
+  "generated_at": "2026-08-21T03:31:40.744099+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Grêmio Novorizontino vs América Mineiro",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-08-20T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 2.94,
-            "probabilite_modele": 50.7,
-            "ev_pct": 49.3
-          },
-          {
-            "marche": "NUL",
-            "cote": 8.05,
-            "probabilite_modele": 17.8,
-            "ev_pct": 43.6
-          }
-        ]
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Botafogo vs Club Cienciano",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-08-21T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.14,
-        "lambda_exterieur": 0.38,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Corinthians-SP vs Rosario Central",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-08-21T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.9,
-        "lambda_exterieur": 0.62,
-        "divergence_pinnacle_public_pct": 1.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 2.35,
-            "probabilite_modele": 46.5,
-            "ev_pct": 9.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Kashiwa Reysol vs V-Varen Nagasaki",
       "competition": "J League",
       "commence_time": "2026-08-21T10:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
+        "pari": "VICTOIRE KASHIWA REYSOL",
+        "cote": 1.58,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 1.78,
+        "lambda_exterieur": 0.8,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.94,
-            "probabilite_modele": 52.4,
-            "ev_pct": 1.8
+            "cote": 1.95,
+            "probabilite_modele": 52.3,
+            "ev_pct": 1.7
           }
         ]
       },
@@ -103,14 +32,14 @@
       "competition": "J League",
       "commence_time": "2026-08-21T10:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FC TOKYO",
-        "cote": 1.54,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.9,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 1.94,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -144,13 +73,13 @@
       "modele_b": {
         "lambda_domicile": 0.88,
         "lambda_exterieur": 2.68,
-        "divergence_pinnacle_public_pct": -0.4,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.93,
+            "cote": 1.92,
             "probabilite_modele": 52.4,
-            "ev_pct": 1.3
+            "ev_pct": 0.7
           }
         ]
       },
@@ -170,7 +99,7 @@
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.08,
             "probabilite_modele": 48.2,
-            "ev_pct": 0.2
+            "ev_pct": 0.3
           }
         ]
       },
@@ -222,7 +151,7 @@
       "modele_b": {
         "lambda_domicile": 0.78,
         "lambda_exterieur": 2.8,
-        "divergence_pinnacle_public_pct": 0.6,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
