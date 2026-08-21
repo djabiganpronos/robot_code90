@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T03:31:40.744099+00:00",
+  "generated_at": "2026-08-21T08:04:17.342047+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 7,
   "matchs": [
     {
       "match": "Kashiwa Reysol vs V-Varen Nagasaki",
@@ -9,19 +9,19 @@
       "commence_time": "2026-08-21T10:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE KASHIWA REYSOL",
-        "cote": 1.58,
-        "indice_fixe": 78
+        "cote": 1.48,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 1.1,
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 0.76,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 52.3,
-            "ev_pct": 1.7
+            "cote": 2.01,
+            "probabilite_modele": 50.1,
+            "ev_pct": 0.7
           }
         ]
       },
@@ -32,15 +32,22 @@
       "competition": "J League",
       "commence_time": "2026-08-21T10:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
-        "indice_fixe": 78
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": 0.8,
-        "value_bets": []
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 0.78,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 52.5,
+            "ev_pct": 3.2
+          }
+        ]
       },
       "pinnacle_disponible": true
     },
@@ -66,22 +73,15 @@
       "competition": "Saudi Pro League",
       "commence_time": "2026-08-21T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.88,
-        "lambda_exterieur": 2.68,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 52.4,
-            "ev_pct": 0.7
-          }
-        ]
+        "lambda_domicile": 0.94,
+        "lambda_exterieur": 2.82,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": []
       },
       "pinnacle_disponible": true
     },
@@ -91,15 +91,15 @@
       "commence_time": "2026-08-21T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.38,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
             "cote": 2.08,
             "probabilite_modele": 48.2,
-            "ev_pct": 0.3
+            "ev_pct": 0.4
           }
         ]
       },
@@ -115,8 +115,8 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.86,
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.88,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -138,30 +138,6 @@
         "value_bets": []
       },
       "pinnacle_disponible": false
-    },
-    {
-      "match": "Union Berlin vs Bayern Munich",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-08-21T16:20:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.78,
-        "lambda_exterieur": 2.8,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.97,
-            "probabilite_modele": 52.0,
-            "ev_pct": 2.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true
     }
   ]
 }
