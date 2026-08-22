@@ -1,133 +1,33 @@
 {
-  "generated_at": "2026-08-22T03:08:07.725666+00:00",
+  "generated_at": "2026-08-22T07:45:36.533360+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "León vs Monterrey",
-      "competition": "Liga MX",
-      "commence_time": "2026-08-22T01:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.68,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 9.57,
-            "probabilite_modele": 50.2,
-            "ev_pct": 380.5
-          },
-          {
-            "marche": "NUL",
-            "cote": 36.6,
-            "probabilite_modele": 7.4,
-            "ev_pct": 171.8
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Tigres vs Atlante FC",
-      "competition": "Liga MX",
-      "commence_time": "2026-08-22T01:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.25,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 26.7,
-            "probabilite_modele": 13.9,
-            "ev_pct": 271.8
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 10.5,
-            "probabilite_modele": 29.1,
-            "ev_pct": 205.2
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Données de forme indisponibles (plan gratuit limité ou compétition non couverte)"
-      }
-    },
-    {
-      "match": "FC Juárez vs América",
-      "competition": "Liga MX",
-      "commence_time": "2026-08-22T03:10:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE AMÉRICA",
-        "cote": 1.68,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.92,
-        "lambda_exterieur": 1.78,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Querétaro vs Toluca",
-      "competition": "Liga MX",
-      "commence_time": "2026-08-22T03:10:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 53.0,
-            "ev_pct": 15.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Kashima Antlers vs Avispa Fukuoka",
       "competition": "J League",
       "commence_time": "2026-08-22T09:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.78,
-        "lambda_exterieur": 0.98,
-        "divergence_pinnacle_public_pct": 1.1,
+        "lambda_domicile": 1.7,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 52.9,
-            "ev_pct": 15.5
+            "cote": 2.19,
+            "probabilite_modele": 52.3,
+            "ev_pct": 14.6
+          },
+          {
+            "marche": "VICTOIRE AVISPA FUKUOKA",
+            "cote": 4.66,
+            "probabilite_modele": 21.6,
+            "ev_pct": 0.5
           }
         ]
       },
@@ -140,14 +40,28 @@
       "match": "Fagiano Okayama vs Tokyo Verdy",
       "competition": "J League",
       "commence_time": "2026-08-22T09:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.02,
-        "lambda_exterieur": 0.68,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": []
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 1.7,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.96,
+            "probabilite_modele": 52.4,
+            "ev_pct": 3.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Données de forme indisponibles (plan gratuit limité ou compétition non couverte)"
+      }
     },
     {
       "match": "Eintracht Frankfurt vs 1. FC Köln",
@@ -161,7 +75,7 @@
       "modele_b": {
         "lambda_domicile": 2.5,
         "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": -0.3,
+        "divergence_pinnacle_public_pct": -0.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -172,9 +86,9 @@
       "commence_time": "2026-08-22T10:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.48,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": -1.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -183,15 +97,11 @@
       "match": "Nagoya Grampus vs Gamba Osaka",
       "competition": "J League",
       "commence_time": "2026-08-22T10:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -200,23 +110,81 @@
       "match": "Kyoto Purple Sanga vs Mito HollyHock",
       "competition": "J League",
       "commence_time": "2026-08-22T10:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 49.6,
-            "ev_pct": 1.1
+            "cote": 2.03,
+            "probabilite_modele": 52.0,
+            "ev_pct": 5.5
           }
         ]
       },
       "pinnacle_disponible": true,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Hiroshima Sanfrecce FC vs Kawasaki Frontale",
+      "competition": "J League",
+      "commence_time": "2026-08-22T10:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.36,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 1.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 52.6,
+            "ev_pct": 12.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Bucheon FC 1995 vs Pohang Steelers",
+      "competition": "K League 1",
+      "commence_time": "2026-08-22T10:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": -0.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.21,
+            "probabilite_modele": 47.1,
+            "ev_pct": 4.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Données de forme indisponibles (plan gratuit limité ou compétition non couverte)"
       }
     }
   ]
