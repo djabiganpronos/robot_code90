@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-08-23T07:47:34.148069+00:00",
+  "generated_at": "2026-08-23T11:26:53.509486+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 19,
   "matchs": [
     {
       "match": "FC Akron Tolyatti vs Kryliya Sovetov",
       "competition": "Premier League - Russia",
       "commence_time": "2026-08-23T10:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "VICTOIRE KRYLIYA SOVETOV",
+        "cote": 1.46,
+        "indice_fixe": 84
+      },
       "modele_b": {
-        "lambda_domicile": 1.3,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 0.76,
+        "lambda_exterieur": 1.94,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.4,
-            "ev_pct": 3.0
+            "marche": "VICTOIRE FC AKRON TOLYATTI",
+            "cote": 8.5,
+            "probabilite_modele": 12.5,
+            "ev_pct": 6.2
           }
         ]
       },
@@ -31,37 +35,65 @@
       "competition": "Denmark Superliga",
       "commence_time": "2026-08-23T10:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FC NORDSJAELLAND",
-        "cote": 1.76,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 88
       },
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 2.22,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": []
+        "lambda_domicile": 0.44,
+        "lambda_exterieur": 2.12,
+        "divergence_pinnacle_public_pct": 4.2,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE SONDERJYSKE",
+            "cote": 107.36,
+            "probabilite_modele": 5.8,
+            "ev_pct": 517.4
+          },
+          {
+            "marche": "NUL",
+            "cote": 19.75,
+            "probabilite_modele": 17.3,
+            "ev_pct": 242.3
+          },
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.28,
+            "probabilite_modele": 52.7,
+            "ev_pct": 19.9
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Go Ahead Eagles vs ADO Den Haag",
       "competition": "Dutch Eredivisie",
       "commence_time": "2026-08-23T10:15:00Z",
       "modele_a": {
-        "pari": "VICTOIRE GO AHEAD EAGLES",
-        "cote": 1.72,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.22,
-        "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": -0.0,
+        "lambda_domicile": 2.12,
+        "lambda_exterieur": 0.64,
+        "divergence_pinnacle_public_pct": -1.7,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 51.8,
-            "ev_pct": 11.4
+            "marche": "VICTOIRE ADO DEN HAAG",
+            "cote": 12.75,
+            "probabilite_modele": 9.0,
+            "ev_pct": 14.3
+          },
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.97,
+            "probabilite_modele": 52.4,
+            "ev_pct": 3.4
           }
         ]
       },
@@ -74,17 +106,21 @@
       "match": "Daejeon Citizen vs Gangwon FC",
       "competition": "K League 1",
       "commence_time": "2026-08-23T10:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.3,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 0.36,
+        "divergence_pinnacle_public_pct": 2.0,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 50.4,
-            "ev_pct": 6.9
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 47.1,
+            "ev_pct": 0.7
           }
         ]
       },
@@ -97,17 +133,21 @@
       "match": "FC Machida Zelvia vs Urawa Red Diamonds",
       "competition": "J League",
       "commence_time": "2026-08-23T10:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "VICTOIRE FC MACHIDA ZELVIA",
+        "cote": 1.5,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.62,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 2.42,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 26.7,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 51.1,
-            "ev_pct": 4.2
+            "marche": "VICTOIRE FC MACHIDA ZELVIA",
+            "cote": 2.51,
+            "probabilite_modele": 63.8,
+            "ev_pct": 60.2
           }
         ]
       },
@@ -121,20 +161,33 @@
       "competition": "K League 1",
       "commence_time": "2026-08-23T10:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.81,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 0.62,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "West Bromwich Albion vs Burnley",
+      "competition": "Championship",
+      "commence_time": "2026-08-23T11:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.88,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 46.8,
-            "ev_pct": 0.4
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 51.5,
+            "ev_pct": 4.1
           }
         ]
       },
@@ -144,34 +197,272 @@
       }
     },
     {
-      "match": "SSV Jeddeloh vs 1. FC Heidenheim",
-      "competition": "DFB-Pokal",
+      "match": "IK Oddevold vs Helsingborgs IF",
+      "competition": "Superettan - Sweden",
       "commence_time": "2026-08-23T11:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
+        "pari": "VICTOIRE IK ODDEVOLD",
+        "cote": 1.44,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 3.78,
-        "divergence_pinnacle_public_pct": null,
+        "lambda_domicile": 3.02,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": 1.1,
         "value_bets": []
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": true
     },
     {
-      "match": "West Bromwich Albion vs Burnley",
-      "competition": "Championship",
+      "match": "Liaoning Tieren FC vs Henan FC",
+      "competition": "Super League - China",
       "commence_time": "2026-08-23T11:00:00Z",
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.3,
-        "lambda_exterieur": 1.24,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Greuther Fürth vs VfL Bochum",
+      "competition": "DFB-Pokal",
+      "commence_time": "2026-08-23T11:00:02Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 2.22,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE GREUTHER FÜRTH",
+            "cote": 5.77,
+            "probabilite_modele": 18.5,
+            "ev_pct": 6.9
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "SSV Jeddeloh vs 1. FC Heidenheim",
+      "competition": "DFB-Pokal",
+      "commence_time": "2026-08-23T11:00:20Z",
+      "modele_a": {
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.5,
+        "lambda_exterieur": 3.26,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE SSV JEDDELOH",
+            "cote": 8.75,
+            "probabilite_modele": 14.3,
+            "ev_pct": 24.8
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Shanghai SIPG FC vs Qingdao Hainiu FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-08-23T11:35:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.64,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.22,
+            "probabilite_modele": 51.5,
+            "ev_pct": 14.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "AGF Aarhus vs OB Odense BK",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-08-23T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 51.8,
+            "ev_pct": 11.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "BSC Young Boys vs FC Vaduz",
+      "competition": "Swiss Superleague",
+      "commence_time": "2026-08-23T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 88
+      },
+      "modele_b": {
+        "lambda_domicile": 3.2,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 4.5 BUTS",
+            "cote": 2.43,
+            "probabilite_modele": 52.8,
+            "ev_pct": 28.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Chongqing Tonglianglong FC vs Dalian Yingbo",
+      "competition": "Super League - China",
+      "commence_time": "2026-08-23T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.2,
         "divergence_pinnacle_public_pct": 0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "FC Midtjylland vs Randers FC",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-08-23T12:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FC MIDTJYLLAND",
+        "cote": 1.44,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.56,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 51.2,
+            "ev_pct": 5.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "HJK Helsinki vs IF Gnistan",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-08-23T12:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.4,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 52.9,
+            "ev_pct": 4.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "IFK Goteborg vs IF Elfsborg",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-08-23T12:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "KuPS Kuopio vs IFK Mariehamn",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-08-23T12:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KUPS KUOPIO",
+        "cote": 1.36,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.6,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": -1.0,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE IFK MARIEHAMN",
+            "cote": 7.98,
+            "probabilite_modele": 13.4,
+            "ev_pct": 6.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
