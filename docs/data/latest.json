@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T03:32:53.332074+00:00",
+  "generated_at": "2026-08-24T08:26:07.774228+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -25,17 +25,17 @@
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-08-24T16:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.76,
-        "divergence_pinnacle_public_pct": null,
+        "lambda_domicile": 0.9,
+        "lambda_exterieur": 1.86,
+        "divergence_pinnacle_public_pct": -2.3,
         "value_bets": []
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": true
     },
     {
       "match": "SC Verl vs Hamburger SV",
@@ -43,12 +43,12 @@
       "commence_time": "2026-08-24T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.74,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 2.32,
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 2.38,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -60,12 +60,12 @@
       "commence_time": "2026-08-24T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.77,
+        "cote": 1.74,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.84,
-        "lambda_exterieur": 2.94,
+        "lambda_domicile": 0.86,
+        "lambda_exterieur": 2.98,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -77,15 +77,21 @@
       "commence_time": "2026-08-24T16:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.5,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
             "cote": 2.18,
-            "probabilite_modele": 47.7,
-            "ev_pct": 4.1
+            "probabilite_modele": 48.8,
+            "ev_pct": 6.3
+          },
+          {
+            "marche": "VICTOIRE LAZIO",
+            "cote": 3.43,
+            "probabilite_modele": 29.3,
+            "ev_pct": 0.4
           }
         ]
       },
@@ -100,19 +106,19 @@
       "commence_time": "2026-08-24T16:40:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 2.38,
-        "divergence_pinnacle_public_pct": -1.2,
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 2.4,
+        "divergence_pinnacle_public_pct": -1.3,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 51.5,
-            "ev_pct": 14.3
+            "cote": 2.21,
+            "probabilite_modele": 51.4,
+            "ev_pct": 13.8
           }
         ]
       },
@@ -126,41 +132,31 @@
       "competition": "La Liga 2 - Spain",
       "commence_time": "2026-08-24T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.44,
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.56,
         "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.9,
-            "probabilite_modele": 53.1,
-            "ev_pct": 0.7
-          }
-        ]
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Brondby IF vs Silkeborg IF",
       "competition": "Denmark Superliga",
       "commence_time": "2026-08-24T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
+        "pari": "VICTOIRE BRONDBY IF",
+        "cote": 1.46,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 2.42,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 2.44,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
