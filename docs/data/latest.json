@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:26:07.774228+00:00",
+  "generated_at": "2026-08-24T14:25:04.553588+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -13,7 +13,7 @@
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.94,
+        "lambda_domicile": 0.96,
         "lambda_exterieur": 2.52,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
@@ -30,9 +30,9 @@
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.9,
-        "lambda_exterieur": 1.86,
-        "divergence_pinnacle_public_pct": -2.3,
+        "lambda_domicile": 0.84,
+        "lambda_exterieur": 1.94,
+        "divergence_pinnacle_public_pct": -2.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -43,12 +43,12 @@
       "commence_time": "2026-08-24T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.78,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 2.38,
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 2.5,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -60,12 +60,12 @@
       "commence_time": "2026-08-24T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.75,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 2.98,
+        "lambda_domicile": 0.74,
+        "lambda_exterieur": 3.08,
         "divergence_pinnacle_public_pct": null,
         "value_bets": []
       },
@@ -77,28 +77,12 @@
       "commence_time": "2026-08-24T16:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 48.8,
-            "ev_pct": 6.3
-          },
-          {
-            "marche": "VICTOIRE LAZIO",
-            "cote": 3.43,
-            "probabilite_modele": 29.3,
-            "ev_pct": 0.4
-          }
-        ]
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": -0.8,
+        "value_bets": []
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "pinnacle_disponible": true
     },
     {
       "match": "Neom vs Al-Qadsiah",
@@ -106,19 +90,19 @@
       "commence_time": "2026-08-24T16:40:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.83,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 2.4,
-        "divergence_pinnacle_public_pct": -1.3,
+        "lambda_domicile": 1.34,
+        "lambda_exterieur": 2.42,
+        "divergence_pinnacle_public_pct": -1.1,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 51.4,
-            "ev_pct": 13.8
+            "cote": 2.15,
+            "probabilite_modele": 52.1,
+            "ev_pct": 12.0
           }
         ]
       },
@@ -132,17 +116,27 @@
       "competition": "La Liga 2 - Spain",
       "commence_time": "2026-08-24T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.2,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": []
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 52.9,
+            "ev_pct": 1.8
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Brondby IF vs Silkeborg IF",
@@ -150,13 +144,13 @@
       "commence_time": "2026-08-24T17:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE BRONDBY IF",
-        "cote": 1.46,
+        "cote": 1.45,
         "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 2.44,
+        "lambda_domicile": 2.46,
         "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 0.2,
+        "divergence_pinnacle_public_pct": 0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
