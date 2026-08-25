@@ -1,65 +1,8 @@
 {
-  "generated_at": "2026-08-25T08:07:12.344179+00:00",
+  "generated_at": "2026-08-25T14:28:07.743551+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "FC Seoul vs Bucheon FC 1995",
-      "competition": "K League 1",
-      "commence_time": "2026-08-25T10:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE FC SEOUL",
-        "cote": 1.45,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 1.96,
-        "lambda_exterieur": 0.74,
-        "divergence_pinnacle_public_pct": 1.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 49.4,
-            "ev_pct": 0.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Jeju United FC vs Pohang Steelers",
-      "competition": "K League 1",
-      "commence_time": "2026-08-25T10:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.14,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Sangju Sangmu FC vs Jeonbuk Hyundai Motors",
-      "competition": "K League 1",
-      "commence_time": "2026-08-25T10:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.16,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Abha Club vs Al-Khaleej",
       "competition": "Saudi Pro League",
@@ -68,7 +11,7 @@
       "modele_b": {
         "lambda_domicile": 1.34,
         "lambda_exterieur": 1.36,
-        "divergence_pinnacle_public_pct": 1.9,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -79,13 +22,13 @@
       "commence_time": "2026-08-25T16:10:00Z",
       "modele_a": {
         "pari": "VICTOIRE AL-TAAWOUN",
-        "cote": 1.81,
+        "cote": 1.78,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.66,
+        "lambda_domicile": 1.7,
         "lambda_exterieur": 1.02,
-        "divergence_pinnacle_public_pct": -0.6,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -96,15 +39,15 @@
       "commence_time": "2026-08-25T16:45:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.6,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 1.06,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.0,
+            "cote": 2.04,
             "probabilite_modele": 50.9,
-            "ev_pct": 2.0
+            "ev_pct": 3.7
           }
         ]
       },
@@ -118,17 +61,27 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-08-25T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.82,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.34,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": []
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": -1.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.19,
+            "probabilite_modele": 47.3,
+            "ev_pct": 3.7
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Örebro SK vs Varbergs BoIS",
@@ -136,15 +89,82 @@
       "commence_time": "2026-08-25T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 49.6,
-            "ev_pct": 1.6
+            "cote": 2.03,
+            "probabilite_modele": 51.6,
+            "ev_pct": 4.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Al-Ettifaq vs Al-Nassr",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-08-25T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.94,
+        "lambda_exterieur": 2.82,
+        "divergence_pinnacle_public_pct": -0.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Al-Shabab vs Al-Riyadh",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-08-25T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.25,
+            "probabilite_modele": 52.3,
+            "ev_pct": 17.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Cardiff City vs Norwich City",
+      "competition": "EFL Cup",
+      "commence_time": "2026-08-25T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 1.86,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.1,
+            "probabilite_modele": 51.1,
+            "ev_pct": 7.3
           }
         ]
       },
