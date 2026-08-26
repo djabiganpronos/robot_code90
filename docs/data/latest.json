@@ -1,40 +1,53 @@
 {
-  "generated_at": "2026-08-26T08:08:53.258625+00:00",
+  "generated_at": "2026-08-26T14:25:24.727032+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Daejeon Citizen vs Ulsan Hyundai FC",
-      "competition": "K League 1",
-      "commence_time": "2026-08-26T10:30:00Z",
+      "match": "Al-Faisaly KSA FC vs Al-Fateh",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-08-26T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.28,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.3,
+        "lambda_exterieur": 1.4,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "FC Anyang vs Incheon United",
-      "competition": "K League 1",
-      "commence_time": "2026-08-26T10:30:00Z",
+      "match": "Sparta Prague vs Servette FC",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-08-26T16:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.56,
+        "lambda_exterieur": 1.16,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Czarni Sosnowiec vs Leuven",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-08-26T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": -1.8,
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 2.24,
+        "divergence_pinnacle_public_pct": 2.3,
         "value_bets": [
           {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 52.2,
-            "ev_pct": 8.1
+            "marche": "VICTOIRE CZARNI SOSNOWIEC",
+            "cote": 3.98,
+            "probabilite_modele": 25.3,
+            "ev_pct": 0.7
           }
         ]
       },
@@ -44,51 +57,78 @@
       }
     },
     {
-      "match": "Gangwon FC vs Gwangju FC",
-      "competition": "K League 1",
-      "commence_time": "2026-08-26T10:30:00Z",
+      "match": "Eintracht Frankfurt vs Paris Saint Germain",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-08-26T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE GANGWON FC",
-        "cote": 1.54,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 0.8,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.07,
-            "probabilite_modele": 50.4,
-            "ev_pct": 4.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Al-Faisaly KSA FC vs Al-Fateh",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-08-26T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.79,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.3,
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 1.7,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 1.94,
+            "probabilite_modele": 53.3,
+            "ev_pct": 3.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Ajax vs Real Madrid",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-08-26T17:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE REAL MADRID",
+        "cote": 1.35,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 2.52,
         "divergence_pinnacle_public_pct": -1.1,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 53.0,
-            "ev_pct": 3.5
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 51.0,
+            "ev_pct": 4.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Chelsea vs Real Sociedad",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-08-26T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.84,
+        "lambda_exterieur": 0.9,
+        "divergence_pinnacle_public_pct": 1.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.25 BUTS",
+            "cote": 2.3,
+            "probabilite_modele": 48.6,
+            "ev_pct": 11.7
           }
         ]
       },
@@ -102,14 +142,14 @@
       "competition": "Saudi Pro League",
       "commence_time": "2026-08-26T18:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.68,
-        "lambda_exterieur": 0.94,
-        "divergence_pinnacle_public_pct": 2.3,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -130,32 +170,6 @@
         "value_bets": []
       },
       "pinnacle_disponible": false
-    },
-    {
-      "match": "Bradford City vs Burnley",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-26T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Tottenham Hotspur vs Charlton Athletic",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-26T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 2.86,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
     }
   ]
 }
