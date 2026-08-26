@@ -1,784 +1,40 @@
 {
-  "generated_at": "2026-08-25T19:20:26.373991+00:00",
+  "generated_at": "2026-08-26T03:34:39.683377+00:00",
   "erreur": null,
-  "nb_matchs": 32,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Al-Ettifaq vs Al-Nassr",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-08-25T18:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 3.04,
-        "lambda_exterieur": 0.78,
-        "divergence_pinnacle_public_pct": -2.4,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE AL-NASSR",
-            "cote": 20.4,
-            "probabilite_modele": 6.1,
-            "ev_pct": 24.9
-          },
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 53.2,
-            "ev_pct": 3.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Al-Shabab vs Al-Riyadh",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-08-25T18:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 6.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 3.78,
-        "lambda_exterieur": 2.92,
-        "divergence_pinnacle_public_pct": 29.2,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE AL-SHABAB",
-            "cote": 5.03,
-            "probabilite_modele": 50.3,
-            "ev_pct": 153.2
-          },
-          {
-            "marche": "PLUS DE 6.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 51.1,
-            "ev_pct": 13.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Cardiff City vs Norwich City",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE NORWICH CITY",
-        "cote": 1.45,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 0.72,
-        "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": 3.5,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CARDIFF CITY",
-            "cote": 10.73,
-            "probabilite_modele": 12.8,
-            "ev_pct": 37.6
-          },
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.37,
-            "probabilite_modele": 48.3,
-            "ev_pct": 14.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Doncaster Rovers vs Middlesbrough",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.42,
-        "lambda_exterieur": 2.4,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.88,
-            "probabilite_modele": 53.6,
-            "ev_pct": 0.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Plymouth Argyle vs Coventry City",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:44:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.0 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 88
-      },
-      "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 4.0,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE PLYMOUTH ARGYLE",
-            "cote": 16.96,
-            "probabilite_modele": 8.0,
-            "ev_pct": 35.7
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Barnsley vs Crewe Alexandra",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.0 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.9,
-        "lambda_exterieur": 1.5,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CREWE ALEXANDRA",
-            "cote": 13.12,
-            "probabilite_modele": 9.8,
-            "ev_pct": 28.0
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Blackburn Rovers vs Sheffield United",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 2.48,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE BLACKBURN ROVERS",
-            "cote": 5.95,
-            "probabilite_modele": 19.7,
-            "ev_pct": 17.2
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Blackpool vs Lincoln City",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.82,
-        "lambda_exterieur": 0.84,
-        "divergence_pinnacle_public_pct": -1.6,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Cambridge United vs Millwall",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE MILLWALL",
-        "cote": 1.43,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 0.7,
-        "lambda_exterieur": 1.92,
-        "divergence_pinnacle_public_pct": 1.3,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE CAMBRIDGE UNITED",
-            "cote": 8.71,
-            "probabilite_modele": 12.3,
-            "ev_pct": 7.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Fleetwood Town vs Shrewsbury Town",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE FLEETWOOD TOWN",
-        "cote": 1.37,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 2.52,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": -23.6,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE SHREWSBURY TOWN",
-            "cote": 45.33,
-            "probabilite_modele": 12.2,
-            "ev_pct": 451.7
-          },
-          {
-            "marche": "NUL",
-            "cote": 15.49,
-            "probabilite_modele": 19.3,
-            "ev_pct": 198.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Stoke City vs Hull City",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.94,
-        "lambda_exterieur": 0.78,
-        "divergence_pinnacle_public_pct": 5.5,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE STOKE CITY",
-            "cote": 2.78,
-            "probabilite_modele": 38.0,
-            "ev_pct": 5.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Walsall vs Leyton Orient",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.88,
-        "lambda_exterieur": 0.9,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 1.95,
-            "probabilite_modele": 52.6,
-            "ev_pct": 2.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Watford vs Peterborough United",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.98,
-        "lambda_exterieur": 2.78,
-        "divergence_pinnacle_public_pct": 11.8,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE WATFORD",
-            "cote": 8.51,
-            "probabilite_modele": 24.9,
-            "ev_pct": 111.8
-          },
-          {
-            "marche": "NUL",
-            "cote": 5.63,
-            "probabilite_modele": 21.5,
-            "ev_pct": 21.0
-          },
-          {
-            "marche": "PLUS DE 4.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 52.1,
-            "ev_pct": 4.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Stevenage vs Reading",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 2.42,
-        "divergence_pinnacle_public_pct": 10.0,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE STEVENAGE",
-            "cote": 19.38,
-            "probabilite_modele": 17.2,
-            "ev_pct": 233.5
-          },
-          {
-            "marche": "NUL",
-            "cote": 7.72,
-            "probabilite_modele": 22.1,
-            "ev_pct": 70.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Sheffield Wednesday vs Wolverhampton Wanderers",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.4,
-        "lambda_exterieur": 2.2,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 51.8,
-            "ev_pct": 7.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Southampton vs West Ham United",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.62,
-        "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 48.3,
-            "ev_pct": 7.1
-          },
-          {
-            "marche": "VICTOIRE WEST HAM UNITED",
-            "cote": 8.34,
-            "probabilite_modele": 12.6,
-            "ev_pct": 4.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Long Eaton United FC vs AFC Rushden and Diamonds",
-      "competition": "FA Cup",
-      "commence_time": "2026-08-25T18:46:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.46,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Milton Keynes Dons vs Slimbridge AFC",
-      "competition": "FA Cup",
-      "commence_time": "2026-08-25T18:46:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "Ipswich Town vs Leicester City",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T18:47:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 88
-      },
-      "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 0.78,
-        "divergence_pinnacle_public_pct": 1.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 48.1,
-            "ev_pct": 7.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Birmingham City vs Brentford",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T19:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BRENTFORD",
-        "cote": 1.74,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 2.24,
-        "divergence_pinnacle_public_pct": 11.9,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE BIRMINGHAM CITY",
-            "cote": 12.27,
-            "probabilite_modele": 21.7,
-            "ev_pct": 165.8
-          },
-          {
-            "marche": "NUL",
-            "cote": 5.97,
-            "probabilite_modele": 23.4,
-            "ev_pct": 39.7
-          },
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.03,
-            "probabilite_modele": 50.3,
-            "ev_pct": 2.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Bodø/Glimt vs NEC Nijmegen",
-      "competition": "UEFA Champions League Qualification",
-      "commence_time": "2026-08-25T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 85
-      },
-      "modele_b": {
-        "lambda_domicile": 3.0,
-        "lambda_exterieur": 0.72,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": []
-      },
-      "pinnacle_disponible": false
-    },
-    {
-      "match": "LASK vs Celtic",
-      "competition": "UEFA Champions League Qualification",
-      "commence_time": "2026-08-25T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 52.4,
-            "ev_pct": 7.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Nottingham Forest vs Leeds United",
-      "competition": "EFL Cup",
-      "commence_time": "2026-08-25T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.4,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": -0.6,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.0 BUTS",
-            "cote": 1.92,
-            "probabilite_modele": 52.2,
-            "ev_pct": 0.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Valencia vs Real Betis",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-08-25T19:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.3,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 0.7,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.0 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 52.6,
-            "ev_pct": 10.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Atletico Goianiense vs Botafogo-SP",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-08-25T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.16,
-        "divergence_pinnacle_public_pct": -0.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.28,
-            "probabilite_modele": 51.7,
-            "ev_pct": 18.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Juventude vs Clube de Regatas Brasil",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-08-25T22:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.5,
-        "lambda_exterieur": 1.08,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 48.4,
-            "ev_pct": 4.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Monterrey vs Chicago Fire",
-      "competition": "Leagues Cup",
-      "commence_time": "2026-08-26T00:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": 0.8,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 51.1,
-            "ev_pct": 6.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Independiente del Valle vs Deportes Tolima",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-08-26T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.92,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 52.7,
-            "ev_pct": 8.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "León vs Real Salt Lake",
       "competition": "Leagues Cup",
-      "commence_time": "2026-08-26T02:30:00Z",
+      "commence_time": "2026-08-26T02:40:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.85,
+        "pari": "VICTOIRE LEÓN",
+        "cote": 1.61,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.68,
-        "lambda_exterieur": 2.04,
-        "divergence_pinnacle_public_pct": -0.2,
-        "value_bets": []
+        "lambda_domicile": 1.8,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": -1.1,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 50.5,
+            "ev_pct": 8.4
+          },
+          {
+            "marche": "VICTOIRE REAL SALT LAKE",
+            "cote": 6.29,
+            "probabilite_modele": 16.0,
+            "ev_pct": 0.5
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Daejeon Citizen vs Ulsan Hyundai FC",
@@ -799,15 +55,15 @@
       "commence_time": "2026-08-26T10:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -1.2,
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": -1.7,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.11,
+            "cote": 2.09,
             "probabilite_modele": 49.5,
-            "ev_pct": 4.5
+            "ev_pct": 3.4
           }
         ]
       },
@@ -822,19 +78,126 @@
       "commence_time": "2026-08-26T10:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
             "cote": 2.0,
-            "probabilite_modele": 53.2,
-            "ev_pct": 6.5
+            "probabilite_modele": 52.0,
+            "ev_pct": 4.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Al-Faisaly KSA FC vs Al-Fateh",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-08-26T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.28,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": -0.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.95,
+            "probabilite_modele": 53.1,
+            "ev_pct": 3.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Diriyah Club vs Al-Kholood",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-08-26T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": 2.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 52.0,
+            "ev_pct": 0.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Bradford City vs Burnley",
+      "competition": "EFL Cup",
+      "commence_time": "2026-08-26T18:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Tottenham Hotspur vs Charlton Athletic",
+      "competition": "EFL Cup",
+      "commence_time": "2026-08-26T18:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.86,
+        "lambda_exterieur": 0.86,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Preston North End vs Everton",
+      "competition": "EFL Cup",
+      "commence_time": "2026-08-26T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE EVERTON",
+        "cote": 1.55,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.82,
+        "lambda_exterieur": 1.84,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 50.2,
+            "ev_pct": 2.7
           }
         ]
       },
