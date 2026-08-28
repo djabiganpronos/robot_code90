@@ -1,171 +1,27 @@
 {
-  "generated_at": "2026-08-28T01:37:29.407391+00:00",
+  "generated_at": "2026-08-28T21:56:15.843925+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Dalian Yingbo vs Beijing FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-08-28T11:35:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.7,
-        "lambda_exterieur": 2.0,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Shanghai Shenhua FC vs Shandong Luneng Taishan FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-08-28T11:35:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE SHANGHAI SHENHUA FC",
-        "cote": 1.71,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.3,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.38,
-            "probabilite_modele": 48.3,
-            "ev_pct": 15.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Shenzhen Peng City FC vs Shanghai SIPG FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-08-28T12:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 52.8,
-            "ev_pct": 8.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Akron Tolyatti vs CSKA Moscow",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-08-28T15:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE CSKA MOSCOW",
-        "cote": 1.65,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.88,
-        "lambda_exterieur": 1.76,
-        "divergence_pinnacle_public_pct": -1.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 51.0,
-            "ev_pct": 11.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Al-Riyadh vs Neom",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-08-28T15:50:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 50.7,
-            "ev_pct": 5.6
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Al-Fayha vs Abha Club",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-08-28T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": 0.8,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 51.7,
-            "ev_pct": 4.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Wisła Płock vs Korona Kielce",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-08-28T16:00:00Z",
+      "match": "Union Santa Fe vs Sarmiento de Junin",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-08-28T22:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.81,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.4,
-        "divergence_pinnacle_public_pct": -0.9,
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 1.98,
-            "probabilite_modele": 52.4,
-            "ev_pct": 3.7
+            "cote": 2.17,
+            "probabilite_modele": 52.6,
+            "ev_pct": 13.9
           }
         ]
       },
@@ -175,21 +31,171 @@
       }
     },
     {
-      "match": "1. FC Köln vs TSG Hoffenheim",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-08-28T16:30:00Z",
+      "match": "Cobresal vs Palestino",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-08-28T22:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": 0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 49.2,
+            "ev_pct": 0.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Goiás vs São Bernardo",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-08-28T22:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.3,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": 3.3,
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.22,
+            "probabilite_modele": 52.4,
+            "ev_pct": 16.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Nautico PE vs Athletic Club (MG)",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-08-28T23:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE NAUTICO PE",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.7,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 51.3,
+            "ev_pct": 6.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Grêmio Novorizontino vs Sport Recife",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-08-28T23:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.84,
+        "lambda_exterieur": 0.88,
+        "divergence_pinnacle_public_pct": 1.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 51.7,
+            "ev_pct": 2.8
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Boca Juniors vs Lanus",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-08-29T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.74,
+        "lambda_exterieur": 1.02,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 52.8,
+            "ev_pct": 5.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Atlante FC vs León",
+      "competition": "Liga MX",
+      "commence_time": "2026-08-29T01:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": 1.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "Necaxa vs Cruz Azul",
+      "competition": "Liga MX",
+      "commence_time": "2026-08-29T01:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 50.2,
+            "ev_pct": 6.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     }
   ]
 }
