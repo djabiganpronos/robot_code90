@@ -1,31 +1,39 @@
 {
-  "generated_at": "2026-08-30T06:02:38.152988+00:00",
+  "generated_at": "2026-08-30T12:02:54.291321+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 25,
   "matchs": [
     {
       "match": "FC Utrecht vs PSV Eindhoven",
       "competition": "Dutch Eredivisie",
       "commence_time": "2026-08-30T10:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 2.32,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 0.94,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.25,
-            "probabilite_modele": 52.6,
-            "ev_pct": 18.6
+            "marche": "VICTOIRE FC UTRECHT",
+            "cote": 133.29,
+            "probabilite_modele": 4.3,
+            "ev_pct": 469.9
+          },
+          {
+            "marche": "NUL",
+            "cote": 44.29,
+            "probabilite_modele": 7.3,
+            "ev_pct": 222.4
+          },
+          {
+            "marche": "PLUS DE 5.5 BUTS",
+            "cote": 2.44,
+            "probabilite_modele": 42.8,
+            "ev_pct": 4.5
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -34,107 +42,123 @@
       "match": "Jeju United FC vs Daejeon Citizen",
       "competition": "K League 1",
       "commence_time": "2026-08-30T10:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": -0.8,
-        "value_bets": []
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 2.28,
+        "lambda_exterieur": 0.17,
+        "divergence_pinnacle_public_pct": -1.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 55.7,
+            "ev_pct": 7.6
+          },
+          {
+            "marche": "NUL",
+            "cote": 8.81,
+            "probabilite_modele": 11.8,
+            "ev_pct": 4.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Gwangju FC vs FC Seoul",
       "competition": "K League 1",
       "commence_time": "2026-08-30T10:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FC SEOUL",
-        "cote": 1.48,
-        "indice_fixe": 84
+        "pari": "PLUS DE 8.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.72,
-        "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.94,
-            "probabilite_modele": 51.8,
-            "ev_pct": 0.6
+            "marche": "VICTOIRE GWANGJU FC",
+            "cote": 76.88,
+            "probabilite_modele": 8.0,
+            "ev_pct": 515.1
+          },
+          {
+            "marche": "NUL",
+            "cote": 24.12,
+            "probabilite_modele": 9.6,
+            "ev_pct": 131.7
+          },
+          {
+            "marche": "MOINS DE 8.5 BUTS",
+            "cote": 1.72,
+            "probabilite_modele": 68.2,
+            "ev_pct": 17.2
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
     },
     {
-      "match": "Pohang Steelers vs Gangwon FC",
+      "match": "Gangwon FC vs Pohang Steelers",
       "competition": "K League 1",
       "commence_time": "2026-08-30T10:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": -0.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.25,
-            "probabilite_modele": 51.2,
-            "ev_pct": 15.2
-          }
-        ]
+      "modele_a": {
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 82
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "modele_b": {
+        "lambda_domicile": 0.38,
+        "lambda_exterieur": 0.23,
+        "divergence_pinnacle_public_pct": 2.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     },
     {
       "match": "Incheon United vs Jeonbuk Hyundai Motors",
       "competition": "K League 1",
       "commence_time": "2026-08-30T10:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": -0.4,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 50.4,
-            "ev_pct": 4.8
-          }
-        ]
+      "modele_a": {
+        "pari": "PLUS DE 0.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78
       },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
+      "modele_b": {
+        "lambda_domicile": 0.36,
+        "lambda_exterieur": 0.42,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     },
     {
       "match": "Aberdeen vs Rangers",
       "competition": "Premiership - Scotland",
       "commence_time": "2026-08-30T11:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.66,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 0.62,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 47.5,
-            "ev_pct": 2.3
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 2.03,
+            "probabilite_modele": 50.0,
+            "ev_pct": 1.6
           }
         ]
       },
@@ -148,20 +172,26 @@
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-08-30T11:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.82,
+        "pari": "VICTOIRE FC ST. PAULI",
+        "cote": 1.68,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.3,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": 1.2,
+        "lambda_domicile": 2.26,
+        "lambda_exterieur": 1.34,
+        "divergence_pinnacle_public_pct": 28.8,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 47.2,
-            "ev_pct": 0.4
+            "marche": "VICTOIRE FC ST. PAULI",
+            "cote": 3.29,
+            "probabilite_modele": 57.3,
+            "ev_pct": 88.4
+          },
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 50.8,
+            "ev_pct": 2.6
           }
         ]
       },
@@ -176,9 +206,390 @@
       "commence_time": "2026-08-30T11:30:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 2.0,
-        "lambda_exterieur": 1.72,
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": 3.8,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 50.0,
+            "ev_pct": 5.7
+          },
+          {
+            "marche": "VICTOIRE 1. FC MAGDEBURG",
+            "cote": 2.47,
+            "probabilite_modele": 40.9,
+            "ev_pct": 1.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Gent vs Club Brugge",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-08-30T11:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.92,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": -1.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.08,
+            "probabilite_modele": 53.0,
+            "ev_pct": 10.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "SV Darmstadt 98 vs Hannover 96",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-08-30T11:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.64,
+        "lambda_exterieur": 1.94,
+        "divergence_pinnacle_public_pct": -1.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "1. FC Saarbrücken vs Hansa Rostock",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-08-30T11:30:02Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.3,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": 11.8,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE 1. FC SAARBRÜCKEN",
+            "cote": 4.13,
+            "probabilite_modele": 36.0,
+            "ev_pct": 49.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "AIK vs Hammarby IF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-08-30T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.02,
+        "lambda_exterieur": 2.52,
         "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Rodina Moscow vs FC Baltika Kaliningrad",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-08-30T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.25,
+            "probabilite_modele": 46.9,
+            "ev_pct": 5.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "FC Sion vs FC Lugano",
+      "competition": "Swiss Superleague",
+      "commence_time": "2026-08-30T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 52.0,
+            "ev_pct": 9.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Silkeborg IF vs FC Midtjylland",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-08-30T12:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FC MIDTJYLLAND",
+        "cote": 1.35,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 1.06,
+        "lambda_exterieur": 2.68,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.34,
+            "probabilite_modele": 48.3,
+            "ev_pct": 13.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Lyngby vs OB Odense BK",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-08-30T12:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 51.6,
+            "ev_pct": 9.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Eintracht Frankfurt vs 1. FC Nürnberg",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-08-30T12:00:03Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.9,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": -1.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 48.6,
+            "ev_pct": 4.9
+          },
+          {
+            "marche": "VICTOIRE 1. FC NÜRNBERG",
+            "cote": 12.18,
+            "probabilite_modele": 8.3,
+            "ev_pct": 0.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Feyenoord vs ADO Den Haag",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-08-30T12:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 3.04,
+        "lambda_exterieur": 0.72,
+        "divergence_pinnacle_public_pct": 1.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.4,
+            "probabilite_modele": 48.1,
+            "ev_pct": 15.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Bodø/Glimt vs Rosenborg",
+      "competition": "Eliteserien - Norway",
+      "commence_time": "2026-08-30T12:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.62,
+        "lambda_exterieur": 1.0,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.26,
+            "probabilite_modele": 51.3,
+            "ev_pct": 16.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Willem II vs Heerenveen",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-08-30T12:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE HEERENVEEN",
+        "cote": 1.81,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 2.2,
+        "divergence_pinnacle_public_pct": 0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Raków Częstochowa vs Jagiellonia Białystok",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-08-30T12:45:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.6,
+        "lambda_exterieur": 1.08,
+        "divergence_pinnacle_public_pct": 1.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 49.7,
+            "ev_pct": 1.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Leeds United vs Brentford",
+      "competition": "EPL",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.3,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Chelsea vs Brighton and Hove Albion",
+      "competition": "EPL",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 2.1,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.11,
+            "probabilite_modele": 52.7,
+            "ev_pct": 11.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Sunderland vs Fulham",
+      "competition": "EPL",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.14,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Varbergs BoIS vs IK Oddevold",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-08-30T13:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": -0.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
