@@ -1,208 +1,23 @@
 {
-  "generated_at": "2026-08-31T00:03:03.698418+00:00",
+  "generated_at": "2026-08-31T06:02:59.670217+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Independiente vs Gimnasia Mendoza",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-08-30T22:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.22,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.05,
-        "lambda_exterieur": 2.52,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 43.5,
-            "probabilite_modele": 8.6,
-            "ev_pct": 276.2
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Bahia vs Internacional",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-08-30T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.76,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": -1.5,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE INTERNACIONAL",
-            "cote": 21.7,
-            "probabilite_modele": 7.8,
-            "ev_pct": 69.6
-          },
-          {
-            "marche": "MOINS DE 5.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 56.3,
-            "ev_pct": 19.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "St. Louis City SC vs FC Dallas",
-      "competition": "MLS",
-      "commence_time": "2026-08-30T23:12:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE ST. LOUIS CITY SC",
-        "cote": 1.39,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 3.18,
-        "lambda_exterieur": 1.52,
-        "divergence_pinnacle_public_pct": 2.1,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE FC DALLAS",
-            "cote": 8.49,
-            "probabilite_modele": 12.5,
-            "ev_pct": 5.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Coquimbo Unido vs Huachipato",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-08-31T00:02:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE COQUIMBO UNIDO",
-        "cote": 1.4,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 0.7,
-        "divergence_pinnacle_public_pct": 2.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 49.0,
-            "ev_pct": 2.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Toluca vs FC Juárez",
-      "competition": "Liga MX",
-      "commence_time": "2026-08-31T00:04:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 2.0,
-        "lambda_exterieur": 0.62,
-        "divergence_pinnacle_public_pct": -0.5,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Independiente Rivadavia vs Racing Club",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-08-31T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.66,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 1.1,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 51.8,
-            "ev_pct": 14.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Monterrey vs Atlético San Luis",
-      "competition": "Liga MX",
-      "commence_time": "2026-08-31T02:10:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE MONTERREY",
-        "cote": 1.61,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.38,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 51.0,
-            "ev_pct": 2.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "AC Oulu vs SJK Seinäjoki",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-08-31T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.56,
-        "lambda_exterieur": 1.12,
+        "lambda_domicile": 1.58,
+        "lambda_exterieur": 1.14,
         "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 49.7,
-            "ev_pct": 5.6
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 48.9,
+            "ev_pct": 4.7
           }
         ]
       },
@@ -212,18 +27,31 @@
       }
     },
     {
-      "match": "FC Inter Turku vs KuPS Kuopio",
-      "competition": "Veikkausliiga - Finland",
+      "match": "Bayern Munich vs FSV Mainz 05",
+      "competition": "Frauen-Bundesliga",
       "commence_time": "2026-08-31T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.8,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.36,
+        "lambda_domicile": 4.0,
+        "lambda_exterieur": 0.56,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "FC Inter Turku vs KuPS Kuopio",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-08-31T16:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.38,
         "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 0.1,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -236,13 +64,13 @@
       "modele_b": {
         "lambda_domicile": 1.48,
         "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 0.5,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 1.98,
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 1.99,
             "probabilite_modele": 51.8,
-            "ev_pct": 2.6
+            "ev_pct": 2.9
           }
         ]
       },
@@ -266,10 +94,10 @@
         "divergence_pinnacle_public_pct": -0.3,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.25 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.3,
-            "ev_pct": 2.9
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.04,
+            "probabilite_modele": 51.4,
+            "ev_pct": 4.8
           }
         ]
       },
@@ -284,15 +112,15 @@
       "commence_time": "2026-08-31T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.62,
+        "lambda_domicile": 1.58,
         "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": -0.2,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.18,
-            "probabilite_modele": 50.1,
-            "ev_pct": 9.1
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.21,
+            "probabilite_modele": 50.7,
+            "ev_pct": 12.0
           }
         ]
       },
@@ -300,6 +128,46 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "IFK Mariehamn vs Jaro",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-08-31T16:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.48,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 50.1,
+            "ev_pct": 2.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Lecce vs AS Roma",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-08-31T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.7,
+        "lambda_exterieur": 1.88,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
