@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T06:02:59.670217+00:00",
+  "generated_at": "2026-08-31T12:02:52.607829+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,15 +9,15 @@
       "commence_time": "2026-08-31T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.14,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 1.52,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 48.9,
-            "ev_pct": 4.7
+            "cote": 2.09,
+            "probabilite_modele": 51.0,
+            "ev_pct": 6.4
           }
         ]
       },
@@ -31,17 +31,33 @@
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-08-31T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 4.0,
-        "lambda_exterieur": 0.56,
+        "lambda_exterieur": 0.64,
         "divergence_pinnacle_public_pct": null,
-        "value_bets": []
+        "value_bets": [
+          {
+            "marche": "NUL",
+            "cote": 21.0,
+            "probabilite_modele": 5.6,
+            "ev_pct": 16.6
+          },
+          {
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 50.6,
+            "ev_pct": 1.9
+          }
+        ]
       },
-      "pinnacle_disponible": false
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "FC Inter Turku vs KuPS Kuopio",
@@ -49,28 +65,42 @@
       "commence_time": "2026-08-31T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 0.3,
-        "value_bets": []
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": -0.4,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.99,
+            "probabilite_modele": 51.3,
+            "ev_pct": 2.3
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "VPS Vaasa vs FC Lahti",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-08-31T16:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.48,
+        "lambda_domicile": 1.42,
         "lambda_exterieur": 1.12,
-        "divergence_pinnacle_public_pct": 0.6,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.8,
-            "ev_pct": 2.9
+            "cote": 1.98,
+            "probabilite_modele": 53.1,
+            "ev_pct": 4.9
           }
         ]
       },
@@ -83,21 +113,17 @@
       "match": "Ilves Tampere vs HJK Helsinki",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-08-31T16:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE HJK HELSINKI",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.52,
-        "lambda_exterieur": 2.2,
-        "divergence_pinnacle_public_pct": -0.3,
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 2.18,
+        "divergence_pinnacle_public_pct": 0.5,
         "value_bets": [
           {
             "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.04,
+            "cote": 2.03,
             "probabilite_modele": 51.4,
-            "ev_pct": 4.8
+            "ev_pct": 4.5
           }
         ]
       },
@@ -112,15 +138,15 @@
       "commence_time": "2026-08-31T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.58,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_domicile": 2.08,
+        "lambda_exterieur": 1.56,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 50.7,
-            "ev_pct": 12.0
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 50.1,
+            "ev_pct": 0.6
           }
         ]
       },
@@ -135,15 +161,15 @@
       "commence_time": "2026-08-31T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.48,
+        "lambda_domicile": 1.5,
         "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": 0.6,
+        "divergence_pinnacle_public_pct": 1.6,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 50.1,
-            "ev_pct": 2.4
+            "cote": 2.04,
+            "probabilite_modele": 49.4,
+            "ev_pct": 0.5
           }
         ]
       },
@@ -157,14 +183,14 @@
       "competition": "Serie A - Italy",
       "commence_time": "2026-08-31T16:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
+        "pari": "VICTOIRE AS ROMA",
+        "cote": 1.47,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 0.7,
+        "lambda_domicile": 0.68,
         "lambda_exterieur": 1.88,
-        "divergence_pinnacle_public_pct": -0.1,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": []
       },
       "pinnacle_disponible": true
