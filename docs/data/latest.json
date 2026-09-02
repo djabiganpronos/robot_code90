@@ -1,66 +1,23 @@
 {
-  "generated_at": "2026-09-02T00:05:57.790405+00:00",
+  "generated_at": "2026-09-02T06:05:05.374465+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Londrina vs Juventude",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-01T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.21,
-        "lambda_exterieur": 0.36,
-        "divergence_pinnacle_public_pct": 2.0,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 0.5 BUTS",
-            "cote": 2.68,
-            "probabilite_modele": 42.9,
-            "ev_pct": 15.1
-          },
-          {
-            "marche": "VICTOIRE JUVENTUDE",
-            "cote": 4.37,
-            "probabilite_modele": 25.5,
-            "ev_pct": 11.5
-          },
-          {
-            "marche": "VICTOIRE LONDRINA",
-            "cote": 7.7,
-            "probabilite_modele": 13.8,
-            "ev_pct": 6.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
     {
       "match": "Avispa Fukuoka vs Urawa Red Diamonds",
       "competition": "J League",
       "commence_time": "2026-09-02T10:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.32,
-        "lambda_exterieur": 1.18,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.44,
+        "lambda_exterieur": 1.26,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 46.3,
-            "ev_pct": 2.2
+            "cote": 2.14,
+            "probabilite_modele": 51.1,
+            "ev_pct": 9.5
           }
         ]
       },
@@ -73,18 +30,24 @@
       "match": "Cerezo Osaka vs Kashiwa Reysol",
       "competition": "J League",
       "commence_time": "2026-09-02T10:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.22,
-        "lambda_exterieur": 1.54,
-        "divergence_pinnacle_public_pct": -1.2,
-        "value_bets": []
+        "lambda_domicile": 1.12,
+        "lambda_exterieur": 1.52,
+        "divergence_pinnacle_public_pct": -1.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.02,
+            "probabilite_modele": 50.7,
+            "ev_pct": 2.3
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "FC Machida Zelvia vs Kawasaki Frontale",
@@ -93,8 +56,8 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -104,14 +67,14 @@
       "competition": "J League",
       "commence_time": "2026-09-02T10:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "VICTOIRE FC TOKYO",
         "cote": 1.83,
-        "indice_fixe": 82
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.04,
-        "lambda_exterieur": 1.48,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 0.96,
+        "lambda_exterieur": 1.64,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -122,9 +85,9 @@
       "commence_time": "2026-09-02T10:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.08,
-        "lambda_exterieur": 1.66,
-        "divergence_pinnacle_public_pct": -0.1,
+        "lambda_domicile": 1.0,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -133,11 +96,15 @@
       "match": "V-Varen Nagasaki vs Gamba Osaka",
       "competition": "J League",
       "commence_time": "2026-09-02T10:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.14,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_domicile": 1.18,
+        "lambda_exterieur": 1.6,
+        "divergence_pinnacle_public_pct": 0.8,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -148,19 +115,36 @@
       "commence_time": "2026-09-02T10:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE HIROSHIMA SANFRECCE FC",
-        "cote": 1.54,
+        "cote": 1.52,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 0.6,
+        "lambda_domicile": 2.42,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Mito HollyHock vs Kashima Antlers",
+      "competition": "J League",
+      "commence_time": "2026-09-02T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 1.72,
+        "divergence_pinnacle_public_pct": -0.5,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 49.5,
-            "ev_pct": 6.9
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 1.92,
+            "probabilite_modele": 52.3,
+            "ev_pct": 0.4
           }
         ]
       },
@@ -168,23 +152,6 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
-    },
-    {
-      "match": "Mito HollyHock vs Kashima Antlers",
-      "competition": "J League",
-      "commence_time": "2026-09-02T10:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.98,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": -0.7,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
     }
   ]
 }
