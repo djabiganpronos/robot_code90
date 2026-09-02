@@ -1,196 +1,39 @@
 {
-  "generated_at": "2026-09-01T18:04:55.482735+00:00",
+  "generated_at": "2026-09-02T00:05:57.790405+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Helsingborgs IF vs Örebro SK",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-09-01T17:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 0.86,
-        "lambda_exterieur": 0.76,
-        "divergence_pinnacle_public_pct": -1.3,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 1.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 48.5,
-            "ev_pct": 2.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Wolfsberger AC vs LASK",
-      "competition": "Austrian Football Bundesliga",
-      "commence_time": "2026-09-01T17:30:00Z",
+      "match": "Londrina vs Juventude",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-01T22:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 0.9,
-        "lambda_exterieur": 2.9,
-        "divergence_pinnacle_public_pct": -8.4,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE LASK",
-            "cote": 1.5,
-            "probabilite_modele": 77.8,
-            "ev_pct": 16.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Al-Hilal vs Al-Ahli",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-01T18:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.44,
-        "lambda_exterieur": 1.32,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 52.1,
-            "ev_pct": 9.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Zurich vs BSC Young Boys",
-      "competition": "Swiss Superleague",
-      "commence_time": "2026-09-01T18:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE BSC YOUNG BOYS",
+        "pari": "MOINS DE 0.5 BUTS",
         "cote": 1.66,
-        "indice_fixe": 78
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 2.28,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 0.21,
+        "lambda_exterieur": 0.36,
+        "divergence_pinnacle_public_pct": 2.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.05,
-            "probabilite_modele": 50.5,
-            "ev_pct": 3.7
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Accrington Stanley vs Grimsby Town",
-      "competition": "League 2",
-      "commence_time": "2026-09-01T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.12,
-        "lambda_exterieur": 1.56,
-        "divergence_pinnacle_public_pct": 0.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.17,
-            "probabilite_modele": 49.8,
-            "ev_pct": 7.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Exeter City vs Barnet",
-      "competition": "League 2",
-      "commence_time": "2026-09-01T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.08,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": -3.6,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE BARNET",
-            "cote": 2.1,
-            "probabilite_modele": 49.5,
-            "ev_pct": 4.2
+            "marche": "PLUS DE 0.5 BUTS",
+            "cote": 2.68,
+            "probabilite_modele": 42.9,
+            "ev_pct": 15.1
           },
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 49.9,
-            "ev_pct": 3.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Lincoln City vs Blackburn Rovers",
-      "competition": "Championship",
-      "commence_time": "2026-09-01T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": -0.8,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Sheffield United vs Bolton Wanderers",
-      "competition": "Championship",
-      "commence_time": "2026-09-01T18:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE SHEFFIELD UNITED",
-        "cote": 1.59,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.8,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": [
+            "marche": "VICTOIRE JUVENTUDE",
+            "cote": 4.37,
+            "probabilite_modele": 25.5,
+            "ev_pct": 11.5
+          },
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 51.2,
-            "ev_pct": 3.2
+            "marche": "VICTOIRE LONDRINA",
+            "cote": 7.7,
+            "probabilite_modele": 13.8,
+            "ev_pct": 6.4
           }
         ]
       },
@@ -200,20 +43,24 @@
       }
     },
     {
-      "match": "Bradford City vs Cambridge United",
-      "competition": "League 1",
-      "commence_time": "2026-09-01T18:45:00Z",
-      "modele_a": null,
+      "match": "Avispa Fukuoka vs Urawa Red Diamonds",
+      "competition": "J League",
+      "commence_time": "2026-09-02T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.54,
-        "lambda_exterieur": 1.1,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 1.32,
+        "lambda_exterieur": 1.18,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.06,
-            "probabilite_modele": 49.5,
-            "ev_pct": 2.1
+            "cote": 2.21,
+            "probabilite_modele": 46.3,
+            "ev_pct": 2.2
           }
         ]
       },
@@ -223,27 +70,118 @@
       }
     },
     {
-      "match": "Preston North End vs Bristol City",
-      "competition": "Championship",
-      "commence_time": "2026-09-01T18:45:00Z",
-      "modele_a": null,
+      "match": "Cerezo Osaka vs Kashiwa Reysol",
+      "competition": "J League",
+      "commence_time": "2026-09-02T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": -0.6,
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.54,
+        "divergence_pinnacle_public_pct": -1.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Bristol Rovers vs Colchester United",
-      "competition": "League 2",
-      "commence_time": "2026-09-01T18:45:00Z",
+      "match": "FC Machida Zelvia vs Kawasaki Frontale",
+      "competition": "J League",
+      "commence_time": "2026-09-02T10:00:00Z",
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.64,
-        "lambda_exterieur": 1.06,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_exterieur": 1.1,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Shimizu S Pulse vs FC Tokyo",
+      "competition": "J League",
+      "commence_time": "2026-09-02T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.04,
+        "lambda_exterieur": 1.48,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "JEF United Chiba vs Fagiano Okayama",
+      "competition": "J League",
+      "commence_time": "2026-09-02T10:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": -0.1,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "V-Varen Nagasaki vs Gamba Osaka",
+      "competition": "J League",
+      "commence_time": "2026-09-02T10:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.14,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Hiroshima Sanfrecce FC vs Nagoya Grampus",
+      "competition": "J League",
+      "commence_time": "2026-09-02T10:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE HIROSHIMA SANFRECCE FC",
+        "cote": 1.54,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.88,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.16,
+            "probabilite_modele": 49.5,
+            "ev_pct": 6.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Mito HollyHock vs Kashima Antlers",
+      "competition": "J League",
+      "commence_time": "2026-09-02T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.98,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": []
       },
       "pinnacle_disponible": true
