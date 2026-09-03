@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T06:07:06.427220+00:00",
+  "generated_at": "2026-09-03T12:05:10.720678+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,15 +9,15 @@
       "commence_time": "2026-09-03T15:55:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -1.3,
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": -1.1,
         "value_bets": [
           {
             "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 50.5,
-            "ev_pct": 5.9
+            "cote": 2.08,
+            "probabilite_modele": 50.3,
+            "ev_pct": 4.6
           }
         ]
       },
@@ -32,9 +32,9 @@
       "commence_time": "2026-09-03T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.38,
-        "lambda_exterieur": 1.26,
-        "divergence_pinnacle_public_pct": 0.0,
+        "lambda_domicile": 1.34,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": -0.1,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -45,19 +45,19 @@
       "commence_time": "2026-09-03T16:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE PALERMO",
-        "cote": 1.63,
+        "cote": 1.65,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.76,
+        "lambda_domicile": 1.74,
         "lambda_exterieur": 0.86,
-        "divergence_pinnacle_public_pct": 1.2,
+        "divergence_pinnacle_public_pct": 0.0,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 1.99,
-            "probabilite_modele": 51.3,
-            "ev_pct": 2.0
+            "cote": 2.02,
+            "probabilite_modele": 51.7,
+            "ev_pct": 4.4
           }
         ]
       },
@@ -72,19 +72,19 @@
       "commence_time": "2026-09-03T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.83,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.72,
-        "lambda_exterieur": 0.9,
-        "divergence_pinnacle_public_pct": 2.0,
+        "lambda_domicile": 1.66,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": 0.6,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 51.5,
-            "ev_pct": 7.0
+            "cote": 2.09,
+            "probabilite_modele": 52.4,
+            "ev_pct": 9.6
           }
         ]
       },
@@ -98,20 +98,20 @@
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-09-03T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82
+        "pari": "VICTOIRE DJURGARDENS IF",
+        "cote": 1.62,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 0.88,
-        "lambda_exterieur": 1.7,
+        "lambda_domicile": 1.3,
+        "lambda_exterieur": 2.3,
         "divergence_pinnacle_public_pct": -0.8,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.22,
-            "probabilite_modele": 52.6,
-            "ev_pct": 16.7
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.18,
+            "probabilite_modele": 51.3,
+            "ev_pct": 11.8
           }
         ]
       },
@@ -125,20 +125,20 @@
       "competition": "Saudi Pro League",
       "commence_time": "2026-09-03T18:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
+        "pari": "PLUS DE 3.25 BUTS",
         "cote": 1.85,
-        "indice_fixe": 82
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.18,
-        "lambda_exterieur": 2.4,
-        "divergence_pinnacle_public_pct": -0.8,
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 2.52,
+        "divergence_pinnacle_public_pct": -0.7,
         "value_bets": [
           {
             "marche": "PLUS DE 3.25 BUTS",
-            "cote": 2.21,
-            "probabilite_modele": 48.3,
-            "ev_pct": 6.9
+            "cote": 2.11,
+            "probabilite_modele": 51.6,
+            "ev_pct": 9.0
           }
         ]
       },
@@ -151,34 +151,21 @@
       "match": "FC Copenhagen vs FC Nordsjaelland",
       "competition": "Denmark Superliga",
       "commence_time": "2026-09-03T18:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
       "modele_b": {
         "lambda_domicile": 2.04,
-        "lambda_exterieur": 1.7,
-        "divergence_pinnacle_public_pct": -0.0,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Anderlecht vs KV Kortrijk",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE ANDERLECHT",
-        "cote": 1.48,
-        "indice_fixe": 84
-      },
-      "modele_b": {
-        "lambda_domicile": 1.94,
-        "lambda_exterieur": 0.78,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_exterieur": 1.72,
+        "divergence_pinnacle_public_pct": -0.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 49.1,
-            "ev_pct": 2.5
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 1.93,
+            "probabilite_modele": 52.1,
+            "ev_pct": 0.5
           }
         ]
       },
@@ -186,6 +173,23 @@
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
+    },
+    {
+      "match": "Anderlecht vs KV Kortrijk",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-09-03T18:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.04,
+        "lambda_exterieur": 0.74,
+        "divergence_pinnacle_public_pct": 1.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
     }
   ]
 }
