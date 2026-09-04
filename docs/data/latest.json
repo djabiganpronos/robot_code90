@@ -1,31 +1,43 @@
 {
-  "generated_at": "2026-09-04T12:05:03.773387+00:00",
+  "generated_at": "2026-09-04T18:04:56.804539+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 28,
   "matchs": [
     {
       "match": "Abha Club vs Al-Ettifaq",
       "competition": "Saudi Pro League",
       "commence_time": "2026-09-04T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.02,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.16,
-        "lambda_exterieur": 1.44,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 0.05,
+        "lambda_exterieur": 1.36,
+        "divergence_pinnacle_public_pct": null,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.2,
-            "probabilite_modele": 51.8,
-            "ev_pct": 14.2
+            "marche": "VICTOIRE ABHA CLUB",
+            "cote": 464.0,
+            "probabilite_modele": 1.3,
+            "ev_pct": 500.6
+          },
+          {
+            "marche": "NUL",
+            "cote": 19.0,
+            "probabilite_modele": 26.1,
+            "ev_pct": 396.0
+          },
+          {
+            "marche": "PLUS DE 1.5 BUTS",
+            "cote": 10.2,
+            "probabilite_modele": 41.2,
+            "ev_pct": 319.8
           }
         ]
       },
-      "pinnacle_disponible": true,
+      "pinnacle_disponible": false,
       "modele_c": {
         "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
       }
@@ -35,47 +47,32 @@
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-09-04T16:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": -1.0,
+        "lambda_domicile": 2.48,
+        "lambda_exterieur": 2.2,
+        "divergence_pinnacle_public_pct": 14.3,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 52.4,
-            "ev_pct": 12.4
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "TSG Hoffenheim vs Bayer Leverkusen",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-09-04T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.46,
-        "lambda_exterieur": 2.04,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": [
+            "marche": "VICTOIRE ARMINIA BIELEFELD",
+            "cote": 3.97,
+            "probabilite_modele": 41.4,
+            "ev_pct": 64.1
+          },
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.19,
-            "probabilite_modele": 53.4,
-            "ev_pct": 16.7
+            "marche": "PLUS DE 4.5 BUTS",
+            "cote": 2.49,
+            "probabilite_modele": 51.7,
+            "ev_pct": 28.7
+          },
+          {
+            "marche": "VICTOIRE FC ST. PAULI",
+            "cote": 4.19,
+            "probabilite_modele": 30.5,
+            "ev_pct": 27.7
           }
         ]
       },
@@ -88,88 +85,102 @@
       "match": "Hannover 96 vs Karlsruher SC",
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-09-04T16:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE HANNOVER 96",
-        "cote": 1.53,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.44,
-        "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 1.0,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.1,
-            "probabilite_modele": 49.7,
-            "ev_pct": 4.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Aalesund vs IK Start",
-      "competition": "Eliteserien - Norway",
-      "commence_time": "2026-09-04T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 88
-      },
-      "modele_b": {
-        "lambda_domicile": 1.92,
-        "lambda_exterieur": 1.58,
-        "divergence_pinnacle_public_pct": 0.9,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 3.5 BUTS",
-            "cote": 1.88,
-            "probabilite_modele": 53.3,
-            "ev_pct": 0.0
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Ingolstadt 04 vs Alemannia Aachen",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-09-04T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.92,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": []
+        "lambda_domicile": 2.76,
+        "lambda_exterieur": 0.94,
+        "divergence_pinnacle_public_pct": -2.7,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE KARLSRUHER SC",
+            "cote": 19.64,
+            "probabilite_modele": 8.1,
+            "ev_pct": 59.2
+          },
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.21,
+            "probabilite_modele": 48.9,
+            "ev_pct": 8.1
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "TSG Hoffenheim vs Bayer Leverkusen",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-04T16:30:37Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.86,
+        "lambda_exterieur": 2.74,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE TSG HOFFENHEIM",
+            "cote": 18.8,
+            "probabilite_modele": 7.1,
+            "ev_pct": 32.7
+          },
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.98,
+            "probabilite_modele": 51.0,
+            "ev_pct": 1.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Fredrikstad FK vs Bodø/Glimt",
+      "competition": "Eliteserien - Norway",
+      "commence_time": "2026-09-04T16:59:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.29,
+        "lambda_exterieur": 2.28,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.06,
+            "probabilite_modele": 52.7,
+            "ev_pct": 8.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Lyon vs Auxerre",
       "competition": "Ligue 1 - France",
       "commence_time": "2026-09-04T17:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE LYON",
-        "cote": 1.44,
-        "indice_fixe": 84
-      },
+      "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.98,
-        "lambda_exterieur": 0.72,
-        "divergence_pinnacle_public_pct": 0.4,
+        "lambda_domicile": 3.68,
+        "lambda_exterieur": 1.04,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.16,
-            "probabilite_modele": 49.6,
-            "ev_pct": 6.8
+            "marche": "MOINS DE 4.5 BUTS",
+            "cote": 2.23,
+            "probabilite_modele": 49.0,
+            "ev_pct": 9.4
           }
         ]
       },
@@ -183,17 +194,478 @@
       "competition": "Turkey Super League",
       "commence_time": "2026-09-04T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE GALATASARAY",
-        "cote": 1.65,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 85
+      },
+      "modele_b": {
+        "lambda_domicile": 1.02,
+        "lambda_exterieur": 2.78,
+        "divergence_pinnacle_public_pct": -0.0,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE BASAKSEHIR",
+            "cote": 11.71,
+            "probabilite_modele": 9.5,
+            "ev_pct": 11.4
+          },
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 52.8,
+            "ev_pct": 10.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "IFK Norrkoping vs Ljungskile SK",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-04T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.76,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.34,
-        "lambda_exterieur": 2.3,
-        "divergence_pinnacle_public_pct": -0.4,
+        "lambda_domicile": 2.48,
+        "lambda_exterieur": 1.3,
+        "divergence_pinnacle_public_pct": -2.2,
+        "value_bets": [
+          {
+            "marche": "VICTOIRE LJUNGSKILE SK",
+            "cote": 7.73,
+            "probabilite_modele": 15.2,
+            "ev_pct": 17.6
+          },
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 1.91,
+            "probabilite_modele": 53.1,
+            "ev_pct": 1.6
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Östers IF vs Nordic United FC",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-04T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.74,
+        "lambda_exterieur": 0.92,
+        "divergence_pinnacle_public_pct": -0.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
+    },
+    {
+      "match": "FC Ingolstadt 04 vs Alemannia Aachen",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-04T17:00:05Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 0.66,
+        "lambda_exterieur": 4.0,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 4.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 49.8,
+            "ev_pct": 0.4
+          }
+        ]
+      },
+      "pinnacle_disponible": false,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Aalesund vs IK Start",
+      "competition": "Eliteserien - Norway",
+      "commence_time": "2026-09-04T17:01:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 3.1,
+        "lambda_exterieur": 0.58,
+        "divergence_pinnacle_public_pct": 1.6,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 49.9,
+            "ev_pct": 4.0
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Viborg FF vs Lyngby",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-09-04T17:01:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.0,
+        "lambda_exterieur": 1.52,
+        "divergence_pinnacle_public_pct": -1.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Grenoble vs Annecy FC",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-09-04T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.2,
+        "lambda_exterieur": 1.5,
+        "divergence_pinnacle_public_pct": -0.0,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.41,
+            "probabilite_modele": 51.5,
+            "ev_pct": 24.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Boulogne vs Dijon",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-09-04T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.22,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "USL Dunkerque vs Clermont",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-09-04T18:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE USL DUNKERQUE",
+        "cote": 1.83,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.64,
+        "lambda_exterieur": 0.96,
+        "divergence_pinnacle_public_pct": 0.9,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Sparta Rotterdam vs FC Zwolle",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-04T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.54,
+        "lambda_exterieur": 1.12,
+        "divergence_pinnacle_public_pct": 1.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 50.4,
+            "ev_pct": 3.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Pau FC vs Sochaux",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-09-04T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.4,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": -0.6,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.07,
+            "probabilite_modele": 49.1,
+            "ev_pct": 1.7
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Stade Lavallois vs Red Star",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-09-04T18:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": -1.0,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.05,
+            "probabilite_modele": 51.0,
+            "ev_pct": 4.3
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Al-Ahli vs Al-Riyadh",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-04T18:01:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.74,
+        "lambda_exterieur": 0.84,
+        "divergence_pinnacle_public_pct": 2.1,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.25 BUTS",
+            "cote": 2.18,
+            "probabilite_modele": 48.0,
+            "ev_pct": 4.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Al-Shabab vs Al-Hilal",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-04T18:02:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.25 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.08,
+        "lambda_exterieur": 2.74,
+        "divergence_pinnacle_public_pct": 0.4,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "VfB Stuttgart vs 1. FC Köln",
+      "competition": "Bundesliga - Germany",
+      "commence_time": "2026-09-04T18:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE VFB STUTTGART",
+        "cote": 1.44,
+        "indice_fixe": 84
+      },
+      "modele_b": {
+        "lambda_domicile": 2.58,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 1.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.23,
+            "probabilite_modele": 47.7,
+            "ev_pct": 6.1
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Piast Gliwice vs GKS Katowice",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-09-04T18:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 1.78,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Las Palmas vs Leganés",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-04T18:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": -1.9,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 2.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 51.2,
+            "ev_pct": 2.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Aveley FC vs Cheshunt FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-04T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE AVELEY FC",
+        "cote": 1.55,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.3,
+        "lambda_exterieur": 1.32,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Lommel SK vs Club Brugge",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-09-04T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 0.9,
+        "lambda_exterieur": 2.66,
+        "divergence_pinnacle_public_pct": -0.3,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.27,
+            "probabilite_modele": 52.3,
+            "ev_pct": 18.9
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Genoa vs Como",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-09-04T18:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE COMO",
+        "cote": 1.69,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 0.84,
+        "lambda_exterieur": 1.72,
+        "divergence_pinnacle_public_pct": -0.5,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Flackwell Heath FC vs Hanwell Town FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-04T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 1.38,
+        "lambda_exterieur": 2.02,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
+    },
+    {
+      "match": "Three Bridges FC vs Kingstonian FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-04T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 82
+      },
+      "modele_b": {
+        "lambda_domicile": 2.16,
+        "lambda_exterieur": 1.22,
+        "divergence_pinnacle_public_pct": null,
+        "value_bets": []
+      },
+      "pinnacle_disponible": false
     }
   ]
 }
