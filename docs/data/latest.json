@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:05:09.240597+00:00",
+  "generated_at": "2026-09-04T12:05:03.773387+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,17 +7,21 @@
       "match": "Abha Club vs Al-Ettifaq",
       "competition": "Saudi Pro League",
       "commence_time": "2026-09-04T16:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.26,
-        "lambda_exterieur": 1.46,
-        "divergence_pinnacle_public_pct": 0.3,
+        "lambda_domicile": 1.16,
+        "lambda_exterieur": 1.44,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 48.8,
-            "ev_pct": 5.1
+            "cote": 2.2,
+            "probabilite_modele": 51.8,
+            "ev_pct": 14.2
           }
         ]
       },
@@ -31,20 +35,20 @@
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-09-04T16:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.82,
-        "lambda_exterieur": 1.68,
+        "lambda_domicile": 1.34,
+        "lambda_exterieur": 1.24,
         "divergence_pinnacle_public_pct": -1.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 3.0 BUTS",
-            "cote": 2.12,
-            "probabilite_modele": 53.1,
-            "ev_pct": 12.8
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.15,
+            "probabilite_modele": 52.4,
+            "ev_pct": 12.4
           }
         ]
       },
@@ -65,7 +69,7 @@
       "modele_b": {
         "lambda_domicile": 1.46,
         "lambda_exterieur": 2.04,
-        "divergence_pinnacle_public_pct": 1.2,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": [
           {
             "marche": "MOINS DE 3.0 BUTS",
@@ -86,19 +90,19 @@
       "commence_time": "2026-09-04T16:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE HANNOVER 96",
-        "cote": 1.58,
+        "cote": 1.53,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 2.34,
+        "lambda_domicile": 2.44,
         "lambda_exterieur": 1.24,
-        "divergence_pinnacle_public_pct": 0.7,
+        "divergence_pinnacle_public_pct": 1.0,
         "value_bets": [
           {
             "marche": "MOINS DE 3.5 BUTS",
-            "cote": 2.0,
-            "probabilite_modele": 51.6,
-            "ev_pct": 3.4
+            "cote": 2.1,
+            "probabilite_modele": 49.7,
+            "ev_pct": 4.5
           }
         ]
       },
@@ -112,20 +116,20 @@
       "competition": "Eliteserien - Norway",
       "commence_time": "2026-09-04T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 85
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 88
       },
       "modele_b": {
-        "lambda_domicile": 2.02,
-        "lambda_exterieur": 1.76,
-        "divergence_pinnacle_public_pct": -0.2,
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 1.58,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.01,
-            "probabilite_modele": 52.5,
-            "ev_pct": 5.5
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 1.88,
+            "probabilite_modele": 53.3,
+            "ev_pct": 0.0
           }
         ]
       },
@@ -141,8 +145,8 @@
       "modele_a": null,
       "modele_b": {
         "lambda_domicile": 1.92,
-        "lambda_exterieur": 1.76,
-        "divergence_pinnacle_public_pct": 1.0,
+        "lambda_exterieur": 1.72,
+        "divergence_pinnacle_public_pct": 0.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
@@ -152,20 +156,20 @@
       "competition": "Ligue 1 - France",
       "commence_time": "2026-09-04T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78
+        "pari": "VICTOIRE LYON",
+        "cote": 1.44,
+        "indice_fixe": 84
       },
       "modele_b": {
-        "lambda_domicile": 2.0,
-        "lambda_exterieur": 0.78,
-        "divergence_pinnacle_public_pct": 0.9,
+        "lambda_domicile": 1.98,
+        "lambda_exterieur": 0.72,
+        "divergence_pinnacle_public_pct": 0.4,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 47.4,
-            "ev_pct": 0.1
+            "cote": 2.16,
+            "probabilite_modele": 49.6,
+            "ev_pct": 6.8
           }
         ]
       },
@@ -180,13 +184,13 @@
       "commence_time": "2026-09-04T17:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE GALATASARAY",
-        "cote": 1.61,
+        "cote": 1.65,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.26,
+        "lambda_domicile": 1.34,
         "lambda_exterieur": 2.3,
-        "divergence_pinnacle_public_pct": -1.2,
+        "divergence_pinnacle_public_pct": -0.4,
         "value_bets": []
       },
       "pinnacle_disponible": true
