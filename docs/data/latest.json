@@ -1,40 +1,23 @@
 {
-  "generated_at": "2026-09-04T00:05:59.456322+00:00",
+  "generated_at": "2026-09-04T06:05:09.240597+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Nautico PE vs Botafogo-SP",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-03T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.8,
-        "lambda_exterieur": 0.64,
-        "divergence_pinnacle_public_pct": -2.3,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
     {
       "match": "Abha Club vs Al-Ettifaq",
       "competition": "Saudi Pro League",
       "commence_time": "2026-09-04T16:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.24,
-        "lambda_exterieur": 1.42,
-        "divergence_pinnacle_public_pct": 0.2,
+        "lambda_domicile": 1.26,
+        "lambda_exterieur": 1.46,
+        "divergence_pinnacle_public_pct": 0.3,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 50.4,
-            "ev_pct": 7.5
+            "cote": 2.15,
+            "probabilite_modele": 48.8,
+            "ev_pct": 5.1
           }
         ]
       },
@@ -47,17 +30,21 @@
       "match": "Arminia Bielefeld vs FC St. Pauli",
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-09-04T16:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82
+      },
       "modele_b": {
-        "lambda_domicile": 1.42,
-        "lambda_exterieur": 1.2,
-        "divergence_pinnacle_public_pct": 0.1,
+        "lambda_domicile": 1.82,
+        "lambda_exterieur": 1.68,
+        "divergence_pinnacle_public_pct": -1.0,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.14,
-            "probabilite_modele": 51.5,
-            "ev_pct": 10.2
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.12,
+            "probabilite_modele": 53.1,
+            "ev_pct": 12.8
           }
         ]
       },
@@ -71,20 +58,20 @@
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-09-04T16:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE BAYER LEVERKUSEN",
-        "cote": 1.84,
-        "indice_fixe": 78
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 1.1,
-        "lambda_exterieur": 1.62,
-        "divergence_pinnacle_public_pct": 0.7,
+        "lambda_domicile": 1.46,
+        "lambda_exterieur": 2.04,
+        "divergence_pinnacle_public_pct": 1.2,
         "value_bets": [
           {
-            "marche": "MOINS DE 2.75 BUTS",
-            "cote": 2.09,
-            "probabilite_modele": 49.0,
-            "ev_pct": 2.4
+            "marche": "MOINS DE 3.0 BUTS",
+            "cote": 2.19,
+            "probabilite_modele": 53.4,
+            "ev_pct": 16.7
           }
         ]
       },
@@ -99,29 +86,53 @@
       "commence_time": "2026-09-04T16:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE HANNOVER 96",
-        "cote": 1.68,
+        "cote": 1.58,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 2.34,
-        "lambda_exterieur": 1.38,
-        "divergence_pinnacle_public_pct": 0.0,
-        "value_bets": []
+        "lambda_exterieur": 1.24,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 3.5 BUTS",
+            "cote": 2.0,
+            "probabilite_modele": 51.6,
+            "ev_pct": 3.4
+          }
+        ]
       },
-      "pinnacle_disponible": true
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "Aalesund vs IK Start",
       "competition": "Eliteserien - Norway",
       "commence_time": "2026-09-04T17:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.92,
-        "lambda_exterieur": 1.66,
-        "divergence_pinnacle_public_pct": 0.6,
-        "value_bets": []
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 85
       },
-      "pinnacle_disponible": true
+      "modele_b": {
+        "lambda_domicile": 2.02,
+        "lambda_exterieur": 1.76,
+        "divergence_pinnacle_public_pct": -0.2,
+        "value_bets": [
+          {
+            "marche": "PLUS DE 3.5 BUTS",
+            "cote": 2.01,
+            "probabilite_modele": 52.5,
+            "ev_pct": 5.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
     },
     {
       "match": "FC Ingolstadt 04 vs Alemannia Aachen",
@@ -129,8 +140,8 @@
       "commence_time": "2026-09-04T17:00:00Z",
       "modele_a": null,
       "modele_b": {
-        "lambda_domicile": 1.88,
-        "lambda_exterieur": 1.78,
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 1.76,
         "divergence_pinnacle_public_pct": 1.0,
         "value_bets": []
       },
@@ -141,20 +152,20 @@
       "competition": "Ligue 1 - France",
       "commence_time": "2026-09-04T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE LYON",
-        "cote": 1.5,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.96,
-        "lambda_exterieur": 0.82,
-        "divergence_pinnacle_public_pct": 0.8,
+        "lambda_domicile": 2.0,
+        "lambda_exterieur": 0.78,
+        "divergence_pinnacle_public_pct": 0.9,
         "value_bets": [
           {
             "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.13,
-            "probabilite_modele": 47.6,
-            "ev_pct": 1.2
+            "cote": 2.11,
+            "probabilite_modele": 47.4,
+            "ev_pct": 0.1
           }
         ]
       },
@@ -169,11 +180,11 @@
       "commence_time": "2026-09-04T17:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE GALATASARAY",
-        "cote": 1.6,
+        "cote": 1.61,
         "indice_fixe": 78
       },
       "modele_b": {
-        "lambda_domicile": 1.28,
+        "lambda_domicile": 1.26,
         "lambda_exterieur": 2.3,
         "divergence_pinnacle_public_pct": -1.2,
         "value_bets": []
