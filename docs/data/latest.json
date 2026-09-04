@@ -1,339 +1,184 @@
 {
-  "generated_at": "2026-09-03T18:04:41.215474+00:00",
+  "generated_at": "2026-09-04T00:05:59.456322+00:00",
   "erreur": null,
-  "nb_matchs": 14,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Raków Częstochowa vs Górnik Zabrze",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-09-03T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 0.7,
-        "lambda_exterieur": 2.6,
-        "divergence_pinnacle_public_pct": 3.4,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE RAKÓW CZĘSTOCHOWA",
-            "cote": 397.43,
-            "probabilite_modele": 5.7,
-            "ev_pct": 2160.9
-          },
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 10.42,
-            "probabilite_modele": 42.3,
-            "ev_pct": 340.4
-          },
-          {
-            "marche": "NUL",
-            "cote": 17.75,
-            "probabilite_modele": 16.3,
-            "ev_pct": 190.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Palermo vs Mantova",
-      "competition": "Coppa Italia",
-      "commence_time": "2026-09-03T16:01:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 4.0,
-        "lambda_exterieur": 1.72,
-        "divergence_pinnacle_public_pct": -6.3,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE MANTOVA",
-            "cote": 65.33,
-            "probabilite_modele": 7.3,
-            "ev_pct": 378.2
-          },
-          {
-            "marche": "PLUS DE 6.5 BUTS",
-            "cote": 7.65,
-            "probabilite_modele": 38.7,
-            "ev_pct": 196.4
-          },
-          {
-            "marche": "NUL",
-            "cote": 7.2,
-            "probabilite_modele": 14.5,
-            "ev_pct": 4.5
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Neom vs Al-Khaleej",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-03T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 3.46,
-        "lambda_exterieur": 0.05,
-        "divergence_pinnacle_public_pct": null,
-        "value_bets": [
-          {
-            "marche": "NUL",
-            "cote": 40.0,
-            "probabilite_modele": 3.5,
-            "ev_pct": 41.2
-          }
-        ]
-      },
-      "pinnacle_disponible": false,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Mjällby AIF vs Djurgardens IF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-09-03T17:00:00Z",
+      "match": "Nautico PE vs Botafogo-SP",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-03T23:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.78,
+        "cote": 1.76,
         "indice_fixe": 82
       },
       "modele_b": {
-        "lambda_domicile": 0.62,
-        "lambda_exterieur": 0.92,
-        "divergence_pinnacle_public_pct": -1.7,
+        "lambda_domicile": 0.8,
+        "lambda_exterieur": 0.64,
+        "divergence_pinnacle_public_pct": -2.3,
         "value_bets": []
       },
       "pinnacle_disponible": true
     },
     {
-      "match": "Diriyah Club vs Al-Qadsiah",
+      "match": "Abha Club vs Al-Ettifaq",
       "competition": "Saudi Pro League",
-      "commence_time": "2026-09-03T18:00:00Z",
+      "commence_time": "2026-09-04T16:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.24,
+        "lambda_exterieur": 1.42,
+        "divergence_pinnacle_public_pct": 0.2,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 50.4,
+            "ev_pct": 7.5
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Arminia Bielefeld vs FC St. Pauli",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-04T16:30:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.42,
+        "lambda_exterieur": 1.2,
+        "divergence_pinnacle_public_pct": 0.1,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.14,
+            "probabilite_modele": 51.5,
+            "ev_pct": 10.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "TSG Hoffenheim vs Bayer Leverkusen",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-04T16:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.25 BUTS",
-        "cote": 1.85,
+        "pari": "VICTOIRE BAYER LEVERKUSEN",
+        "cote": 1.84,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.1,
+        "lambda_exterieur": 1.62,
+        "divergence_pinnacle_public_pct": 0.7,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.75 BUTS",
+            "cote": 2.09,
+            "probabilite_modele": 49.0,
+            "ev_pct": 2.4
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Hannover 96 vs Karlsruher SC",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-04T16:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE HANNOVER 96",
+        "cote": 1.68,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 2.34,
+        "lambda_exterieur": 1.38,
+        "divergence_pinnacle_public_pct": 0.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Aalesund vs IK Start",
+      "competition": "Eliteserien - Norway",
+      "commence_time": "2026-09-04T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.92,
+        "lambda_exterieur": 1.66,
+        "divergence_pinnacle_public_pct": 0.6,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "FC Ingolstadt 04 vs Alemannia Aachen",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-04T17:00:00Z",
+      "modele_a": null,
+      "modele_b": {
+        "lambda_domicile": 1.88,
+        "lambda_exterieur": 1.78,
+        "divergence_pinnacle_public_pct": 1.0,
+        "value_bets": []
+      },
+      "pinnacle_disponible": true
+    },
+    {
+      "match": "Lyon vs Auxerre",
+      "competition": "Ligue 1 - France",
+      "commence_time": "2026-09-04T17:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE LYON",
+        "cote": 1.5,
+        "indice_fixe": 78
+      },
+      "modele_b": {
+        "lambda_domicile": 1.96,
+        "lambda_exterieur": 0.82,
+        "divergence_pinnacle_public_pct": 0.8,
+        "value_bets": [
+          {
+            "marche": "MOINS DE 2.5 BUTS",
+            "cote": 2.13,
+            "probabilite_modele": 47.6,
+            "ev_pct": 1.2
+          }
+        ]
+      },
+      "pinnacle_disponible": true,
+      "modele_c": {
+        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
+      }
+    },
+    {
+      "match": "Basaksehir vs Galatasaray",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-09-04T17:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE GALATASARAY",
+        "cote": 1.6,
         "indice_fixe": 78
       },
       "modele_b": {
         "lambda_domicile": 1.28,
-        "lambda_exterieur": 2.46,
-        "divergence_pinnacle_public_pct": 0.0,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.25 BUTS",
-            "cote": 2.15,
-            "probabilite_modele": 51.7,
-            "ev_pct": 11.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Copenhagen vs FC Nordsjaelland",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-09-03T18:00:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.96,
-        "lambda_exterieur": 1.68,
-        "divergence_pinnacle_public_pct": -0.5,
+        "lambda_exterieur": 2.3,
+        "divergence_pinnacle_public_pct": -1.2,
         "value_bets": []
       },
       "pinnacle_disponible": true
-    },
-    {
-      "match": "Anderlecht vs KV Kortrijk",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.04,
-        "lambda_exterieur": 0.76,
-        "divergence_pinnacle_public_pct": 0.5,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 2.5 BUTS",
-            "cote": 2.02,
-            "probabilite_modele": 53.0,
-            "ev_pct": 6.9
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Basel vs FC Sion",
-      "competition": "Swiss Superleague",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.9,
-        "lambda_exterieur": 1.82,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": [
-          {
-            "marche": "PLUS DE 3.5 BUTS",
-            "cote": 2.04,
-            "probabilite_modele": 51.5,
-            "ev_pct": 5.3
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "FC Lugano vs Servette",
-      "competition": "Swiss Superleague",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.36,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": -1.3,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.11,
-            "probabilite_modele": 48.8,
-            "ev_pct": 3.1
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Gent vs Leuven",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE GENT",
-        "cote": 1.7,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 1.7,
-        "lambda_exterieur": 0.88,
-        "divergence_pinnacle_public_pct": 0.2,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Lech Poznań vs Jagiellonia Białystok",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE LECH POZNAŃ",
-        "cote": 1.63,
-        "indice_fixe": 78
-      },
-      "modele_b": {
-        "lambda_domicile": 2.32,
-        "lambda_exterieur": 1.34,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Hibernian vs Hearts",
-      "competition": "Premiership - Scotland",
-      "commence_time": "2026-09-03T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.44,
-        "lambda_exterieur": 1.22,
-        "divergence_pinnacle_public_pct": 1.4,
-        "value_bets": [
-          {
-            "marche": "MOINS DE 2.5 BUTS",
-            "cote": 2.08,
-            "probabilite_modele": 50.0,
-            "ev_pct": 4.2
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
-    },
-    {
-      "match": "Toulouse vs Lille",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-09-03T18:45:00Z",
-      "modele_a": null,
-      "modele_b": {
-        "lambda_domicile": 1.06,
-        "lambda_exterieur": 1.6,
-        "divergence_pinnacle_public_pct": 0.1,
-        "value_bets": []
-      },
-      "pinnacle_disponible": true
-    },
-    {
-      "match": "Cagliari vs Hellas Verona",
-      "competition": "Coppa Italia",
-      "commence_time": "2026-09-03T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82
-      },
-      "modele_b": {
-        "lambda_domicile": 1.48,
-        "lambda_exterieur": 1.04,
-        "divergence_pinnacle_public_pct": -2.2,
-        "value_bets": [
-          {
-            "marche": "VICTOIRE HELLAS VERONA",
-            "cote": 4.0,
-            "probabilite_modele": 25.2,
-            "ev_pct": 0.8
-          }
-        ]
-      },
-      "pinnacle_disponible": true,
-      "modele_c": {
-        "erreur": "Correspondance d'équipe non trouvée avec confiance suffisante"
-      }
     }
   ]
 }
