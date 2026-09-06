@@ -1,0 +1,37 @@
+name: Robot Code 90 - Analyse et publication
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-analyse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installation des dépendances
+        run: pip install -r requirements.txt
+
+      - name: Exécution du script d'analyse
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/code90.py
+
+      - name: Publication des résultats (commit automatique)
+        run: |
+          git config user.name "robot-code90-bot"
+          git config user.email "actions@github.com"
+          git add docs/data/latest.json docs/data/history.csv
+          git diff --staged --quiet || git commit -m "Mise à jour automatique des résultats [skip ci]"
+          git push
