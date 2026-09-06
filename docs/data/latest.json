@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T18:13:45.874405+00:00",
+  "generated_at": "2026-09-06T18:18:14.539827+00:00",
   "erreur": null,
-  "nb_matchs": 25,
+  "nb_matchs": 26,
   "matchs": [
     {
       "match": "OFI Crete vs AE Kifisia FC",
@@ -9,7 +9,7 @@
       "commence_time": "2026-09-06T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.4,
+        "cote": 1.25,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -22,7 +22,7 @@
       "commence_time": "2026-09-06T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.41,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +35,7 @@
       "commence_time": "2026-09-06T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.52,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-06T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.36,
+        "cote": 1.18,
         "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
@@ -60,8 +60,8 @@
       "competition": "La Liga - Spain",
       "commence_time": "2026-09-06T16:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.05,
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.23,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +74,7 @@
       "commence_time": "2026-09-06T16:32:15Z",
       "modele_a": {
         "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.4,
+        "cote": 1.2,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -86,10 +86,10 @@
       "competition": "Turkey Super League",
       "commence_time": "2026-09-06T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
+        "pari": "MOINS DE 4.5 BUTS",
         "cote": 1.72,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -99,10 +99,10 @@
       "competition": "Turkey Super League",
       "commence_time": "2026-09-06T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.41,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.39,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -112,10 +112,10 @@
       "competition": "Super League - Greece",
       "commence_time": "2026-09-06T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.0 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 0.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -126,7 +126,7 @@
       "commence_time": "2026-09-06T17:02:00Z",
       "modele_a": {
         "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.48,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -152,7 +152,7 @@
       "commence_time": "2026-09-06T17:15:00Z",
       "modele_a": {
         "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.7,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -164,10 +164,10 @@
       "competition": "3. Liga - Germany",
       "commence_time": "2026-09-06T17:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -178,7 +178,7 @@
       "commence_time": "2026-09-06T17:31:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.84,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -204,7 +204,7 @@
       "commence_time": "2026-09-06T17:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.7,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -217,7 +217,7 @@
       "commence_time": "2026-09-06T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.57,
+        "cote": 1.66,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -227,10 +227,10 @@
     {
       "match": "Jagiellonia Białystok vs Śląsk Wrocław",
       "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-09-06T18:15:00Z",
+      "commence_time": "2026-09-06T18:17:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.48,
+        "cote": 1.49,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -250,7 +250,7 @@
       "commence_time": "2026-09-06T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
+        "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -289,7 +289,7 @@
       "commence_time": "2026-09-06T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.79,
+        "cote": 1.77,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -315,12 +315,32 @@
       "commence_time": "2026-09-06T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.68,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
+    },
+    {
+      "match": "Internacional vs Santos",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-09-06T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
     }
-  ]
+  ],
+  "debug_scores": {
+    "appel_ok": false,
+    "code_http": 404,
+    "nb_evenements": 0,
+    "erreur": "{\"message\":\"Unknown sport\",\"error_code\":\"UNKNOWN_SPORT\",\"details_url\":\"https://the-odds-api.com/liveapi/guides/v4/api-error-codes.html#unknown-sport\"}\n",
+    "exemples_noms": []
+  }
 }
