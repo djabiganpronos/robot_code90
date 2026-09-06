@@ -1,93 +1,15 @@
 {
-  "generated_at": "2026-09-06T18:18:14.539827+00:00",
+  "generated_at": "2026-09-06T18:50:52.386938+00:00",
   "erreur": null,
-  "nb_matchs": 26,
+  "nb_matchs": 23,
   "matchs": [
-    {
-      "match": "OFI Crete vs AE Kifisia FC",
-      "competition": "Super League - Greece",
-      "commence_time": "2026-09-06T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.25,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Alavés vs CA Osasuna",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-09-06T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.41,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "CD Castellón vs Albacete",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-06T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.52,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Anderlecht vs Genk",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-09-06T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.18,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Málaga vs Levante",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-09-06T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.23,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "1. FC Nürnberg vs VfB Stuttgart",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-09-06T16:32:15Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.2,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Trabzonspor vs Genclerbirligi SK",
       "competition": "Turkey Super League",
       "commence_time": "2026-09-06T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.72,
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.23,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -99,10 +21,10 @@
       "competition": "Turkey Super League",
       "commence_time": "2026-09-06T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.39,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.1,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -112,10 +34,10 @@
       "competition": "Super League - Greece",
       "commence_time": "2026-09-06T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 0.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.15,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -125,8 +47,8 @@
       "competition": "Primeira Liga - Portugal",
       "commence_time": "2026-09-06T17:02:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.48,
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.3,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -138,8 +60,8 @@
       "competition": "Eliteserien - Norway",
       "commence_time": "2026-09-06T17:15:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.64,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -152,7 +74,7 @@
       "commence_time": "2026-09-06T17:15:00Z",
       "modele_a": {
         "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.55,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -164,10 +86,10 @@
       "competition": "3. Liga - Germany",
       "commence_time": "2026-09-06T17:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 0.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -177,10 +99,10 @@
       "competition": "Serie B - Italy",
       "commence_time": "2026-09-06T17:31:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 4.25 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -190,8 +112,8 @@
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-06T17:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.83,
+        "pari": "PLUS DE 1.0 BUTS",
+        "cote": 1.76,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -203,10 +125,10 @@
       "competition": "Primera División - Argentina",
       "commence_time": "2026-09-06T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -216,10 +138,10 @@
       "competition": "Primera División - Chile",
       "commence_time": "2026-09-06T17:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -229,10 +151,10 @@
       "competition": "Ekstraklasa - Poland",
       "commence_time": "2026-09-06T18:17:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.49,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.45,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -241,7 +163,13 @@
       "match": "Panathinaikos vs PAOK Thessaloniki",
       "competition": "Super League - Greece",
       "commence_time": "2026-09-06T18:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
       "score": null
     },
     {
@@ -250,7 +178,7 @@
       "commence_time": "2026-09-06T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.59,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -263,7 +191,7 @@
       "commence_time": "2026-09-06T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.57,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -276,7 +204,7 @@
       "commence_time": "2026-09-06T19:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE ALMERÍA",
-        "cote": 1.56,
+        "cote": 1.53,
         "indice_fixe": 78,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -289,7 +217,7 @@
       "commence_time": "2026-09-06T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.77,
+        "cote": 1.74,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -302,7 +230,7 @@
       "commence_time": "2026-09-06T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.77,
+        "cote": 1.67,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -315,7 +243,7 @@
       "commence_time": "2026-09-06T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.61,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -328,19 +256,56 @@
       "commence_time": "2026-09-06T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
+        "cote": 1.65,
         "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
       },
       "score": null
+    },
+    {
+      "match": "Gil Vicente vs Académico de Viseu",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-09-06T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Central Córdoba vs Independiente",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-09-06T20:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Huachipato vs Colo Colo",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-09-06T20:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE COLO COLO",
+        "cote": 1.38,
+        "indice_fixe": 84,
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
     }
   ],
   "debug_scores": {
-    "appel_ok": false,
-    "code_http": 404,
-    "nb_evenements": 0,
-    "erreur": "{\"message\":\"Unknown sport\",\"error_code\":\"UNKNOWN_SPORT\",\"details_url\":\"https://the-odds-api.com/liveapi/guides/v4/api-error-codes.html#unknown-sport\"}\n",
-    "exemples_noms": []
+    "appel_ok": true,
+    "nb_fixtures": 0,
+    "erreur": null
   }
 }
