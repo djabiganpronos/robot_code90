@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T18:50:52.386938+00:00",
+  "generated_at": "2026-09-06T19:01:27.723788+00:00",
   "erreur": null,
-  "nb_matchs": 23,
+  "nb_matchs": 28,
   "matchs": [
     {
       "match": "Trabzonspor vs Genclerbirligi SK",
@@ -35,7 +35,7 @@
       "commence_time": "2026-09-06T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.15,
+        "cote": 1.0,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-06T17:02:00Z",
       "modele_a": {
         "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.3,
+        "cote": 1.04,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -60,8 +60,8 @@
       "competition": "Eliteserien - Norway",
       "commence_time": "2026-09-06T17:15:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.85,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.25,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -73,8 +73,8 @@
       "competition": "Belgium First Div",
       "commence_time": "2026-09-06T17:15:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.55,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.12,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -86,20 +86,7 @@
       "competition": "3. Liga - Germany",
       "commence_time": "2026-09-06T17:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 0.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cremonese vs Padova",
-      "competition": "Serie B - Italy",
-      "commence_time": "2026-09-06T17:31:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.25 BUTS",
+        "pari": "MOINS DE 0.5 BUTS",
         "cote": 1.75,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -108,16 +95,17 @@
       "score": null
     },
     {
+      "match": "Cremonese vs Padova",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-09-06T17:31:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
       "match": "FC Baltika Kaliningrad vs Lokomotiv Moscow",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-06T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.0 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -125,10 +113,10 @@
       "competition": "Primera División - Argentina",
       "commence_time": "2026-09-06T17:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -139,7 +127,7 @@
       "commence_time": "2026-09-06T17:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.43,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -151,10 +139,10 @@
       "competition": "Ekstraklasa - Poland",
       "commence_time": "2026-09-06T18:17:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.45,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.49,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -164,10 +152,10 @@
       "competition": "Super League - Greece",
       "commence_time": "2026-09-06T18:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -177,10 +165,10 @@
       "competition": "Serie A - Italy",
       "commence_time": "2026-09-06T18:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.59,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -190,10 +178,10 @@
       "competition": "Ligue 1 - France",
       "commence_time": "2026-09-06T18:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -204,7 +192,7 @@
       "commence_time": "2026-09-06T19:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE ALMERÍA",
-        "cote": 1.53,
+        "cote": 1.54,
         "indice_fixe": 78,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -230,7 +218,7 @@
       "commence_time": "2026-09-06T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.74,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -301,11 +289,78 @@
         "tendance_publique": "Neutre"
       },
       "score": null
+    },
+    {
+      "match": "Lanus vs Defensa y Justicia",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-09-06T20:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Botafogo vs Palmeiras",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-09-06T21:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Ponte Preta vs São Bernardo",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-06T21:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "León vs América",
+      "competition": "Leagues Cup",
+      "commence_time": "2026-09-06T22:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "River Plate vs Independiente Rivadavia",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-09-06T22:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
     }
   ],
   "debug_scores": {
     "appel_ok": true,
     "nb_fixtures": 0,
-    "erreur": null
+    "erreur": null,
+    "errors_live": {
+      "access": "Your account is suspended, check on https://dashboard.api-football.com."
+    },
+    "errors_date": {
+      "access": "Your account is suspended, check on https://dashboard.api-football.com."
+    },
+    "results_live": 0,
+    "results_date": 0
   }
 }
