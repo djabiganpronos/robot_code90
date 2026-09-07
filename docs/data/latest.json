@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T06:09:31.636842+00:00",
+  "generated_at": "2026-09-07T12:08:35.791949+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,10 +8,10 @@
       "competition": "Super League - Greece",
       "commence_time": "2026-09-07T15:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -22,7 +22,7 @@
       "commence_time": "2026-09-07T15:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.68,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +35,7 @@
       "commence_time": "2026-09-07T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.6,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-07T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.64,
+        "cote": 1.66,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +61,7 @@
       "commence_time": "2026-09-07T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.53,
+        "cote": 1.61,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +74,7 @@
       "commence_time": "2026-09-07T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.81,
+        "cote": 1.79,
         "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
@@ -86,10 +86,10 @@
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-09-07T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -100,7 +100,7 @@
       "commence_time": "2026-09-07T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.77,
+        "cote": 1.76,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
