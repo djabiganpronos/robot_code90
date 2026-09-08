@@ -1,97 +1,65 @@
 {
-  "generated_at": "2026-09-08T12:09:14.764155+00:00",
+  "generated_at": "2026-09-08T18:08:04.144032+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 13,
   "matchs": [
     {
-      "match": "Incheon United vs Bucheon FC 1995",
-      "competition": "K League 1",
-      "commence_time": "2026-09-08T10:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.38,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Ulsan Hyundai FC vs FC Seoul",
-      "competition": "K League 1",
-      "commence_time": "2026-09-08T10:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.35,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Utrecht vs Go Ahead Eagles",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-09-08T11:55:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.0 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "VPS Vaasa vs AC Oulu",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-08T15:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Lahti vs IFK Mariehamn",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-08T15:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE FC LAHTI",
-        "cote": 1.54,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Ilves Tampere vs Jaro",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-08T15:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "TPS Turku vs SJK Seinäjoki",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-08T15:00:00Z",
+      "match": "AEK Athens vs LASK",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-08T16:45:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Al-Ettifaq vs Al-Faisaly KSA FC",
+      "match": "Club Brugge vs Aston Villa",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-08T16:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 6.25 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "NEC Nijmegen vs Excelsior",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-08T16:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Al-Qadsiah vs Al-Ahli",
       "competition": "Saudi Pro League",
-      "commence_time": "2026-09-08T15:30:00Z",
+      "commence_time": "2026-09-08T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Ittihad vs Al-Fayha",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-08T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.49,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Hitchin Town FC vs Biggleswade Town FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-08T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.57,
@@ -102,41 +70,87 @@
       "score": null
     },
     {
-      "match": "Al-Hazem vs Al-Taawoun",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-08T15:55:00Z",
+      "match": "Blackburn Rovers vs Sheffield United",
+      "competition": "Championship",
+      "commence_time": "2026-09-08T18:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Boldmere St Michaels FC vs Bourne Town FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-08T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Bournemouth vs Lincoln City",
+      "competition": "EFL Cup",
+      "commence_time": "2026-09-08T18:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Leyton Orient vs Bradford City",
+      "competition": "EFL Cup",
+      "commence_time": "2026-09-08T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "IF Gnistan vs KuPS Kuopio",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-08T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "AEK Athens vs LASK",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-09-08T16:45:00Z",
+      "match": "Brentwood Town FC vs Concord Rangers FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-08T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 88,
+        "cote": 1.62,
+        "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Wrexham AFC vs Burnley",
+      "competition": "Championship",
+      "commence_time": "2026-09-08T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Cardiff City vs Stoke City",
+      "competition": "Championship",
+      "commence_time": "2026-09-08T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
