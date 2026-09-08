@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-08T06:08:55.251224+00:00",
+  "generated_at": "2026-09-08T12:09:14.764155+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
     {
       "match": "Incheon United vs Bucheon FC 1995",
       "competition": "K League 1",
       "commence_time": "2026-09-08T10:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.38,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -21,10 +21,23 @@
       "competition": "K League 1",
       "commence_time": "2026-09-08T10:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.35,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Utrecht vs Go Ahead Eagles",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-08T11:55:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.0 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -48,7 +61,7 @@
       "commence_time": "2026-09-08T15:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE FC LAHTI",
-        "cote": 1.57,
+        "cote": 1.54,
         "indice_fixe": 78,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "1X2"
@@ -93,11 +106,37 @@
       "competition": "Saudi Pro League",
       "commence_time": "2026-09-08T15:55:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "IF Gnistan vs KuPS Kuopio",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-09-08T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "AEK Athens vs LASK",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-08T16:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
       },
       "score": null
     }
