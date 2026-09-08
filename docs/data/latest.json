@@ -1,47 +1,8 @@
 {
-  "generated_at": "2026-09-08T00:10:46.520053+00:00",
+  "generated_at": "2026-09-08T06:08:55.251224+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Deportes Limache vs Cobresal",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-09-07T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Vitoria vs Grêmio",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-07T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Union Santa Fe vs Instituto de Córdoba",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-08T00:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Incheon United vs Bucheon FC 1995",
       "competition": "K League 1",
@@ -72,7 +33,13 @@
       "match": "VPS Vaasa vs AC Oulu",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-09-08T15:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
@@ -81,7 +48,7 @@
       "commence_time": "2026-09-08T15:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE FC LAHTI",
-        "cote": 1.58,
+        "cote": 1.57,
         "indice_fixe": 78,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "1X2"
@@ -94,7 +61,7 @@
       "commence_time": "2026-09-08T15:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.85,
+        "cote": 1.83,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -115,6 +82,19 @@
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.57,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Hazem vs Al-Taawoun",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-08T15:55:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.63,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
