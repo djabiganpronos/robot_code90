@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-09T06:08:53.228585+00:00",
+  "generated_at": "2026-09-09T12:08:38.956592+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 12,
   "matchs": [
     {
-      "match": "Daejeon Citizen vs FC Anyang",
+      "match": "Gangwon FC vs Jeonbuk Hyundai Motors",
       "competition": "K League 1",
-      "commence_time": "2026-09-09T10:30:00Z",
+      "commence_time": "2026-09-09T10:29:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Gangwon FC vs Jeonbuk Hyundai Motors",
+      "match": "Daejeon Citizen vs FC Anyang",
       "competition": "K League 1",
       "commence_time": "2026-09-09T10:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -34,8 +34,8 @@
       "competition": "K League 1",
       "commence_time": "2026-09-09T10:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.4,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -47,8 +47,8 @@
       "competition": "K League 1",
       "commence_time": "2026-09-09T10:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.64,
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.42,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -88,7 +88,59 @@
       "commence_time": "2026-09-09T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.78,
+        "cote": 1.73,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "VfB Stuttgart vs Viking FK",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-09T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Landskrona BoIS vs Helsingborgs IF",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-09T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Nordic United FC vs IFK Värnamo",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-09T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Sandvikens IF vs IK Oddevold",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-09T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.76,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
