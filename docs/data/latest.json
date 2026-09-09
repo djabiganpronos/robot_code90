@@ -1,80 +1,8 @@
 {
-  "generated_at": "2026-09-09T12:08:38.956592+00:00",
+  "generated_at": "2026-09-09T18:08:40.198830+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 17,
   "matchs": [
-    {
-      "match": "Gangwon FC vs Jeonbuk Hyundai Motors",
-      "competition": "K League 1",
-      "commence_time": "2026-09-09T10:29:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Daejeon Citizen vs FC Anyang",
-      "competition": "K League 1",
-      "commence_time": "2026-09-09T10:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Gwangju FC vs Jeju United FC",
-      "competition": "K League 1",
-      "commence_time": "2026-09-09T10:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.4,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Pohang Steelers vs Sangju Sangmu FC",
-      "competition": "K League 1",
-      "commence_time": "2026-09-09T10:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.42,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "HJK Helsinki vs FC Inter Turku",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-09T15:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Al-Kholood vs Al-Shabab",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-09T15:55:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Barcelona vs Feyenoord",
       "competition": "UEFA Champions League",
@@ -87,10 +15,10 @@
       "competition": "Dutch Eredivisie",
       "commence_time": "2026-09-09T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -99,13 +27,7 @@
       "match": "VfB Stuttgart vs Viking FK",
       "competition": "UEFA Champions League",
       "commence_time": "2026-09-09T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -113,10 +35,10 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-09T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -126,10 +48,10 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-09T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -139,11 +61,148 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-09T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Ljungskile SK vs Norrby IF",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-09T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.78,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Nassr vs Abha Club",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-09T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Fateh vs Diriyah Club",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-09T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Exmouth Town FC vs Banbury United FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Norwich City vs Birmingham City",
+      "competition": "Championship",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Whyteleafe FC vs Crowborough Athletic FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Derby County vs West Bromwich Albion",
+      "competition": "Championship",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Rangers vs St Mirren",
+      "competition": "Premiership - Scotland",
+      "commence_time": "2026-09-09T18:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Napoli vs Arsenal",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ARSENAL",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Liverpool vs Atlético Madrid",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "St Johnstone vs Celtic",
+      "competition": "Premiership - Scotland",
+      "commence_time": "2026-09-09T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
