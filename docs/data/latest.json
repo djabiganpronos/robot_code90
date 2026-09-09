@@ -1,54 +1,15 @@
 {
-  "generated_at": "2026-09-09T00:10:59.689465+00:00",
+  "generated_at": "2026-09-09T06:08:53.228585+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Cuiabá vs Athletic Club (MG)",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-08T23:29:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Criciuma vs Juventude",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-09T00:02:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Boca Juniors vs Sao Paulo",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-09T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Daejeon Citizen vs FC Anyang",
       "competition": "K League 1",
       "commence_time": "2026-09-09T10:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.72,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -87,7 +48,7 @@
       "commence_time": "2026-09-09T10:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.64,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -119,6 +80,19 @@
       "competition": "UEFA Champions League",
       "commence_time": "2026-09-09T16:45:00Z",
       "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "FC Twente Enschede vs SC Telstar",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-09T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
