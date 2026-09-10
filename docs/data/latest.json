@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-10T12:09:11.549386+00:00",
+  "generated_at": "2026-09-10T18:08:22.772578+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 14,
   "matchs": [
     {
       "match": "Fenerbahce vs AS Roma",
       "competition": "UEFA Champions League",
       "commence_time": "2026-09-10T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -22,7 +22,7 @@
       "commence_time": "2026-09-10T16:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.79,
+        "cote": 1.85,
         "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
@@ -34,10 +34,10 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-10T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -47,10 +47,10 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-10T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -60,10 +60,10 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-10T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.52,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -73,10 +73,10 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-09-10T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -87,7 +87,7 @@
       "commence_time": "2026-09-10T18:15:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.78,
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -100,10 +100,88 @@
       "commence_time": "2026-09-10T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.71,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Como vs RB Leipzig",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-10T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Stevenage vs Luton",
+      "competition": "League 1",
+      "commence_time": "2026-09-10T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Manchester United vs Sabah FK",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-10T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Slavia Praha vs RC Lens",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-09-10T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "CF Estrela vs Braga",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-09-10T19:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Vila Nova vs Goiás",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-10T22:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.47,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
