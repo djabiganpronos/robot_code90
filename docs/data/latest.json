@@ -1,41 +1,73 @@
 {
-  "generated_at": "2026-09-09T18:08:40.198830+00:00",
+  "generated_at": "2026-09-10T00:09:28.889826+00:00",
   "erreur": null,
-  "nb_matchs": 17,
+  "nb_matchs": 19,
   "matchs": [
     {
-      "match": "Barcelona vs Feyenoord",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-09-09T16:45:00Z",
+      "match": "Santos vs Clube Atlético Mineiro",
+      "competition": "Copa Sudamericana",
+      "commence_time": "2026-09-09T22:00:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "FC Twente Enschede vs SC Telstar",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-09-09T16:45:00Z",
+      "match": "Fortaleza vs Avai",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-09T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.38,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Botafogo-SP vs Grêmio Novorizontino",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-09T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "América Mineiro vs Nautico PE",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-09T23:29:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "VfB Stuttgart vs Viking FK",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-09-09T16:45:00Z",
-      "modele_a": null,
+      "match": "Atlanta United FC vs Orlando City SC",
+      "competition": "MLS",
+      "commence_time": "2026-09-09T23:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
-      "match": "Landskrona BoIS vs Helsingborgs IF",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-09-09T17:00:00Z",
+      "match": "CF Montreal vs Charlotte FC",
+      "competition": "MLS",
+      "commence_time": "2026-09-09T23:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -44,12 +76,12 @@
       "score": null
     },
     {
-      "match": "Nordic United FC vs IFK Värnamo",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-09-09T17:00:00Z",
+      "match": "D.C. United vs Columbus Crew SC",
+      "competition": "MLS",
+      "commence_time": "2026-09-09T23:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.7,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -57,38 +89,12 @@
       "score": null
     },
     {
-      "match": "Sandvikens IF vs IK Oddevold",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-09-09T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.51,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Ljungskile SK vs Norrby IF",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-09-09T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Al-Nassr vs Abha Club",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-09T18:00:00Z",
+      "match": "Toronto FC vs Nashville SC",
+      "competition": "MLS",
+      "commence_time": "2026-09-09T23:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.79,
+        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -96,12 +102,38 @@
       "score": null
     },
     {
-      "match": "Al-Fateh vs Diriyah Club",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-09-09T18:00:00Z",
+      "match": "Operario PR vs Clube de Regatas Brasil",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-09T23:32:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Philadelphia Union vs FC Cincinnati",
+      "competition": "MLS",
+      "commence_time": "2026-09-09T23:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "New York City FC vs New England Revolution",
+      "competition": "MLS",
+      "commence_time": "2026-09-10T00:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.61,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -109,25 +141,12 @@
       "score": null
     },
     {
-      "match": "Exmouth Town FC vs Banbury United FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-09T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Norwich City vs Birmingham City",
-      "competition": "Championship",
-      "commence_time": "2026-09-09T18:45:00Z",
+      "match": "Atletico Goianiense vs Ceará",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-10T00:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.7,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -135,74 +154,87 @@
       "score": null
     },
     {
-      "match": "Whyteleafe FC vs Crowborough Athletic FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-09T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Derby County vs West Bromwich Albion",
-      "competition": "Championship",
-      "commence_time": "2026-09-09T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Rangers vs St Mirren",
-      "competition": "Premiership - Scotland",
-      "commence_time": "2026-09-09T18:45:00Z",
+      "match": "Austin FC vs Colorado Rapids",
+      "competition": "MLS",
+      "commence_time": "2026-09-10T00:30:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Napoli vs Arsenal",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-09-09T19:00:00Z",
+      "match": "Chicago Fire vs Inter Miami CF",
+      "competition": "MLS",
+      "commence_time": "2026-09-10T00:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE ARSENAL",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Cote extérieur en fourchette favorite",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Liverpool vs Atlético Madrid",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-09-09T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
+        "pari": "MOINS DE 4.5 BUTS",
         "cote": 1.66,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Estudiantes La Plata vs Corinthians-SP",
+      "competition": "Copa Libertadores",
+      "commence_time": "2026-09-10T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "St Johnstone vs Celtic",
-      "competition": "Premiership - Scotland",
-      "commence_time": "2026-09-09T19:00:00Z",
+      "match": "Minnesota United FC vs FC Dallas",
+      "competition": "MLS",
+      "commence_time": "2026-09-10T00:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
+        "cote": 1.7,
+        "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Houston Dynamo vs Real Salt Lake",
+      "competition": "MLS",
+      "commence_time": "2026-09-10T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Vancouver Whitecaps FC vs LA Galaxy",
+      "competition": "MLS",
+      "commence_time": "2026-09-10T02:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Los Angeles FC vs New York Red Bulls",
+      "competition": "MLS",
+      "commence_time": "2026-09-10T02:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
