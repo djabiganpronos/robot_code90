@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-11T06:08:19.468011+00:00",
+  "generated_at": "2026-09-11T12:09:00.979917+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Vissel Kobe vs Kashima Antlers",
+      "match": "Kyoto Purple Sanga vs Kashiwa Reysol",
       "competition": "J League",
-      "commence_time": "2026-09-11T10:00:00Z",
+      "commence_time": "2026-09-11T10:03:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.61,
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.03,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,14 +17,14 @@
       "score": null
     },
     {
-      "match": "Kyoto Purple Sanga vs Kashiwa Reysol",
+      "match": "Vissel Kobe vs Kashima Antlers",
       "competition": "J League",
-      "commence_time": "2026-09-11T10:00:00Z",
+      "commence_time": "2026-09-11T10:04:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.02,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -33,7 +33,13 @@
       "match": "Kryliya Sovetov vs Rodina Moscow",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-11T15:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 2.75 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
       "score": null
     },
     {
@@ -54,10 +60,10 @@
       "competition": "Saudi Pro League",
       "commence_time": "2026-09-11T15:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.51,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -68,7 +74,7 @@
       "commence_time": "2026-09-11T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.45,
+        "cote": 1.43,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -81,7 +87,7 @@
       "commence_time": "2026-09-11T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -98,6 +104,32 @@
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Werder Bremen vs Hamburger SV",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-11T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Copenhagen vs AC Horsens",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-09-11T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
