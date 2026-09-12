@@ -1,86 +1,8 @@
 {
-  "generated_at": "2026-09-12T00:08:57.067210+00:00",
+  "generated_at": "2026-09-12T06:08:21.887518+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Defensa y Justicia vs Gimnasia Mendoza",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-11T22:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.01,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Coritiba vs Atletico Paranaense",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-12T00:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Boca Juniors vs Central Córdoba",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-12T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Necaxa vs Puebla",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-12T01:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atlante FC vs Pachuca",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-12T03:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Tijuana vs Querétaro",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-12T03:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Bucheon FC 1995 vs Jeju United FC",
       "competition": "K League 1",
@@ -124,9 +46,55 @@
       "match": "Mito HollyHock vs Kawasaki Frontale",
       "competition": "J League",
       "commence_time": "2026-09-12T09:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Shimizu S Pulse vs Avispa Fukuoka",
+      "competition": "J League",
+      "commence_time": "2026-09-12T09:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.8,
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "RB Leipzig vs 1. FC Nürnberg",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Hiroshima Sanfrecce FC vs Cerezo Osaka",
+      "competition": "J League",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Daejeon Citizen vs Pohang Steelers",
+      "competition": "K League 1",
+      "commence_time": "2026-09-12T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.81,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
