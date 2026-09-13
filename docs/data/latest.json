@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-13T12:08:20.193325+00:00",
+  "generated_at": "2026-09-13T18:07:44.623205+00:00",
   "erreur": null,
-  "nb_matchs": 26,
+  "nb_matchs": 32,
   "matchs": [
     {
-      "match": "Wisła Płock vs Cracovia Kraków",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-09-13T10:15:00Z",
+      "match": "Asteras Tripolis vs AEK Athens",
+      "competition": "Super League - Greece",
+      "commence_time": "2026-09-13T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.03,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.02,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,12 +17,12 @@
       "score": null
     },
     {
-      "match": "Excelsior vs FC Utrecht",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-09-13T10:15:00Z",
+      "match": "FC Nordsjaelland vs AGF Aarhus",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-09-13T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.08,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.0,
         "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
@@ -30,25 +30,12 @@
       "score": null
     },
     {
-      "match": "Sheffield United vs Wolverhampton Wanderers",
-      "competition": "Championship",
-      "commence_time": "2026-09-13T11:00:00Z",
+      "match": "Napoli vs Bologna",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-09-13T16:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.0 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "1. FC Heidenheim vs Holstein Kiel",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-09-13T11:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.18,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.2,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -56,12 +43,110 @@
       "score": null
     },
     {
-      "match": "Club Brugge vs Royal Antwerp",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-09-13T11:30:00Z",
+      "match": "Neom vs Al-Fateh",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-13T16:20:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.0 BUTS",
-        "cote": 1.6,
+        "pari": "MOINS DE 6.5 BUTS",
+        "cote": 1.41,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Getafe vs Deportivo La Coruña",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-09-13T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Krasnodar vs FC Akron Tolyatti",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-09-13T16:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Mallorca vs Sabadell FC",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-13T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SC Freiburg vs FSV Mainz 05",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-13T16:30:35Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SV Zulte-Waregem vs Charleroi",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-09-13T16:31:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Amed SK vs Basaksehir",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-09-13T17:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE AMED SK",
+        "cote": 1.44,
+        "indice_fixe": 84,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Arouca vs Santa Clara",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-09-13T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Galatasaray vs Kocaelispor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-09-13T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.56,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -69,19 +154,12 @@
       "score": null
     },
     {
-      "match": "FC Akhmat Grozny vs FC Dynamo Makhachkala",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-09-13T11:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Karlsruher SC vs FC Energie Cottbus",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-09-13T11:30:00Z",
+      "match": "Benfica vs Gil Vicente",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-09-13T17:01:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.56,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -89,24 +167,50 @@
       "score": null
     },
     {
-      "match": "VfL Osnabrück vs Hertha Berlin",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-09-13T11:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "VfB Stuttgart II vs SC Preußen Münster",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-09-13T11:30:19Z",
+      "match": "Fredrikstad FK vs Sarpsborg FK",
+      "competition": "Eliteserien - Norway",
+      "commence_time": "2026-09-13T17:15:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "RAAL La Louvière vs KV Kortrijk",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-09-13T17:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "TSG Hoffenheim II vs SC Fortuna Köln",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-13T17:30:01Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Sarmiento de Junin vs Belgrano de Cordoba",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-09-13T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
         "cote": 1.65,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
@@ -115,32 +219,38 @@
       "score": null
     },
     {
-      "match": "Celta Vigo vs Málaga",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-09-13T12:00:00Z",
+      "match": "CA Tigre BA vs Rosario Central",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-09-13T17:45:00Z",
       "modele_a": {
-        "pari": "VICTOIRE CELTA VIGO",
-        "cote": 1.68,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
       },
       "score": null
     },
     {
-      "match": "FC Zurich vs FC Vaduz",
-      "competition": "Swiss Superleague",
-      "commence_time": "2026-09-13T12:00:00Z",
-      "modele_a": null,
+      "match": "AE Kifisia FC vs Levadiakos",
+      "competition": "Super League - Greece",
+      "commence_time": "2026-09-13T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
       "score": null
     },
     {
-      "match": "KuPS Kuopio vs HJK Helsinki",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-13T12:00:00Z",
+      "match": "Diriyah Club vs Abha Club",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-13T18:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.72,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -148,25 +258,12 @@
       "score": null
     },
     {
-      "match": "Hammarby IF vs IF Brommapojkarna",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-09-13T12:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "IF Elfsborg vs Kalmar FF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-09-13T12:00:00Z",
+      "match": "Al-Riyadh vs Al-Kholood",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-09-13T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.64,
+        "cote": 1.61,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -174,48 +271,9 @@
       "score": null
     },
     {
-      "match": "Lyngby vs SonderjyskE",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-09-13T12:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Silkeborg IF vs Viborg FF",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-09-13T12:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "VfB Stuttgart vs VfL Wolfsburg",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-09-13T12:00:34Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Sporting Gijón vs CD Eldense",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-13T12:01:00Z",
+      "match": "PAOK Thessaloniki vs Aris Thessaloniki",
+      "competition": "Super League - Greece",
+      "commence_time": "2026-09-13T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.73,
@@ -226,77 +284,12 @@
       "score": null
     },
     {
-      "match": "Austria Wien vs Austria Lustenau",
-      "competition": "Austrian Football Bundesliga",
-      "commence_time": "2026-09-13T12:30:00Z",
+      "match": "La Serena vs Universidad de Chile",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-09-13T18:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "WSG Tirol vs Hartberg",
-      "competition": "Austrian Football Bundesliga",
-      "commence_time": "2026-09-13T12:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Heerenveen vs SC Telstar",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-09-13T12:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Viking FK vs Kristiansund BK",
-      "competition": "Eliteserien - Norway",
-      "commence_time": "2026-09-13T12:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Pogoń Szczecin vs Wieczysta Kraków",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-09-13T12:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Coventry City vs Brighton and Hove Albion",
-      "competition": "EPL",
-      "commence_time": "2026-09-13T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.85,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -304,12 +297,25 @@
       "score": null
     },
     {
-      "match": "IFK Norrkoping vs IK Oddevold",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-09-13T13:00:00Z",
+      "match": "PSV Eindhoven vs Sparta Rotterdam",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-13T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Panathinaikos vs Panetolikos Agrinio",
+      "competition": "Super League - Greece",
+      "commence_time": "2026-09-13T18:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.58,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -317,14 +323,92 @@
       "score": null
     },
     {
-      "match": "Lecce vs Monza",
+      "match": "Brest vs Paris Saint Germain",
+      "competition": "Ligue 1 - France",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Sassuolo vs Juventus",
       "competition": "Serie A - Italy",
-      "commence_time": "2026-09-13T13:00:00Z",
+      "commence_time": "2026-09-13T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Atletico Goianiense vs Criciuma",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.45,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Real Sociedad vs Atlético Madrid",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.69,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Tenerife vs Leganés",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-13T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.49,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Mirassol vs Vitoria",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-09-13T19:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE MIRASSOL",
+        "cote": 1.66,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Famalicão vs Sporting Lisbon",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-09-13T19:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
