@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:09:44.145194+00:00",
+  "generated_at": "2026-09-14T12:09:26.913652+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-09-14T15:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.83,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -22,7 +22,7 @@
       "commence_time": "2026-09-14T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +35,7 @@
       "commence_time": "2026-09-14T16:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.77,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-14T16:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -60,10 +60,10 @@
       "competition": "Eliteserien - Norway",
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
+        "pari": "MOINS DE 4.5 BUTS",
         "cote": 1.65,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -71,6 +71,19 @@
     {
       "match": "FC Midtjylland vs Brondby IF",
       "competition": "Denmark Superliga",
+      "commence_time": "2026-09-14T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "IK Sirius vs Degerfors IF",
+      "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
@@ -82,25 +95,12 @@
       "score": null
     },
     {
-      "match": "IK Sirius vs Degerfors IF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-09-14T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
       "match": "Djurgardens IF vs GAIS",
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.59,
+        "cote": 1.58,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
