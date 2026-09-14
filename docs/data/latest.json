@@ -1,31 +1,18 @@
 {
-  "generated_at": "2026-09-14T12:09:26.913652+00:00",
+  "generated_at": "2026-09-14T18:07:26.916635+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 21,
   "matchs": [
-    {
-      "match": "FC Inter Turku vs VPS Vaasa",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-09-14T15:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Bayer Leverkusen vs Bayern Munich",
       "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-09-14T16:00:00Z",
+      "commence_time": "2026-09-14T16:02:04Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.62,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.64,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -34,10 +21,10 @@
       "competition": "Serie A - Italy",
       "commence_time": "2026-09-14T16:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -47,8 +34,8 @@
       "competition": "Serie A - Italy",
       "commence_time": "2026-09-14T16:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.56,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -60,10 +47,10 @@
       "competition": "Eliteserien - Norway",
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 3.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -73,10 +60,10 @@
       "competition": "Denmark Superliga",
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -86,8 +73,8 @@
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.54,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.7,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -99,11 +86,187 @@
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-09-14T17:00:00Z",
       "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gazişehir Gaziantep vs Fenerbahce",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-09-14T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Örebro SK vs Nordic United FC",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-14T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Norrby IF vs Varbergs BoIS",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-14T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Radomiak Radom vs Piast Gliwice",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-09-14T17:01:00Z",
+      "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.58,
+        "cote": 1.72,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Östersunds FK vs Helsingborgs IF",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-14T17:05:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Rio Ave FC vs CF Estrela",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-09-14T17:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Celta Fortuna vs SD Eibar",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-14T18:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Waterford FC vs Derry City",
+      "competition": "League of Ireland",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Shelbourne Dublin vs Drogheda United",
+      "competition": "League of Ireland",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Dundalk vs St Patricks Athletic",
+      "competition": "League of Ireland",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Sligo Rovers vs Galway United",
+      "competition": "League of Ireland",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Inter Milan vs Udinese",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Red Star vs Metz",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-09-14T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Leeds United vs Newcastle United",
+      "competition": "EPL",
+      "commence_time": "2026-09-14T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
