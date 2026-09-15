@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:09:03.037056+00:00",
+  "generated_at": "2026-09-15T12:08:42.378279+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-09-15T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.79,
+        "cote": 1.8,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-15T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -60,10 +60,10 @@
       "competition": "Swiss Superleague",
       "commence_time": "2026-09-15T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FC SION",
-        "cote": 1.71,
-        "indice_fixe": 78,
-        "motif": "Cote extérieur en fourchette favorite",
+        "pari": "PLUS DE 3.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
       },
       "score": null
@@ -100,7 +100,7 @@
       "commence_time": "2026-09-15T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
