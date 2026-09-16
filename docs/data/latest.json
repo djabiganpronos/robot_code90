@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:09:00.176474+00:00",
+  "generated_at": "2026-09-16T12:08:54.545313+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-09-16T15:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE SPARTAK MOSCOW",
-        "cote": 1.4,
+        "cote": 1.36,
         "indice_fixe": 84,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -20,7 +20,13 @@
       "match": "Rodina Moscow vs Rubin Kazan",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-16T15:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
@@ -42,7 +48,7 @@
       "commence_time": "2026-09-16T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.72,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -81,7 +87,7 @@
       "commence_time": "2026-09-16T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.75,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
