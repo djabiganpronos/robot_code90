@@ -1,106 +1,15 @@
 {
-  "generated_at": "2026-09-16T00:09:18.174173+00:00",
+  "generated_at": "2026-09-16T06:09:00.176474+00:00",
   "erreur": null,
-  "nb_matchs": 13,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Platense vs Fluminense-RJ",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-09-15T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.41,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Vasco da Gama vs Independiente Santa Fe",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-15T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Londrina vs Ponte Preta",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-15T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.45,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Nautico PE vs Operario PR",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-15T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Clube de Regatas Brasil vs Sport Recife",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-16T00:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Sao Paulo vs Boca Juniors",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-16T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Puebla vs Toluca",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-16T01:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Spartak Moscow vs FC Fakel Voronezh",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-16T15:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE SPARTAK MOSCOW",
-        "cote": 1.35,
+        "cote": 1.4,
         "indice_fixe": 84,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -146,7 +55,7 @@
       "commence_time": "2026-09-16T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.6,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -163,6 +72,32 @@
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Atlético Madrid vs CA Osasuna",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-09-16T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Deportivo La Coruña vs Sevilla",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-09-16T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
