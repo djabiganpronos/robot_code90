@@ -1,56 +1,17 @@
 {
-  "generated_at": "2026-09-17T00:09:04.021792+00:00",
+  "generated_at": "2026-09-17T06:08:59.464297+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Clube Atlético Mineiro vs Santos",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-16T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.13,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Botafogo vs Grêmio",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-16T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Corinthians-SP vs Estudiantes La Plata",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-09-17T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "Gazovik Orenburg vs FC Krasnodar",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-17T13:15:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
+        "pari": "VICTOIRE FC KRASNODAR",
+        "cote": 1.85,
         "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "motif": "Cote extérieur en fourchette favorite",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -66,7 +27,13 @@
       "match": "FC Akron Tolyatti vs FC Akhmat Grozny",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-17T15:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
@@ -88,7 +55,7 @@
       "commence_time": "2026-09-17T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.69,
+        "cote": 1.71,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -101,7 +68,7 @@
       "commence_time": "2026-09-17T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.66,
+        "cote": 1.63,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -112,12 +79,19 @@
       "match": "FC Dynamo Makhachkala vs CSKA Moscow",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-17T17:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Manchester City vs Norwich City",
+      "competition": "EFL Cup",
+      "commence_time": "2026-09-17T18:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.81,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.65,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     }
