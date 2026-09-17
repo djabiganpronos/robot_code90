@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T06:08:59.464297+00:00",
+  "generated_at": "2026-09-17T12:08:41.751027+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,10 +8,10 @@
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-17T13:15:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FC KRASNODAR",
+        "pari": "MOINS DE 2.75 BUTS",
         "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Cote extérieur en fourchette favorite",
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -27,13 +27,7 @@
       "match": "FC Akron Tolyatti vs FC Akhmat Grozny",
       "competition": "Premier League - Russia",
       "commence_time": "2026-09-17T15:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -42,7 +36,7 @@
       "commence_time": "2026-09-17T16:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -68,7 +62,7 @@
       "commence_time": "2026-09-17T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
+        "cote": 1.75,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -88,7 +82,7 @@
       "commence_time": "2026-09-17T18:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.56,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
