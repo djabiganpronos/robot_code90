@@ -1,41 +1,15 @@
 {
-  "generated_at": "2026-09-18T00:08:49.979241+00:00",
+  "generated_at": "2026-09-18T06:08:45.185041+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Montevideo City Torque vs Club Cienciano",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-09-18T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Flamengo-RJ vs Independiente del Valle",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-09-18T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Zhejiang vs Wuhan Three Towns",
       "competition": "Super League - China",
       "commence_time": "2026-09-18T11:35:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.75 BUTS",
-        "cote": 1.82,
+        "cote": 1.81,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +22,7 @@
       "commence_time": "2026-09-18T15:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.49,
+        "cote": 1.6,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -103,6 +77,32 @@
         "cote": 1.57,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Greuther Fürth vs 1. FC Magdeburg",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-18T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FSV Mainz 05 vs Eintracht Frankfurt",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-09-18T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
