@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-18T06:08:45.185041+00:00",
+  "generated_at": "2026-09-18T12:08:26.924365+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
     {
       "match": "Zhejiang vs Wuhan Three Towns",
       "competition": "Super League - China",
       "commence_time": "2026-09-18T11:35:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.75 BUTS",
-        "cote": 1.81,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.8,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +35,7 @@
       "commence_time": "2026-09-18T15:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.5,
+        "cote": 1.61,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -87,7 +87,7 @@
       "commence_time": "2026-09-18T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.67,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -101,6 +101,19 @@
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.82,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "VfL Wolfsburg vs SV Darmstadt 98",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-18T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.67,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
