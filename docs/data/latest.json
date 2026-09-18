@@ -1,133 +1,15 @@
 {
-  "generated_at": "2026-09-17T18:08:53.027436+00:00",
+  "generated_at": "2026-09-18T00:08:49.979241+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 8,
   "matchs": [
     {
-      "match": "OFI Crete vs TSG Hoffenheim",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-09-17T16:45:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "PFC Levski Sofia vs Salzburg",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-09-17T16:45:00Z",
+      "match": "Montevideo City Torque vs Club Cienciano",
+      "competition": "Copa Sudamericana",
+      "commence_time": "2026-09-18T00:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Real Betis vs Getafe",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-09-17T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Dynamo Makhachkala vs CSKA Moscow",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-09-17T17:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Manchester City vs Norwich City",
-      "competition": "EFL Cup",
-      "commence_time": "2026-09-17T18:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Besiktas JK vs Marseille",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-09-17T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.69,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Real Sociedad vs Bournemouth",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-09-17T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Celtic vs Ferencváros TC",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-09-17T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Crystal Palace vs Lech Poznań",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-09-17T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Juventus vs NEC Nijmegen",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-09-17T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Lillestrom vs Torreense",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-09-17T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.8,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -135,12 +17,90 @@
       "score": null
     },
     {
-      "match": "Wimbledon vs Milton Keynes Dons",
-      "competition": "League 1",
-      "commence_time": "2026-09-17T19:00:00Z",
+      "match": "Flamengo-RJ vs Independiente del Valle",
+      "competition": "Copa Libertadores",
+      "commence_time": "2026-09-18T00:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.61,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Zhejiang vs Wuhan Three Towns",
+      "competition": "Super League - China",
+      "commence_time": "2026-09-18T11:35:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.75 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Lahti vs Jaro",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.49,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SJK Seinäjoki vs IFK Mariehamn",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-09-18T15:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "AC Oulu vs FC Inter Turku",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-09-18T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "IF Gnistan vs HJK Helsinki",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-09-18T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Widzew Łódź vs Wieczysta Kraków",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-09-18T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.57,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
