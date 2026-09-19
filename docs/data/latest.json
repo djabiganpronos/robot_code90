@@ -1,99 +1,8 @@
 {
-  "generated_at": "2026-09-19T00:09:10.276317+00:00",
+  "generated_at": "2026-09-19T06:08:29.458555+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Vila Nova vs América Mineiro",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-18T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Ceará vs Grêmio Novorizontino",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-18T23:32:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "New York City FC vs New York Red Bulls",
-      "competition": "MLS",
-      "commence_time": "2026-09-18T23:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "São Bernardo vs Atletico Goianiense",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-19T00:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Racing Club vs Sarmiento de Junin",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-19T00:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Puebla vs Atlante FC",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-19T01:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Juárez vs Tigres",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-19T03:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Bucheon FC 1995 vs Sangju Sangmu FC",
       "competition": "K League 1",
@@ -112,10 +21,10 @@
       "competition": "J League",
       "commence_time": "2026-09-19T09:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.75 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -125,10 +34,10 @@
       "competition": "J League",
       "commence_time": "2026-09-19T09:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -139,7 +48,7 @@
       "commence_time": "2026-09-19T09:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
+        "cote": 1.78,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -151,10 +60,49 @@
       "competition": "J League",
       "commence_time": "2026-09-19T09:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Urawa Red Diamonds vs Tokyo Verdy",
+      "competition": "J League",
+      "commence_time": "2026-09-19T09:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Anyang vs Ulsan Hyundai FC",
+      "competition": "K League 1",
+      "commence_time": "2026-09-19T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Tokyo vs Nagoya Grampus",
+      "competition": "J League",
+      "commence_time": "2026-09-19T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
