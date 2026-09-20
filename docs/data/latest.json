@@ -1,118 +1,132 @@
 {
-  "generated_at": "2026-09-20T00:09:25.373043+00:00",
+  "generated_at": "2026-09-20T10:26:52.435974+00:00",
   "erreur": null,
-  "nb_matchs": 17,
+  "nb_matchs": 12,
   "matchs": [
     {
-      "match": "River Plate vs Atlético Huracán",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-19T22:00:00Z",
+      "match": "Incheon United vs Daejeon Citizen",
+      "competition": "K League 1",
+      "commence_time": "2026-09-20T10:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atlas vs Pumas",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-19T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atlético San Luis vs Necaxa",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-19T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.49,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Vasco da Gama vs Coritiba",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-19T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "CF Montreal vs Columbus Crew SC",
-      "competition": "MLS",
-      "commence_time": "2026-09-19T23:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "D.C. United vs Charlotte FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-19T23:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "San Jose Earthquakes vs Los Angeles FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-19T23:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.51,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "New England Revolution vs Orlando City SC",
-      "competition": "MLS",
-      "commence_time": "2026-09-19T23:40:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 85,
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Sao Paulo vs Internacional",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-09-20T00:00:00Z",
+      "match": "Pohang Steelers vs FC Seoul",
+      "competition": "K League 1",
+      "commence_time": "2026-09-20T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.43,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Feyenoord vs FC Utrecht",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-09-20T10:15:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Piast Gliwice vs Pogoń Szczecin",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-09-20T10:16:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Fiorentina vs Napoli",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-09-20T10:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Celtic vs Rangers",
+      "competition": "Premiership - Scotland",
+      "commence_time": "2026-09-20T11:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "GIF Sundsvall vs Ljungskile SK",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-09-20T11:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Wolverhampton Wanderers vs West Bromwich Albion",
+      "competition": "Championship",
+      "commence_time": "2026-09-20T11:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Arminia Bielefeld vs 1. FC Heidenheim",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-20T11:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Energie Cottbus vs FC St. Pauli",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-20T11:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.42,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Hannover 96 vs VfL Bochum",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-09-20T11:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.67,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -121,103 +135,12 @@
       "score": null
     },
     {
-      "match": "Instituto de Córdoba vs Talleres",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-20T00:15:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Dallas vs Austin FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-20T00:30:00Z",
+      "match": "Rot-Weiss Essen vs Hansa Rostock",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-09-20T11:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Houston Dynamo vs FC Cincinnati",
-      "competition": "MLS",
-      "commence_time": "2026-09-20T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Minnesota United FC vs LA Galaxy",
-      "competition": "MLS",
-      "commence_time": "2026-09-20T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Sporting Kansas City vs Philadelphia Union",
-      "competition": "MLS",
-      "commence_time": "2026-09-20T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "St. Louis City SC vs Toronto FC",
-      "competition": "MLS",
-      "commence_time": "2026-09-20T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Monterrey vs Cruz Azul",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-20T01:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Nashville SC vs Chicago Fire",
-      "competition": "MLS",
-      "commence_time": "2026-09-20T01:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
+        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
