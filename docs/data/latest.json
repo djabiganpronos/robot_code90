@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-21T11:44:10.758664+00:00",
+  "generated_at": "2026-09-21T17:40:19.908641+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
       "match": "Werder Bremen vs VfB Stuttgart",
       "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-09-21T16:00:00Z",
+      "commence_time": "2026-09-21T16:01:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.43,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.54,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +35,7 @@
       "commence_time": "2026-09-21T22:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.51,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-21T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
+        "cote": 1.55,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +61,7 @@
       "commence_time": "2026-09-22T00:15:00Z",
       "modele_a": {
         "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.54,
+        "cote": 1.56,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +74,7 @@
       "commence_time": "2026-09-22T00:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.64,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -87,7 +87,7 @@
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
+        "cote": 1.82,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -100,7 +100,27 @@
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.43,
+        "cote": 1.45,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Arsenal vs HB Køge",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T19:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Juventus vs Benfica",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.8,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
