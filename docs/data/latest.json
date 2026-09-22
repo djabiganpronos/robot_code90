@@ -1,67 +1,15 @@
 {
-  "generated_at": "2026-09-21T21:34:29.295003+00:00",
+  "generated_at": "2026-09-22T02:52:51.791298+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Barracas Central vs Independiente Rivadavia",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-21T22:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Criciuma vs Operario PR",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-21T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Lanus vs Estudiantes",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-09-22T00:15:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cuiabá vs Nautico PE",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-22T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Inter Milan vs BK Hacken",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.81,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +22,59 @@
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.4,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Worksop Town FC vs AFC Telford United",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Dagenham and Redbridge FC vs Waltham Abbey FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.42,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gainsborough Trinity FC vs Leamington FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Truro City FC vs Merthyr Town FC",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.63,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -85,7 +85,13 @@
       "match": "Arsenal vs HB Køge",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
