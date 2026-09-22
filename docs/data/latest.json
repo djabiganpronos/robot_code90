@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T02:52:51.791298+00:00",
+  "generated_at": "2026-09-22T10:47:17.764694+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,10 +8,10 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.75 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -22,7 +22,7 @@
       "commence_time": "2026-09-22T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.4,
+        "cote": 1.35,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -47,10 +47,10 @@
       "competition": "FA Cup",
       "commence_time": "2026-09-22T18:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.42,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -86,10 +86,10 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 4.0 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -99,8 +99,8 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-22T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.84,
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.8,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
