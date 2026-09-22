@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-09-22T16:06:19.960503+00:00",
+  "generated_at": "2026-09-22T20:45:53.954632+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 16,
   "matchs": [
     {
-      "match": "Inter Milan vs BK Hacken",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T16:45:00Z",
+      "match": "Worksop Town FC vs AFC Telford United",
+      "competition": "FA Cup",
+      "commence_time": "2026-09-22T18:44:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Bayern Munich vs Manchester City",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.28,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Worksop Town FC vs AFC Telford United",
+      "match": "Dagenham and Redbridge FC vs Waltham Abbey FC",
       "competition": "FA Cup",
       "commence_time": "2026-09-22T18:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.77,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.04,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -39,51 +26,19 @@
     {
       "match": "Chippenham Town FC vs Yate Town FC",
       "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "commence_time": "2026-09-22T18:46:00Z",
+      "modele_a": null,
       "score": null
     },
     {
-      "match": "Dagenham and Redbridge FC vs Waltham Abbey FC",
+      "match": "Truro City FC vs Merthyr Town FC",
       "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:45:00Z",
+      "commence_time": "2026-09-22T18:46:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.66,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.05,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Farnborough FC vs Uxbridge FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Gainsborough Trinity FC vs Leamington FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -91,13 +46,150 @@
     {
       "match": "Wingate and Finchley FC vs Hemel Hempstead Town FC",
       "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:45:00Z",
+      "commence_time": "2026-09-22T18:47:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.01,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Arsenal vs HB Køge",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 0.75 BUTS",
+        "cote": 1.74,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Juventus vs Benfica",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T19:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Real Madrid vs Paris Saint Germain",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-22T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Criciuma vs Operario PR",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-22T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.53,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Leuven vs AS Roma",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-23T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Servette FC vs Lyon",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-23T16:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.0 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Chelsea vs Austria Wien",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-23T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 4.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Barcelona vs Paris FC",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-09-23T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.17,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Seattle Sounders FC vs Real Salt Lake",
+      "competition": "MLS",
+      "commence_time": "2026-09-24T01:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Andorra vs Malta",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-24T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.35,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Austria vs Israel",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-24T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.52,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
