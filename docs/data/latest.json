@@ -1,35 +1,15 @@
 {
-  "generated_at": "2026-09-23T15:56:26.178075+00:00",
+  "generated_at": "2026-09-23T20:57:39.550722+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
-    {
-      "match": "Leuven vs AS Roma",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-23T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Servette FC vs Lyon",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-23T16:45:00Z",
-      "modele_a": null,
-      "score": null
-    },
     {
       "match": "Chelsea vs Austria Wien",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T19:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.25 BUTS",
-        "cote": 1.79,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.32,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -41,8 +21,8 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T19:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.62,
+        "pari": "MOINS DE 7.5 BUTS",
+        "cote": 1.26,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -55,7 +35,7 @@
       "commence_time": "2026-09-24T01:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.54,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -94,10 +74,62 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.67,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Netherlands vs Germany",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-24T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Serbia vs Greece",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-24T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Kosovo vs Republic of Ireland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-24T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Liechtenstein vs Lithuania",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-24T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Under"
       },
       "score": null
     }
