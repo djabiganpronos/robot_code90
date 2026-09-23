@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:37:10.085063+00:00",
+  "generated_at": "2026-09-23T15:56:26.178075+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -20,13 +20,7 @@
       "match": "Servette FC vs Lyon",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.0 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -34,10 +28,10 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.25 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 4.25 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -47,10 +41,10 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.09,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
