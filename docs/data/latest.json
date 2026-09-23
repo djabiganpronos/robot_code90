@@ -1,107 +1,8 @@
 {
-  "generated_at": "2026-09-22T20:45:53.954632+00:00",
+  "generated_at": "2026-09-23T02:53:20.277863+00:00",
   "erreur": null,
-  "nb_matchs": 16,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Worksop Town FC vs AFC Telford United",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:44:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Dagenham and Redbridge FC vs Waltham Abbey FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.04,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Chippenham Town FC vs Yate Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:46:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Truro City FC vs Merthyr Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:46:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.05,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Wingate and Finchley FC vs Hemel Hempstead Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-09-22T18:47:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.01,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Arsenal vs HB Køge",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 0.75 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Juventus vs Benfica",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Real Madrid vs Paris Saint Germain",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Criciuma vs Operario PR",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-22T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Leuven vs AS Roma",
       "competition": "UEFA Champions League Women",
@@ -133,10 +34,10 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-23T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.25 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -187,6 +88,19 @@
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.52,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Norway vs Denmark",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-24T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.75,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
