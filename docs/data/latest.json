@@ -1,43 +1,17 @@
 {
-  "generated_at": "2026-09-23T20:57:39.550722+00:00",
+  "generated_at": "2026-09-24T02:43:27.201337+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Chelsea vs Austria Wien",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-23T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.32,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Barcelona vs Paris FC",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-23T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 7.5 BUTS",
-        "cote": 1.26,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Seattle Sounders FC vs Real Salt Lake",
       "competition": "MLS",
-      "commence_time": "2026-09-24T01:30:00Z",
+      "commence_time": "2026-09-24T01:40:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -74,7 +48,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.61,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -130,6 +104,19 @@
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Under"
+      },
+      "score": null
+    },
+    {
+      "match": "Portugal vs Wales",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-24T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
