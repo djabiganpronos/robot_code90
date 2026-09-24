@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-24T10:56:34.023022+00:00",
+  "generated_at": "2026-09-24T16:19:03.581121+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
     {
       "match": "Andorra vs Malta",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-24T16:00:00Z",
+      "commence_time": "2026-09-24T16:01:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.29,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.72,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -34,10 +34,10 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.79,
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +61,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -74,7 +74,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
+        "cote": 1.61,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -87,7 +87,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.58,
+        "cote": 1.52,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Under"
@@ -98,12 +98,19 @@
       "match": "Portugal vs Wales",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-24T18:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Armenia vs Latvia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-25T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.8,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
