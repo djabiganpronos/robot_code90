@@ -1,31 +1,18 @@
 {
-  "generated_at": "2026-09-24T02:43:27.201337+00:00",
+  "generated_at": "2026-09-24T10:56:34.023022+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Seattle Sounders FC vs Real Salt Lake",
-      "competition": "MLS",
-      "commence_time": "2026-09-24T01:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "Andorra vs Malta",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-24T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.35,
-        "indice_fixe": 88,
+        "cote": 1.29,
+        "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -35,7 +22,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.5,
+        "cote": 1.55,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -48,7 +35,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.61,
+        "cote": 1.64,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -61,7 +48,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.79,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +61,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.72,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -87,7 +74,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.63,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -100,7 +87,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.58,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Under"
@@ -113,7 +100,7 @@
       "commence_time": "2026-09-24T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.64,
+        "cote": 1.8,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
