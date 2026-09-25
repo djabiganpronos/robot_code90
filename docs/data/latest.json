@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-25T10:57:51.369509+00:00",
+  "generated_at": "2026-09-25T16:19:38.082227+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
       "match": "Armenia vs Latvia",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T16:00:00Z",
+      "commence_time": "2026-09-25T16:01:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "MOINS DE 2.0 BUTS",
         "cote": 1.7,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -19,9 +19,9 @@
     {
       "match": "Georgia vs Northern Ireland",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T16:00:00Z",
+      "commence_time": "2026-09-25T16:02:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "MOINS DE 2.0 BUTS",
         "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -35,7 +35,7 @@
       "commence_time": "2026-09-25T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.65,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-25T18:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.51,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -61,7 +61,7 @@
       "commence_time": "2026-09-25T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -74,7 +74,7 @@
       "commence_time": "2026-09-25T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -87,7 +87,7 @@
       "commence_time": "2026-09-25T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.75,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -98,7 +98,39 @@
       "match": "Turkey vs France",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-25T18:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.32,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Galway United vs Shelbourne Dublin",
+      "competition": "League of Ireland",
+      "commence_time": "2026-09-25T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Hungary vs Ukraine",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-25T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
