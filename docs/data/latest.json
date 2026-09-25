@@ -1,134 +1,121 @@
 {
-  "generated_at": "2026-09-25T16:19:38.082227+00:00",
+  "generated_at": "2026-09-25T20:59:37.135667+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Armenia vs Latvia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T16:01:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Georgia vs Northern Ireland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T16:02:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "TSV Havelse vs SC Fortuna Köln",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-09-25T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Girona FC vs Albacete",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-25T18:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.51,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Italy vs Belgium",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Poland vs Bosnia & Herzegovina",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Montenegro vs Cyprus",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "Turkey vs France",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-25T18:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.32,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.03,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "Galway United vs Shelbourne Dublin",
-      "competition": "League of Ireland",
-      "commence_time": "2026-09-25T18:45:00Z",
+      "match": "Grêmio Novorizontino vs São Bernardo",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-25T22:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.78,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Hungary vs Ukraine",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-25T18:45:00Z",
+      "match": "Vila Nova vs Londrina",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-25T23:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.68,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Atlante FC vs Monterrey",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-26T01:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Tijuana vs Atlas",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-26T03:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "AD Ceuta FC vs Real Sociedad B",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-26T12:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Slovenia vs Scotland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Swindon Town vs Accrington Stanley",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Bristol Rovers vs Exeter City",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
