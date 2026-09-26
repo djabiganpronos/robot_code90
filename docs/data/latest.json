@@ -1,31 +1,18 @@
 {
-  "generated_at": "2026-09-26T10:38:39.413597+00:00",
+  "generated_at": "2026-09-26T15:33:33.520683+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 22,
   "matchs": [
     {
-      "match": "AD Ceuta FC vs Real Sociedad B",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-26T12:00:00Z",
+      "match": "Cambridge United vs Wimbledon",
+      "competition": "League 1",
+      "commence_time": "2026-09-26T13:59:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.74,
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.8,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Slovenia vs Scotland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-26T13:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -41,10 +28,10 @@
       "competition": "League 2",
       "commence_time": "2026-09-26T14:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE BRISTOL ROVERS",
-        "cote": 1.73,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
+        "pari": "MOINS DE 1.75 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -54,23 +41,10 @@
       "competition": "League 1",
       "commence_time": "2026-09-26T14:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE PLYMOUTH ARGYLE",
-        "cote": 1.56,
+        "pari": "PLUS DE 0.75 BUTS",
+        "cote": 1.74,
         "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cambridge United vs Wimbledon",
-      "competition": "League 1",
-      "commence_time": "2026-09-26T14:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -79,7 +53,13 @@
       "match": "Cheltenham Town vs Chesterfield FC",
       "competition": "League 2",
       "commence_time": "2026-09-26T14:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 3.75 BUTS",
+        "cote": 1.69,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
       "score": null
     },
     {
@@ -87,8 +67,216 @@
       "competition": "League 2",
       "commence_time": "2026-09-26T14:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "PLUS DE 2.75 BUTS",
         "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Rotherham United vs Crewe Alexandra",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.75 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Fleetwood Town vs Rochdale",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.75 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "York City vs Gillingham",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Newport County vs Grimsby Town",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Stockport County FC vs Peterborough United",
+      "competition": "League 1",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Wycombe Wanderers vs Reading",
+      "competition": "League 1",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Tranmere Rovers vs Walsall",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 0.75 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Granada CF vs Andorra CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-26T14:16:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Bulgaria vs Luxembourg",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.39,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Under"
+      },
+      "score": null
+    },
+    {
+      "match": "Iceland vs Estonia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Under"
+      },
+      "score": null
+    },
+    {
+      "match": "Faroe Islands vs Kazakhstan",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "San Marino vs Finland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.41,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Celta Fortuna vs Sabadell FC",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-26T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Under"
+      },
+      "score": null
+    },
+    {
+      "match": "Tenerife vs Cádiz CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-26T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Oldham Athletic vs Salford City",
+      "competition": "League 2",
+      "commence_time": "2026-09-26T16:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Albania vs Belarus",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-26T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.56,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
