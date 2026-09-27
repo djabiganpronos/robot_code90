@@ -1,119 +1,28 @@
 {
-  "generated_at": "2026-09-26T20:32:07.862655+00:00",
+  "generated_at": "2026-09-27T03:09:33.375814+00:00",
   "erreur": null,
   "nb_matchs": 13,
   "matchs": [
     {
-      "match": "Czech Republic vs Croatia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-26T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.21,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "England vs Spain",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-26T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.41,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Albania vs Belarus",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-26T18:50:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.29,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Operario PR vs Ceará",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-26T19:31:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Nautico PE vs Sport Recife",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-26T19:32:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Goiás vs Atletico Goianiense",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-26T21:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.48,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cruz Azul vs Toluca",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-26T22:50:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Guadalajara vs Querétaro",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-26T23:07:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.48,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atlanta United FC vs New York City FC",
+      "match": "Real Salt Lake vs New England Revolution",
       "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
+      "commence_time": "2026-09-27T01:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "LA Galaxy vs Colorado Rapids",
+      "competition": "MLS",
+      "commence_time": "2026-09-27T02:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.76,
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -121,11 +30,11 @@
       "score": null
     },
     {
-      "match": "CF Montreal vs FC Cincinnati",
+      "match": "Vancouver Whitecaps FC vs D.C. United",
       "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
+      "commence_time": "2026-09-27T02:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
+        "pari": "PLUS DE 3.5 BUTS",
         "cote": 1.7,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
@@ -134,25 +43,12 @@
       "score": null
     },
     {
-      "match": "Charlotte FC vs Chicago Fire",
+      "match": "San Jose Earthquakes vs Portland Timbers",
       "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
+      "commence_time": "2026-09-27T02:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "New York Red Bulls vs St. Louis City SC",
-      "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.44,
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.7,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -160,14 +56,118 @@
       "score": null
     },
     {
-      "match": "Philadelphia Union vs Orlando City SC",
-      "competition": "MLS",
-      "commence_time": "2026-09-26T23:30:00Z",
+      "match": "Santos Laguna vs Pachuca",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-27T03:05:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.0 BUTS",
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Tigres vs Puebla",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-27T03:10:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gangwon FC vs Incheon United",
+      "competition": "K League 1",
+      "commence_time": "2026-09-27T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.5,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Real Valladolid CF vs Córdoba",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-27T12:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Lithuania vs Azerbaijan",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.42,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Criciuma vs Avai",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-27T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Mallorca vs Almería",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-27T14:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gibraltar vs Andorra",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Austria vs Kosovo",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
