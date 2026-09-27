@@ -1,95 +1,17 @@
 {
-  "generated_at": "2026-09-27T03:09:33.375814+00:00",
+  "generated_at": "2026-09-27T11:12:31.392035+00:00",
   "erreur": null,
-  "nb_matchs": 13,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Real Salt Lake vs New England Revolution",
-      "competition": "MLS",
-      "commence_time": "2026-09-27T01:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "LA Galaxy vs Colorado Rapids",
-      "competition": "MLS",
-      "commence_time": "2026-09-27T02:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Vancouver Whitecaps FC vs D.C. United",
-      "competition": "MLS",
-      "commence_time": "2026-09-27T02:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "San Jose Earthquakes vs Portland Timbers",
-      "competition": "MLS",
-      "commence_time": "2026-09-27T02:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Santos Laguna vs Pachuca",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-27T03:05:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Tigres vs Puebla",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-27T03:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Gangwon FC vs Incheon United",
       "competition": "K League 1",
       "commence_time": "2026-09-27T10:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 0.5 BUTS",
+        "cote": 1.49,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -126,7 +48,7 @@
       "commence_time": "2026-09-27T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.5,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -150,13 +72,7 @@
       "match": "Gibraltar vs Andorra",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-27T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -164,11 +80,37 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-27T16:00:00Z",
       "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Denmark vs Wales",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T16:00:00Z",
+      "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.73,
+        "cote": 1.67,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Serbia vs Netherlands",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-27T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
       },
       "score": null
     }
