@@ -1,133 +1,15 @@
 {
-  "generated_at": "2026-09-27T16:13:11.142845+00:00",
+  "generated_at": "2026-09-27T20:42:26.607150+00:00",
   "erreur": null,
-  "nb_matchs": 14,
+  "nb_matchs": 12,
   "matchs": [
-    {
-      "match": "Criciuma vs Avai",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-27T14:02:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Mallorca vs Almería",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-27T14:17:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.01,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Gibraltar vs Andorra",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-27T16:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Denmark vs Wales",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-27T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.58,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Serbia vs Netherlands",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-27T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Austria vs Kosovo",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-27T16:01:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Burgos CF vs CD Eldense",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-27T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "SD Eibar vs Las Palmas",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-27T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Pumas vs Atlético San Luis",
-      "competition": "Liga MX",
-      "commence_time": "2026-09-27T18:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
     {
       "match": "Germany vs Greece",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-27T18:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Israel vs Republic of Ireland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-27T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.78,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.04,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -140,7 +22,7 @@
       "commence_time": "2026-09-27T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.16,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -150,10 +32,10 @@
     {
       "match": "Clube de Regatas Brasil vs Cuiabá",
       "competition": "Brazil Série B",
-      "commence_time": "2026-09-27T19:00:00Z",
+      "commence_time": "2026-09-27T19:01:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.6,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.5,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -163,12 +45,116 @@
     {
       "match": "Oviedo vs Sporting Gijón",
       "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-27T19:00:00Z",
+      "commence_time": "2026-09-27T19:02:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.51,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.5,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Fortaleza vs Athletic Club (MG)",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-27T21:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Columbus Crew SC vs Inter Miami CF",
+      "competition": "MLS",
+      "commence_time": "2026-09-27T23:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "León vs FC Juárez",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-28T01:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Necaxa vs América",
+      "competition": "Liga MX",
+      "commence_time": "2026-09-28T03:10:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Armenia vs Montenegro",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-28T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Latvia vs Cyprus",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-28T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Georgia vs Ukraine",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-28T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Leganés vs CD Castellón",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-09-28T18:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
