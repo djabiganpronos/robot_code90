@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-09-28T12:39:33.773864+00:00",
+  "generated_at": "2026-09-28T22:51:39.098884+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Armenia vs Montenegro",
+      "match": "América Mineiro vs Juventude",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-09-28T22:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.47,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Finland vs Belarus",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T16:00:00Z",
+      "commence_time": "2026-09-29T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.57,
+        "cote": 1.51,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,25 +30,51 @@
       "score": null
     },
     {
-      "match": "Latvia vs Cyprus",
+      "match": "Moldova vs Faroe Islands",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T16:00:00Z",
+      "commence_time": "2026-09-29T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.49,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "San Marino vs Albania",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Bulgaria vs Estonia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.5,
-        "indice_fixe": 82,
+        "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "Over"
       },
       "score": null
     },
     {
-      "match": "Georgia vs Ukraine",
+      "match": "Spain vs Croatia",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T16:00:00Z",
+      "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.74,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -43,25 +82,12 @@
       "score": null
     },
     {
-      "match": "Leganés vs CD Castellón",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-09-28T18:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Belgium vs France",
+      "match": "Czech Republic vs England",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T18:45:00Z",
+      "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -69,12 +95,12 @@
       "score": null
     },
     {
-      "match": "Romania vs Bosnia & Herzegovina",
+      "match": "Luxembourg vs Iceland",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T18:45:00Z",
+      "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -82,28 +108,15 @@
       "score": null
     },
     {
-      "match": "Northern Ireland vs Hungary",
+      "match": "Slovakia vs Kazakhstan",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T18:45:00Z",
+      "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.44,
+        "cote": 1.71,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Turkey vs Italy",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-09-28T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
       },
       "score": null
     }
