@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-29T11:57:53.735209+00:00",
+  "generated_at": "2026-09-29T17:48:38.436088+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Finland vs Belarus",
+      "match": "Moldova vs Faroe Islands",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-29T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
+        "cote": 1.04,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,12 +17,12 @@
       "score": null
     },
     {
-      "match": "Moldova vs Faroe Islands",
+      "match": "Finland vs Belarus",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-09-29T16:00:00Z",
+      "commence_time": "2026-09-29T16:02:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.49,
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.07,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +35,7 @@
       "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.74,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.44,
+        "cote": 1.43,
         "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
@@ -61,7 +61,7 @@
       "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.77,
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +74,7 @@
       "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.5,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -87,7 +87,7 @@
       "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.61,
+        "cote": 1.56,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -99,8 +99,34 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Slovenia vs North Macedonia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
+      "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
+        "cote": 1.57,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Scotland vs Switzerland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-09-29T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.6,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
