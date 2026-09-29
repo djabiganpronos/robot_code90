@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-09-28T22:51:39.098884+00:00",
+  "generated_at": "2026-09-29T03:45:07.616767+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "América Mineiro vs Juventude",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-28T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.47,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Finland vs Belarus",
       "competition": "UEFA Nations League",
       "commence_time": "2026-09-29T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.51,
+        "cote": 1.53,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +22,7 @@
       "commence_time": "2026-09-29T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.49,
+        "cote": 1.5,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +61,7 @@
       "commence_time": "2026-09-29T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.7,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
