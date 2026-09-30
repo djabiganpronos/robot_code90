@@ -1,73 +1,8 @@
 {
-  "generated_at": "2026-09-30T17:26:13.237693+00:00",
+  "generated_at": "2026-09-30T21:46:29.941449+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "AS Roma vs Barcelona",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-30T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Paris FC vs Arsenal",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-30T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.0 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "BK Hacken vs Juventus",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-30T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Benfica vs Bayern Munich",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-30T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.41,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Lyon vs Chelsea",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-09-30T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.46,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "New York Red Bulls vs St. Louis City SC",
       "competition": "MLS",
@@ -123,7 +58,7 @@
         "cote": 1.56,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -136,7 +71,33 @@
         "cote": 1.7,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Germany vs Serbia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.4,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Malta vs Gibraltar",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Under"
       },
       "score": null
     }
