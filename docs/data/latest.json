@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-30T11:46:01.256798+00:00",
+  "generated_at": "2026-09-30T17:26:13.237693+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
     {
       "match": "AS Roma vs Barcelona",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-30T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -21,10 +21,10 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-30T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.52,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.0 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -34,8 +34,8 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-30T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-30T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.48,
+        "cote": 1.41,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +61,7 @@
       "commence_time": "2026-09-30T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.5,
+        "cote": 1.46,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -87,7 +87,7 @@
       "commence_time": "2026-10-01T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
+        "cote": 1.65,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -100,7 +100,40 @@
       "commence_time": "2026-10-01T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "HB Køge vs Servette FC",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-10-01T16:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Republic of Ireland vs Austria",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Denmark vs Portugal",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-01T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.7,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
