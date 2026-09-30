@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-09-29T21:46:04.484417+00:00",
+  "generated_at": "2026-09-30T03:33:23.488426+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Botafogo-SP vs Ponte Preta",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-09-29T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
     {
       "match": "AS Roma vs Barcelona",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-30T16:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.75 BUTS",
-        "cote": 1.8,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +22,7 @@
       "commence_time": "2026-09-30T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +48,7 @@
       "commence_time": "2026-09-30T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.38,
+        "cote": 1.39,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -100,7 +87,20 @@
       "commence_time": "2026-10-01T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.67,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Austria Wien vs Inter Milan",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-10-01T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.79,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
