@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:33:23.488426+00:00",
+  "generated_at": "2026-09-30T11:46:01.256798+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,10 +8,10 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-09-30T16:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -22,7 +22,7 @@
       "commence_time": "2026-09-30T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.52,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +48,7 @@
       "commence_time": "2026-09-30T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.39,
+        "cote": 1.48,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -87,7 +87,7 @@
       "commence_time": "2026-10-01T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.66,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -100,7 +100,7 @@
       "commence_time": "2026-10-01T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.79,
+        "cote": 1.78,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
