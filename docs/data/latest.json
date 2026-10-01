@@ -1,48 +1,80 @@
 {
-  "generated_at": "2026-10-01T12:15:03.001895+00:00",
+  "generated_at": "2026-10-01T22:14:09.666814+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Azerbaijan vs Liechtenstein",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-01T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Austria Wien vs Inter Milan",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-10-01T16:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE INTER MILAN",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Cote extérieur en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "HB Køge vs Servette FC",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-10-01T16:45:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Republic of Ireland vs Austria",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-01T18:45:00Z",
+      "match": "Athletic Club (MG) vs Sport Recife",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-01T23:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.48,
+        "cote": 1.63,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Grêmio Novorizontino vs Goiás",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-02T00:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Seattle Sounders FC vs Sporting Kansas City",
+      "competition": "MLS",
+      "commence_time": "2026-10-02T01:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE SEATTLE SOUNDERS FC",
+        "cote": 1.46,
+        "indice_fixe": 84,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Kazakhstan vs Moldova",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Cyprus vs Armenia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Latvia vs Montenegro",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.5,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -50,53 +82,27 @@
       "score": null
     },
     {
-      "match": "Denmark vs Portugal",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-01T18:45:00Z",
+      "match": "Bayer Leverkusen vs Werder Bremen",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-10-02T16:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Germany vs Serbia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-01T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.33,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Malta vs Gibraltar",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-01T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.54,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Under"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Greece vs Netherlands",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-01T18:45:00Z",
+      "match": "CD Eldense vs Oviedo",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-02T18:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.54,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
