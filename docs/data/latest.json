@@ -1,43 +1,17 @@
 {
-  "generated_at": "2026-10-01T22:14:09.666814+00:00",
+  "generated_at": "2026-10-02T03:38:03.229839+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Athletic Club (MG) vs Sport Recife",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-01T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Grêmio Novorizontino vs Goiás",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-02T00:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Seattle Sounders FC vs Sporting Kansas City",
       "competition": "MLS",
       "commence_time": "2026-10-02T01:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE SEATTLE SOUNDERS FC",
-        "cote": 1.46,
-        "indice_fixe": 84,
-        "motif": "Cote domicile en fourchette favorite",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.2,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
       },
       "score": null
@@ -103,6 +77,45 @@
         "cote": 1.54,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Belgium vs Turkey",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Dundalk vs Bohemians",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Bosnia & Herzegovina vs Sweden",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
