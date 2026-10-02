@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-02T11:44:11.132411+00:00",
+  "generated_at": "2026-10-02T17:15:54.759343+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
     {
-      "match": "Kazakhstan vs Moldova",
+      "match": "Cyprus vs Armenia",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T14:00:00Z",
+      "commence_time": "2026-10-02T16:02:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.38,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.36,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,40 +17,27 @@
       "score": null
     },
     {
-      "match": "Cyprus vs Armenia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
       "match": "Latvia vs Montenegro",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-10-02T16:00:00Z",
+      "commence_time": "2026-10-02T16:02:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.3,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
       },
       "score": null
     },
     {
       "match": "Bayer Leverkusen vs Werder Bremen",
       "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-10-02T16:30:00Z",
+      "commence_time": "2026-10-02T16:32:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -87,7 +74,7 @@
       "commence_time": "2026-10-02T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.49,
+        "cote": 1.48,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -100,10 +87,62 @@
       "commence_time": "2026-10-02T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.69,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Faroe Islands vs Slovakia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "France vs Italy",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Hungary vs Georgia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Ukraine vs Northern Ireland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-02T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.54,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
