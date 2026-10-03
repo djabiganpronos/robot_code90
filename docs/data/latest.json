@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-02T21:42:34.394609+00:00",
+  "generated_at": "2026-10-03T03:22:12.822629+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Independiente vs Instituto de Córdoba",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-02T22:15:00Z",
+      "match": "Chesterfield FC vs Tranmere Rovers",
+      "competition": "League 2",
+      "commence_time": "2026-10-03T11:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.57,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,93 +17,93 @@
       "score": null
     },
     {
-      "match": "São Bernardo vs Clube de Regatas Brasil",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-02T22:30:00Z",
+      "match": "Albacete vs SD Eibar",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-03T12:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "RB Leipzig vs FSV Mainz 05",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-10-03T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Finland vs Albania",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-03T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "1. FC Köln vs SC Freiburg",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-10-03T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Accrington Stanley vs Cheltenham Town",
+      "competition": "League 2",
+      "commence_time": "2026-10-03T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.76,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Universidad de Concepción vs Huachipato",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-10-02T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Sao Paulo vs Santos",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-02T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Londrina vs Criciuma",
+      "match": "Avai vs Ceará",
       "competition": "Brazil Série B",
-      "commence_time": "2026-10-02T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Juventude vs Operario PR",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-02T23:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Boca Juniors vs Union Santa Fe",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-03T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Independiente Rivadavia vs Gimnasia La Plata",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-03T00:30:00Z",
+      "commence_time": "2026-10-03T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Reading vs Bradford City",
+      "competition": "League 1",
+      "commence_time": "2026-10-03T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
