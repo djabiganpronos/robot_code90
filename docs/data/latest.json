@@ -1,69 +1,17 @@
 {
-  "generated_at": "2026-10-04T11:39:36.546362+00:00",
+  "generated_at": "2026-10-04T16:18:18.211110+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
-    {
-      "match": "VfL Wolfsburg vs Hamburger SV",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-10-04T11:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Real Sociedad B vs Granada CF",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-10-04T12:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Azerbaijan vs Lithuania",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-04T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Under"
-      },
-      "score": null
-    },
-    {
-      "match": "VfB Stuttgart vs Union Berlin",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-10-04T14:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Sporting Gijón vs Celta Fortuna",
       "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-10-04T14:15:00Z",
+      "commence_time": "2026-10-04T14:17:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.04,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -74,7 +22,7 @@
       "commence_time": "2026-10-04T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.41,
+        "cote": 1.62,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -86,10 +34,10 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-10-04T16:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -104,6 +52,97 @@
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "CD Castellón vs AD Ceuta FC",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-04T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Las Palmas vs Real Valladolid CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-04T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Atlético Huracán vs Aldosivi Mar del Plata",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-04T17:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.53,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Wales vs Denmark",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-04T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Greece vs Germany",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-04T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Republic of Ireland vs Israel",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-04T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Netherlands vs Serbia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-04T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
       },
       "score": null
     }
