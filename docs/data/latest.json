@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T03:50:00.186879+00:00",
+  "generated_at": "2026-10-04T11:39:36.546362+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-10-04T11:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.55,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -22,7 +22,7 @@
       "commence_time": "2026-10-04T12:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.73,
         "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
@@ -48,7 +48,7 @@
       "commence_time": "2026-10-04T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.6,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +61,7 @@
       "commence_time": "2026-10-04T14:15:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.76,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +74,7 @@
       "commence_time": "2026-10-04T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.36,
+        "cote": 1.41,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -86,10 +86,10 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-10-04T16:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.82,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -100,7 +100,7 @@
       "commence_time": "2026-10-04T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.8,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
