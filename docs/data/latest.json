@@ -1,138 +1,8 @@
 {
-  "generated_at": "2026-10-04T20:46:03.658437+00:00",
+  "generated_at": "2026-10-05T03:34:44.441903+00:00",
   "erreur": null,
-  "nb_matchs": 16,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Wales vs Denmark",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-04T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.03,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Greece vs Germany",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-04T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Netherlands vs Serbia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-04T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.03,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Portugal vs Norway",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-04T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Republic of Ireland vs Israel",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-04T18:46:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Sabadell FC vs Andorra CF",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-10-04T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.38,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Girona FC vs Mallorca",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-10-04T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.11,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Talleres vs Belgrano de Cordoba",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-04T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.0 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Argentinos Juniors vs CA Tigre BA",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-04T22:15:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Estudiantes de Río Cuarto vs Racing Club",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-05T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.58,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Cyprus vs Latvia",
       "competition": "UEFA Nations League",
@@ -178,7 +48,7 @@
       "commence_time": "2026-10-05T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.7,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -205,6 +75,32 @@
       "modele_a": {
         "pari": "PLUS DE 1.5 BUTS",
         "cote": 1.5,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Ukraine vs Hungary",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-05T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Italy vs Turkey",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-05T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.44,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
