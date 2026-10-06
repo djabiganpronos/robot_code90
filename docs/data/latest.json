@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:22:48.869230+00:00",
+  "generated_at": "2026-10-06T12:35:56.631557+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,23 +8,10 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-10-06T14:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Albania vs San Marino",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.58,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -34,10 +21,10 @@
       "competition": "FA Cup",
       "commence_time": "2026-10-06T18:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.59,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -48,7 +35,7 @@
       "commence_time": "2026-10-06T18:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
+        "cote": 1.43,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +61,7 @@
       "commence_time": "2026-10-06T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.57,
+        "cote": 1.53,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -105,6 +92,13 @@
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
+      "score": null
+    },
+    {
+      "match": "England vs Czech Republic",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-06T18:45:00Z",
+      "modele_a": null,
       "score": null
     }
   ],
