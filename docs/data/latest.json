@@ -1,41 +1,15 @@
 {
-  "generated_at": "2026-10-06T12:35:56.631557+00:00",
+  "generated_at": "2026-10-06T22:09:35.087304+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Kazakhstan vs Faroe Islands",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T14:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.58,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atherton Collieries AFC vs Trafford FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Wingate and Finchley FC vs Bedford Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-10-06T18:45:00Z",
+      "match": "Sport Recife vs São Bernardo",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-06T22:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.43,
+        "cote": 1.82,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -43,25 +17,12 @@
       "score": null
     },
     {
-      "match": "Belarus vs Finland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T18:45:00Z",
+      "match": "Goiás vs Athletic Club (MG)",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-06T23:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.48,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Luxembourg vs Bulgaria",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.53,
+        "cote": 1.57,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -69,36 +30,81 @@
       "score": null
     },
     {
-      "match": "Spalding United FC vs Bury Town FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Croatia vs Spain",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T18:45:00Z",
+      "match": "Chicago Fire vs Vancouver Whitecaps FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-07T00:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.4,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Ponte Preta vs Juventude",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T00:35:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "IF Gnistan vs FC Inter Turku",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-07T16:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.75 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Avai vs Londrina",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Operario PR vs Botafogo-SP",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "England vs Czech Republic",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-10-06T18:45:00Z",
-      "modele_a": null,
+      "match": "Bragantino-SP vs Mirassol",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
