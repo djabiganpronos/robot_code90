@@ -1,54 +1,15 @@
 {
-  "generated_at": "2026-10-05T23:35:50.075190+00:00",
+  "generated_at": "2026-10-06T04:22:48.869230+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Estudiantes vs Gimnasia Mendoza",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-05T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Velez Sarsfield BA vs Platense",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-05T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Banfield vs Rosario Central",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-06T00:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Kazakhstan vs Faroe Islands",
       "competition": "UEFA Nations League",
       "commence_time": "2026-10-06T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.57,
+        "cote": 1.56,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +22,7 @@
       "commence_time": "2026-10-06T18:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.66,
+        "cote": 1.53,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -130,6 +91,19 @@
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Croatia vs Spain",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-10-06T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.4,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
