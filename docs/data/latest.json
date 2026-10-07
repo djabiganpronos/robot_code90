@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:48:58.352008+00:00",
+  "generated_at": "2026-10-07T12:29:09.576352+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,7 +7,13 @@
       "match": "IF Gnistan vs FC Inter Turku",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-10-07T16:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
@@ -16,7 +22,7 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.66,
+        "cote": 1.67,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -29,7 +35,7 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.63,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -42,7 +48,7 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.69,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -55,7 +61,7 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.66,
+        "cote": 1.61,
         "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
@@ -67,10 +73,10 @@
       "competition": "Brazil Série A",
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -81,7 +87,7 @@
       "commence_time": "2026-10-07T23:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.78,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
