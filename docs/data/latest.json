@@ -1,71 +1,13 @@
 {
-  "generated_at": "2026-10-06T22:09:35.087304+00:00",
+  "generated_at": "2026-10-07T03:48:58.352008+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Sport Recife vs São Bernardo",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-06T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Goiás vs Athletic Club (MG)",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-06T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Chicago Fire vs Vancouver Whitecaps FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-07T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.4,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Ponte Preta vs Juventude",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-07T00:35:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
       "match": "IF Gnistan vs FC Inter Turku",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-10-07T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.75 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -74,7 +16,7 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.66,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -104,6 +46,58 @@
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Internacional vs Corinthians",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Remo vs Grêmio",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-07T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Vitoria vs Chapecoense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-07T23:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "América Mineiro vs Fortaleza",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T23:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
