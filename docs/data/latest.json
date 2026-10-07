@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-10-07T12:29:09.576352+00:00",
+  "generated_at": "2026-10-07T22:32:09.831049+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 13,
   "matchs": [
-    {
-      "match": "IF Gnistan vs FC Inter Turku",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-07T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Avai vs Londrina",
       "competition": "Brazil Série B",
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.55,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +22,7 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
+        "cote": 1.57,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -48,7 +35,7 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.69,
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +48,7 @@
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.61,
+        "cote": 1.49,
         "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
@@ -73,10 +60,10 @@
       "competition": "Brazil Série A",
       "commence_time": "2026-10-07T22:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -100,10 +87,88 @@
       "commence_time": "2026-10-07T23:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.77,
+        "cote": 1.75,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Clube de Regatas Brasil vs Atletico Goianiense",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T23:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Botafogo vs Vasco da Gama",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-07T23:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Vila Nova vs Cuiabá",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-07T23:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Cruzeiro vs Sao Paulo",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-08T00:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE CRUZEIRO",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "HJK Helsinki vs VPS Vaasa",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-08T15:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE HJK HELSINKI",
+        "cote": 1.61,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "KuPS Kuopio vs AC Oulu",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-08T16:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KUPS KUOPIO",
+        "cote": 1.61,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
