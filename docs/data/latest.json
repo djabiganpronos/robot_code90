@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T04:02:39.447809+00:00",
+  "generated_at": "2026-10-08T12:38:46.390467+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -22,7 +22,7 @@
       "commence_time": "2026-10-08T16:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE KUPS KUOPIO",
-        "cote": 1.6,
+        "cote": 1.56,
         "indice_fixe": 78,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -35,7 +35,7 @@
       "commence_time": "2026-10-08T19:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE SHAMROCK ROVERS",
-        "cote": 1.39,
+        "cote": 1.37,
         "indice_fixe": 84,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Over"
@@ -61,10 +61,10 @@
       "commence_time": "2026-10-08T22:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 78,
+        "cote": 1.67,
+        "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "Over"
       },
       "score": null
     },
@@ -73,10 +73,10 @@
       "competition": "Brazil Série B",
       "commence_time": "2026-10-08T22:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -100,7 +100,7 @@
       "commence_time": "2026-10-09T00:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.64,
+        "cote": 1.6,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
