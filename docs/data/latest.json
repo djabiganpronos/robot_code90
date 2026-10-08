@@ -1,56 +1,17 @@
 {
-  "generated_at": "2026-10-08T12:38:46.390467+00:00",
+  "generated_at": "2026-10-08T22:45:13.075134+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
-    {
-      "match": "HJK Helsinki vs VPS Vaasa",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-08T15:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE HJK HELSINKI",
-        "cote": 1.58,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "KuPS Kuopio vs AC Oulu",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-08T16:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE KUPS KUOPIO",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Shamrock Rovers vs Drogheda United",
-      "competition": "League of Ireland",
-      "commence_time": "2026-10-08T19:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE SHAMROCK ROVERS",
-        "cote": 1.37,
-        "indice_fixe": 84,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
     {
       "match": "Ceará vs Criciuma",
       "competition": "Brazil Série B",
       "commence_time": "2026-10-08T22:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "PLUS DE 1.5 BUTS",
         "cote": 1.53,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -61,7 +22,7 @@
       "commence_time": "2026-10-08T22:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.8,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -71,12 +32,12 @@
     {
       "match": "Nautico PE vs Grêmio Novorizontino",
       "competition": "Brazil Série B",
-      "commence_time": "2026-10-08T22:30:00Z",
+      "commence_time": "2026-10-08T22:35:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -87,7 +48,7 @@
       "commence_time": "2026-10-08T23:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -100,7 +61,85 @@
       "commence_time": "2026-10-09T00:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.58,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Fluminense vs Coritiba",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-09T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.69,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Daejeon Citizen vs Jeonbuk Hyundai Motors",
+      "competition": "K League 1",
+      "commence_time": "2026-10-09T05:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gangwon FC vs Bucheon FC 1995",
+      "competition": "K League 1",
+      "commence_time": "2026-10-09T07:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Incheon United vs Pohang Steelers",
+      "competition": "K League 1",
+      "commence_time": "2026-10-09T07:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kashima Antlers vs Gamba Osaka",
+      "competition": "J League",
+      "commence_time": "2026-10-09T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kashiwa Reysol vs Vissel Kobe",
+      "competition": "J League",
+      "commence_time": "2026-10-09T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
