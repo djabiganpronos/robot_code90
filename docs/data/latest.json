@@ -1,158 +1,15 @@
 {
-  "generated_at": "2026-10-07T22:32:09.831049+00:00",
+  "generated_at": "2026-10-08T04:02:39.447809+00:00",
   "erreur": null,
-  "nb_matchs": 13,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Avai vs Londrina",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-07T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Operario PR vs Botafogo-SP",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-07T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Bragantino-SP vs Mirassol",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-07T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Internacional vs Corinthians",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-07T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.49,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Remo vs Grêmio",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-07T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Vitoria vs Chapecoense",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-07T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "América Mineiro vs Fortaleza",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-07T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Clube de Regatas Brasil vs Atletico Goianiense",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-07T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Botafogo vs Vasco da Gama",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-07T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Vila Nova vs Cuiabá",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-07T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cruzeiro vs Sao Paulo",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-08T00:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE CRUZEIRO",
-        "cote": 1.68,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "HJK Helsinki vs VPS Vaasa",
       "competition": "Veikkausliiga - Finland",
       "commence_time": "2026-10-08T15:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE HJK HELSINKI",
-        "cote": 1.61,
+        "cote": 1.58,
         "indice_fixe": 78,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -165,9 +22,87 @@
       "commence_time": "2026-10-08T16:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE KUPS KUOPIO",
-        "cote": 1.61,
+        "cote": 1.6,
         "indice_fixe": 78,
         "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Shamrock Rovers vs Drogheda United",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-08T19:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE SHAMROCK ROVERS",
+        "cote": 1.39,
+        "indice_fixe": 84,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Ceará vs Criciuma",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.53,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Santos vs Flamengo",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Nautico PE vs Grêmio Novorizontino",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-08T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Atletico Paranaense vs Atletico Mineiro",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-08T23:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Palmeiras vs Bahia",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-09T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
