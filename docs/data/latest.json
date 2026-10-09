@@ -1,86 +1,8 @@
 {
-  "generated_at": "2026-10-08T22:45:13.075134+00:00",
+  "generated_at": "2026-10-09T04:07:42.352700+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Ceará vs Criciuma",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-08T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Santos vs Flamengo",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-08T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Nautico PE vs Grêmio Novorizontino",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-08T22:35:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atletico Paranaense vs Atletico Mineiro",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-08T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Palmeiras vs Bahia",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-09T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.58,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Fluminense vs Coritiba",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-09T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.69,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "Daejeon Citizen vs Jeonbuk Hyundai Motors",
       "competition": "K League 1",
@@ -138,8 +60,47 @@
       "competition": "J League",
       "commence_time": "2026-10-09T10:00:00Z",
       "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Qingdao Hainiu FC vs Beijing FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-10-09T11:35:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Shenzhen Peng City FC vs Henan FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-10-09T11:35:00Z",
+      "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.62,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Zhejiang vs Shanghai SIPG FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-10-09T12:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.36,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
