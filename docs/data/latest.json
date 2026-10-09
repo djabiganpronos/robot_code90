@@ -1,54 +1,15 @@
 {
-  "generated_at": "2026-10-09T04:07:42.352700+00:00",
+  "generated_at": "2026-10-09T12:26:02.913639+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
     {
-      "match": "Daejeon Citizen vs Jeonbuk Hyundai Motors",
-      "competition": "K League 1",
-      "commence_time": "2026-10-09T05:00:00Z",
+      "match": "Qingdao Hainiu FC vs Beijing FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-10-09T11:35:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Gangwon FC vs Bucheon FC 1995",
-      "competition": "K League 1",
-      "commence_time": "2026-10-09T07:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Incheon United vs Pohang Steelers",
-      "competition": "K League 1",
-      "commence_time": "2026-10-09T07:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.51,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Kashima Antlers vs Gamba Osaka",
-      "competition": "J League",
-      "commence_time": "2026-10-09T10:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
+        "pari": "PLUS DE 4.0 BUTS",
+        "cote": 1.79,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -56,9 +17,9 @@
       "score": null
     },
     {
-      "match": "Kashiwa Reysol vs Vissel Kobe",
-      "competition": "J League",
-      "commence_time": "2026-10-09T10:00:00Z",
+      "match": "Shenzhen Peng City FC vs Henan FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-10-09T11:35:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
@@ -69,12 +30,12 @@
       "score": null
     },
     {
-      "match": "Qingdao Hainiu FC vs Beijing FC",
+      "match": "Zhejiang vs Shanghai SIPG FC",
       "competition": "Super League - China",
-      "commence_time": "2026-10-09T11:35:00Z",
+      "commence_time": "2026-10-09T12:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.84,
+        "pari": "MOINS DE 6.0 BUTS",
+        "cote": 1.75,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -82,12 +43,12 @@
       "score": null
     },
     {
-      "match": "Shenzhen Peng City FC vs Henan FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-10-09T11:35:00Z",
+      "match": "Al-Kholood vs Al-Qadsiah",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-09T13:50:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.44,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -95,14 +56,74 @@
       "score": null
     },
     {
-      "match": "Zhejiang vs Shanghai SIPG FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-10-09T12:00:00Z",
+      "match": "Al-Fateh vs Al-Ahli",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-09T14:55:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.36,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SJK Seinäjoki vs FC Lahti",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-09T15:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Wieczysta Kraków vs Wisła Płock",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-10-09T16:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "1. FC Heidenheim vs 1. FC Kaiserslautern",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-09T16:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Eintracht Braunschweig vs Holstein Kiel",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-09T16:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "FK Rostov vs FC Akron Tolyatti",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-10-09T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Nordsjaelland vs OB Odense BK",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-10-09T17:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FC NORDSJAELLAND",
+        "cote": 1.53,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
       },
       "score": null
