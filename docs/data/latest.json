@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-10-09T12:26:02.913639+00:00",
+  "generated_at": "2026-10-09T22:07:43.472929+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Qingdao Hainiu FC vs Beijing FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-10-09T11:35:00Z",
+      "match": "Gimnasia La Plata vs Atlético Tucuman",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-09T21:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.0 BUTS",
-        "cote": 1.79,
+        "pari": "MOINS DE 1.0 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Instituto de Córdoba vs Boca Juniors",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-09T22:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.52,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,9 +30,22 @@
       "score": null
     },
     {
-      "match": "Shenzhen Peng City FC vs Henan FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-10-09T11:35:00Z",
+      "match": "Union Santa Fe vs Defensa y Justicia",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-10T00:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Puebla vs León",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-10T01:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
@@ -30,25 +56,25 @@
       "score": null
     },
     {
-      "match": "Zhejiang vs Shanghai SIPG FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-10-09T12:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 6.0 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Al-Kholood vs Al-Qadsiah",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-09T13:50:00Z",
+      "match": "Tigres vs Toluca",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-10T03:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.44,
+        "cote": 1.67,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Cerezo Osaka vs Yokohama F Marinos",
+      "competition": "J League",
+      "commence_time": "2026-10-10T05:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.75,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -56,32 +82,12 @@
       "score": null
     },
     {
-      "match": "Al-Fateh vs Al-Ahli",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-09T14:55:00Z",
+      "match": "FC Seoul vs Jeju United FC",
+      "competition": "K League 1",
+      "commence_time": "2026-10-10T05:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "SJK Seinäjoki vs FC Lahti",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-09T15:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Wieczysta Kraków vs Wisła Płock",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-10-09T16:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.83,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -89,26 +95,12 @@
       "score": null
     },
     {
-      "match": "1. FC Heidenheim vs 1. FC Kaiserslautern",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-10-09T16:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Eintracht Braunschweig vs Holstein Kiel",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-10-09T16:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "FK Rostov vs FC Akron Tolyatti",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-10-09T16:30:00Z",
+      "match": "Avispa Fukuoka vs Fagiano Okayama",
+      "competition": "J League",
+      "commence_time": "2026-10-10T06:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.78,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -116,14 +108,14 @@
       "score": null
     },
     {
-      "match": "FC Nordsjaelland vs OB Odense BK",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-10-09T17:00:00Z",
+      "match": "FC Tokyo vs Urawa Red Diamonds",
+      "competition": "J League",
+      "commence_time": "2026-10-10T06:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE FC NORDSJAELLAND",
-        "cote": 1.53,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.6,
         "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
