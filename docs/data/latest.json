@@ -1,67 +1,15 @@
 {
-  "generated_at": "2026-10-09T22:07:43.472929+00:00",
+  "generated_at": "2026-10-10T03:53:05.690841+00:00",
   "erreur": null,
   "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Gimnasia La Plata vs Atlético Tucuman",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-09T21:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.0 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Instituto de Córdoba vs Boca Juniors",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-09T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.52,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Union Santa Fe vs Defensa y Justicia",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-10T00:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Puebla vs León",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-10T01:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Tigres vs Toluca",
       "competition": "Liga MX",
       "commence_time": "2026-10-10T03:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.65,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -100,7 +48,7 @@
       "commence_time": "2026-10-10T06:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.78,
+        "cote": 1.79,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -114,6 +62,52 @@
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.6,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Sangju Sangmu FC vs FC Anyang",
+      "competition": "K League 1",
+      "commence_time": "2026-10-10T07:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gazovik Orenburg vs FC Dynamo Makhachkala",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-10-10T10:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Kyoto Purple Sanga vs FC Machida Zelvia",
+      "competition": "J League",
+      "commence_time": "2026-10-10T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Genclerbirligi SK vs Amed SK",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-10T10:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.72,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
