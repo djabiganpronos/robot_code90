@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-11T21:22:00.741294+00:00",
+  "generated_at": "2026-10-12T03:50:44.063437+00:00",
   "erreur": null,
-  "nb_matchs": 17,
+  "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Atletico Goianiense vs Sport Recife",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-11T19:10:00Z",
+      "match": "Real Valladolid CF vs Albacete",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-12T12:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.03,
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Arouca vs CF Estrela",
-      "competition": "Primeira Liga - Portugal",
-      "commence_time": "2026-10-11T19:30:00Z",
+      "match": "Burgos CF vs Granada CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-12T14:15:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.43,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Platense vs Argentinos Juniors",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-11T20:00:00Z",
+      "match": "VPS Vaasa vs IF Gnistan",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-12T15:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.83,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.7,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -43,129 +43,12 @@
       "score": null
     },
     {
-      "match": "Rosario Central vs Independiente Rivadavia",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-11T20:00:00Z",
+      "match": "PAOK Thessaloniki vs Kalamata FC",
+      "competition": "Super League - Greece",
+      "commence_time": "2026-10-12T15:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.0 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Palmeiras vs Corinthians",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-11T20:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.44,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Flamengo vs Fluminense",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-11T20:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Grêmio vs Internacional",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-11T20:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Nautico PE vs Vila Nova",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-11T20:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Deportes Concepción vs Union La Calera",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-10-11T20:31:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.42,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cuiabá vs Avai",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-11T21:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Operario PR vs Goiás",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-11T21:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Racing Club vs Belgrano de Cordoba",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-11T22:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.59,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Bahia vs Mirassol",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-11T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -173,53 +56,47 @@
       "score": null
     },
     {
-      "match": "Atlético San Luis vs Santos Laguna",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-11T23:00:00Z",
+      "match": "AC Oulu vs HJK Helsinki",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-12T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.48,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Radomiak Radom vs Motor Lublin",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-10-12T16:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Atalanta BC vs Venezia",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-10-12T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Oviedo vs SD Eibar",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-12T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Deportes Limache vs Palestino",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-10-11T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "St. Louis City SC vs LA Galaxy",
-      "competition": "MLS",
-      "commence_time": "2026-10-11T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.78,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Pachuca vs Necaxa",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-11T23:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
