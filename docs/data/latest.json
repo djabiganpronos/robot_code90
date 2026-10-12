@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-10-12T03:50:44.063437+00:00",
+  "generated_at": "2026-10-12T14:10:02.928742+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Real Valladolid CF vs Albacete",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-10-12T12:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Burgos CF vs Granada CF",
       "competition": "La Liga 2 - Spain",
       "commence_time": "2026-10-12T14:15:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.58,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +48,7 @@
       "commence_time": "2026-10-12T16:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.48,
+        "cote": 1.51,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -72,7 +59,13 @@
       "match": "Radomiak Radom vs Motor Lublin",
       "competition": "Ekstraklasa - Poland",
       "commence_time": "2026-10-12T16:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
@@ -94,7 +87,20 @@
       "commence_time": "2026-10-12T16:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "AGF Aarhus vs SonderjyskE",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-10-12T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.67,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
