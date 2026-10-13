@@ -1,92 +1,14 @@
 {
-  "generated_at": "2026-10-13T13:21:30.626540+00:00",
+  "generated_at": "2026-10-13T22:11:31.832087+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "RC Lens vs Sporting Lisbon",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-13T16:45:00Z",
+      "match": "Athletic Club (MG) vs Londrina",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-13T22:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.59,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Sabah FK vs Slavia Praha",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-13T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "1. FC Saarbrücken vs MSV Duisburg",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-13T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "TSV Havelse vs FC Würzburger Kickers",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-13T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "IFK Norrkoping vs GIF Sundsvall",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-10-13T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Hansa Rostock vs SV Meppen",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-13T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Rot-Weiss Essen vs SC Fortuna Köln",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-13T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.6,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -95,15 +17,81 @@
       "score": null
     },
     {
-      "match": "VfB Stuttgart II vs TSG Hoffenheim II",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-13T17:00:00Z",
+      "match": "Boca Juniors vs Vasco da Gama",
+      "competition": "Copa Sudamericana",
+      "commence_time": "2026-10-14T00:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.41,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Feyenoord vs Como",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-10-14T16:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "LASK vs Liverpool",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-10-14T16:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Wehen Wiesbaden vs Alemannia Aachen",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Waldhof Mannheim vs FC Ingolstadt 04",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Viktoria Köln 1904 vs SG Sonnenhof Großaspach",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SC Preußen Münster vs Fortuna Düsseldorf",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
