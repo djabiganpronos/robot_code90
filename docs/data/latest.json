@@ -1,64 +1,71 @@
 {
-  "generated_at": "2026-10-14T16:20:35.944160+00:00",
+  "generated_at": "2026-10-14T21:12:24.898002+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Feyenoord vs Como",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-14T16:45:00Z",
+      "match": "Clube Atlético Mineiro vs Montevideo City Torque",
+      "competition": "Copa Sudamericana",
+      "commence_time": "2026-10-14T22:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "LASK vs Liverpool",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-14T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.56,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.75,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Wehen Wiesbaden vs Alemannia Aachen",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-14T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Waldhof Mannheim vs FC Ingolstadt 04",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-14T17:00:00Z",
+      "match": "Sarmiento de Junin vs River Plate",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-14T22:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 88,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "FC Viktoria Köln 1904 vs SG Sonnenhof Großaspach",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-14T17:00:00Z",
+      "match": "CF Montreal vs Atlanta United FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-14T23:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Columbus Crew SC vs Charlotte FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-14T23:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "D.C. United vs New York Red Bulls",
+      "competition": "MLS",
+      "commence_time": "2026-10-14T23:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Cincinnati vs New England Revolution",
+      "competition": "MLS",
+      "commence_time": "2026-10-14T23:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
         "cote": 1.83,
@@ -69,42 +76,23 @@
       "score": null
     },
     {
-      "match": "SC Preußen Münster vs Fortuna Düsseldorf",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-14T17:00:00Z",
+      "match": "Inter Miami CF vs New York City FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-14T23:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "SC Verl vs Jahn Regensburg",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-14T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Queens Park Rangers vs Derby County",
-      "competition": "Championship",
-      "commence_time": "2026-10-14T18:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
+      "match": "Toronto FC vs Orlando City SC",
+      "competition": "MLS",
+      "commence_time": "2026-10-14T23:30:00Z",
+      "modele_a": null,
       "score": null
     }
   ],
