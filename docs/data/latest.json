@@ -1,34 +1,8 @@
 {
-  "generated_at": "2026-10-13T22:11:31.832087+00:00",
+  "generated_at": "2026-10-14T03:08:45.390692+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Athletic Club (MG) vs Londrina",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-13T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Boca Juniors vs Vasco da Gama",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-10-14T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.41,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Feyenoord vs Como",
       "competition": "UEFA Champions League",
@@ -89,6 +63,32 @@
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.65,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "SC Verl vs Jahn Regensburg",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Queens Park Rangers vs Derby County",
+      "competition": "Championship",
+      "commence_time": "2026-10-14T18:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.74,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
