@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:08:45.390692+00:00",
+  "generated_at": "2026-10-14T11:00:15.550683+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,14 +7,26 @@
       "match": "Feyenoord vs Como",
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-14T16:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
       "score": null
     },
     {
       "match": "LASK vs Liverpool",
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-14T16:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
       "score": null
     },
     {
@@ -36,10 +48,10 @@
       "commence_time": "2026-10-14T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 82,
+        "cote": 1.67,
+        "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "Over"
       },
       "score": null
     },
@@ -49,10 +61,10 @@
       "commence_time": "2026-10-14T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 82,
+        "cote": 1.85,
+        "indice_fixe": 88,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "Over"
       },
       "score": null
     },
