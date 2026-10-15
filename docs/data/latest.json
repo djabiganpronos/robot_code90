@@ -1,15 +1,54 @@
 {
-  "generated_at": "2026-10-14T21:12:24.898002+00:00",
+  "generated_at": "2026-10-15T02:47:55.586417+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 15,
   "matchs": [
     {
-      "match": "Clube Atlético Mineiro vs Montevideo City Torque",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-10-14T22:00:00Z",
+      "match": "FC Dallas vs Seattle Sounders FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-15T00:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.08,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "St. Louis City SC vs Vancouver Whitecaps FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-15T00:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.03,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Colorado Rapids vs Minnesota United FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-15T01:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Real Salt Lake vs San Jose Earthquakes",
+      "competition": "MLS",
+      "commence_time": "2026-10-15T01:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.81,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,58 +56,116 @@
       "score": null
     },
     {
-      "match": "Sarmiento de Junin vs River Plate",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-14T22:00:00Z",
+      "match": "Los Angeles FC vs Austin FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-15T02:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.4,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "San Diego FC vs Houston Dynamo",
+      "competition": "MLS",
+      "commence_time": "2026-10-15T02:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "LA Galaxy vs Portland Timbers",
+      "competition": "MLS",
+      "commence_time": "2026-10-15T02:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.36,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Faisaly KSA FC vs Al-Kholood",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-15T13:40:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Khaleej vs Al-Fayha",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-15T14:50:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "CF Montreal vs Atlanta United FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-14T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Columbus Crew SC vs Charlotte FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-14T23:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "D.C. United vs New York Red Bulls",
-      "competition": "MLS",
-      "commence_time": "2026-10-14T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Cincinnati vs New England Revolution",
-      "competition": "MLS",
-      "commence_time": "2026-10-14T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
         "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Hazem vs Al-Fateh",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-15T15:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Salzburg vs AC Milan",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gent vs AGF Aarhus",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "PFC CSKA Sofia vs AS Monaco",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.69,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -76,23 +173,23 @@
       "score": null
     },
     {
-      "match": "Inter Miami CF vs New York City FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-14T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "match": "AZ Alkmaar vs Hapoel Be'er Sheva",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": null,
       "score": null
     },
     {
-      "match": "Toronto FC vs Orlando City SC",
-      "competition": "MLS",
-      "commence_time": "2026-10-14T23:30:00Z",
-      "modele_a": null,
+      "match": "Hajduk Split vs Ajax",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
