@@ -1,30 +1,17 @@
 {
-  "generated_at": "2026-10-15T10:43:16.143164+00:00",
+  "generated_at": "2026-10-15T16:08:23.413791+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
-    {
-      "match": "Al-Faisaly KSA FC vs Al-Kholood",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-15T13:40:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Al-Khaleej vs Al-Fayha",
       "competition": "Saudi Pro League",
-      "commence_time": "2026-10-15T14:50:00Z",
+      "commence_time": "2026-10-15T14:51:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.36,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -34,8 +21,8 @@
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-15T15:15:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.75,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.72,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -46,7 +33,13 @@
       "match": "Salzburg vs AC Milan",
       "competition": "UEFA Europa League",
       "commence_time": "2026-10-15T16:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
@@ -55,7 +48,7 @@
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.8,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -68,7 +61,7 @@
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.61,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -81,7 +74,7 @@
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE AZ ALKMAAR",
-        "cote": 1.36,
+        "cote": 1.46,
         "indice_fixe": 84,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -93,11 +86,44 @@
       "competition": "UEFA Europa Conference League",
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Lech Poznań vs Bayer Leverkusen",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BAYER LEVERKUSEN",
+        "cote": 1.47,
+        "indice_fixe": 84,
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Lyon vs Crystal Palace",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Riga FC vs FC Kairat",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T16:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
       },
       "score": null
     }
