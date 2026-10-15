@@ -1,99 +1,8 @@
 {
-  "generated_at": "2026-10-15T02:47:55.586417+00:00",
+  "generated_at": "2026-10-15T10:43:16.143164+00:00",
   "erreur": null,
-  "nb_matchs": 15,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "FC Dallas vs Seattle Sounders FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.08,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "St. Louis City SC vs Vancouver Whitecaps FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.03,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Colorado Rapids vs Minnesota United FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T01:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Real Salt Lake vs San Jose Earthquakes",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T01:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Los Angeles FC vs Austin FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T02:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.4,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "San Diego FC vs Houston Dynamo",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T02:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "LA Galaxy vs Portland Timbers",
-      "competition": "MLS",
-      "commence_time": "2026-10-15T02:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.36,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Al-Faisaly KSA FC vs Al-Kholood",
       "competition": "Saudi Pro League",
@@ -126,7 +35,7 @@
       "commence_time": "2026-10-15T15:15:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.75,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -137,13 +46,7 @@
       "match": "Salzburg vs AC Milan",
       "competition": "UEFA Europa League",
       "commence_time": "2026-10-15T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -165,10 +68,10 @@
       "commence_time": "2026-10-15T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.69,
-        "indice_fixe": 85,
+        "cote": 1.68,
+        "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
@@ -176,7 +79,13 @@
       "match": "AZ Alkmaar vs Hapoel Be'er Sheva",
       "competition": "UEFA Europa League",
       "commence_time": "2026-10-15T16:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "VICTOIRE AZ ALKMAAR",
+        "cote": 1.36,
+        "indice_fixe": 84,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
