@@ -1,40 +1,183 @@
 {
-  "generated_at": "2026-10-15T16:08:23.413791+00:00",
+  "generated_at": "2026-10-15T20:50:29.421516+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 27,
   "matchs": [
     {
-      "match": "Al-Khaleej vs Al-Fayha",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-15T14:51:00Z",
+      "match": "Dinamo Zagreb vs Anderlecht",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.32,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Atalanta BC vs Pafos FC",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.16,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Benfica vs Celtic",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.26,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "TSG Hoffenheim vs Besiktas JK",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.22,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Bournemouth vs SK Sturm Graz",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.29,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Brighton and Hove Albion vs FK Kauno Žalgiris",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.35,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Celta Vigo vs Juventus",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.22,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Jagiellonia Białystok vs FC Ararat-Armenia",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.46,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Copenhagen vs SC Braga",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.1,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Sint Truiden vs FC Iberia 1999",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.25,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Hearts vs FC Nordsjaelland",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.07,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Twente Enschede vs FC Thun",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.25,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "SC Freiburg vs FK Jablonec",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.1,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Ferencváros TC vs Viktoria Plzeň",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.36,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Al-Hazem vs Al-Fateh",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-15T15:15:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Salzburg vs AC Milan",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
         "cote": 1.83,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
@@ -43,11 +186,128 @@
       "score": null
     },
     {
-      "match": "Gent vs AGF Aarhus",
+      "match": "SK Brann vs Lincoln Red Imps FC",
       "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-10-15T16:45:00Z",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.22,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Mansfield Town vs Oxford United",
+      "competition": "League 1",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.14,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Marseille vs Olympiakos Piraeus",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.36,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "NEC Nijmegen vs PFC Levski Sofia",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.29,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Rennes vs OFI Crete",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.29,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Atlético Huracán vs Gimnasia La Plata",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-15T23:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.44,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Estudiantes La Plata vs Flamengo-RJ",
+      "competition": "Copa Libertadores",
+      "commence_time": "2026-10-16T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Sydney FC vs Western Sydney Wanderers",
+      "competition": "A-League",
+      "commence_time": "2026-10-16T09:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Henan FC vs Tianjin Jinmen Tiger FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-10-16T11:35:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Qadsiah vs Abha Club",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-16T13:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
         "cote": 1.8,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
@@ -56,38 +316,12 @@
       "score": null
     },
     {
-      "match": "PFC CSKA Sofia vs AS Monaco",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "AZ Alkmaar vs Hapoel Be'er Sheva",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE AZ ALKMAAR",
-        "cote": 1.46,
-        "indice_fixe": 84,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Hajduk Split vs Ajax",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-10-15T16:45:00Z",
+      "match": "Al-Riyadh vs Al-Hilal",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-16T15:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.83,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -95,35 +329,28 @@
       "score": null
     },
     {
-      "match": "Lech Poznań vs Bayer Leverkusen",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-15T16:45:00Z",
+      "match": "Wieczysta Kraków vs Raków Częstochowa",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-10-16T16:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE BAYER LEVERKUSEN",
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.47,
-        "indice_fixe": 84,
-        "motif": "Cote extérieur en fourchette favorite",
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Lyon vs Crystal Palace",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Riga FC vs FC Kairat",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-10-15T16:45:00Z",
+      "match": "FC Energie Cottbus vs 1. FC Nürnberg",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-16T16:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
