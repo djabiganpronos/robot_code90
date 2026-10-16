@@ -1,63 +1,17 @@
 {
-  "generated_at": "2026-10-16T10:30:16.346227+00:00",
+  "generated_at": "2026-10-16T15:55:44.772356+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Sydney FC vs Western Sydney Wanderers",
-      "competition": "A-League",
-      "commence_time": "2026-10-16T09:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 0.5 BUTS",
-        "cote": 1.52,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Henan FC vs Tianjin Jinmen Tiger FC",
-      "competition": "Super League - China",
-      "commence_time": "2026-10-16T11:35:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Al-Qadsiah vs Abha Club",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-16T13:15:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Al-Riyadh vs Al-Hilal",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-16T15:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Wieczysta Kraków vs Raków Częstochowa",
       "competition": "Ekstraklasa - Poland",
       "commence_time": "2026-10-16T16:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.47,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -68,7 +22,7 @@
       "commence_time": "2026-10-16T16:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.7,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -107,10 +61,49 @@
       "commence_time": "2026-10-16T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.67,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "IF Brommapojkarna vs Djurgardens IF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-10-16T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SC Fortuna Köln vs VfB Stuttgart II",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-10-16T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Çorum FK vs Çaykur Rizespor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-16T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.53,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
