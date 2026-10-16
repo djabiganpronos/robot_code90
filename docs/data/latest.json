@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-10-16T15:55:44.772356+00:00",
+  "generated_at": "2026-10-16T20:23:43.544860+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 20,
   "matchs": [
     {
-      "match": "Wieczysta Kraków vs Raków Częstochowa",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-10-16T16:00:00Z",
+      "match": "Eintracht Frankfurt vs 1. FC Köln",
+      "competition": "Bundesliga - Germany",
+      "commence_time": "2026-10-16T18:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Widzew Łódź vs Wisła Kraków",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-10-16T18:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.18,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,12 +30,90 @@
       "score": null
     },
     {
-      "match": "FC Energie Cottbus vs 1. FC Nürnberg",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-10-16T16:30:00Z",
+      "match": "Leganés vs Córdoba",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-10-16T18:31:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.7,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.02,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Hellas Verona vs US Catanzaro 1929",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-10-16T18:32:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.05,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Bohemians vs Waterford FC",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-16T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.36,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Drogheda United vs Derry City",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-16T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.36,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Le Mans FC vs Toulouse",
+      "competition": "Ligue 1 - France",
+      "commence_time": "2026-10-16T18:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.75 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Galway United vs Shamrock Rovers",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-16T18:46:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Frosinone vs Sassuolo",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-10-16T18:47:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 7.0 BUTS",
+        "cote": 1.84,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -30,38 +121,12 @@
       "score": null
     },
     {
-      "match": "Holstein Kiel vs Hertha Berlin",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-10-16T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "SC Freiburg vs RB Leipzig",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-10-16T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "AC Horsens vs Randers FC",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-10-16T17:00:00Z",
+      "match": "St Patricks Athletic vs Shelbourne Dublin",
+      "competition": "League of Ireland",
+      "commence_time": "2026-10-16T18:59:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.42,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -69,38 +134,129 @@
       "score": null
     },
     {
-      "match": "IF Brommapojkarna vs Djurgardens IF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-10-16T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.51,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "SC Fortuna Köln vs VfB Stuttgart II",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-16T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Çorum FK vs Çaykur Rizespor",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-10-16T17:00:00Z",
+      "match": "Burnley vs Wolverhampton Wanderers",
+      "competition": "Championship",
+      "commence_time": "2026-10-16T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
+        "cote": 1.25,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Deportivo La Coruña vs Levante",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-10-16T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.25 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Defensa y Justicia vs Instituto de Córdoba",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-16T22:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.58,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Ponte Preta vs Atletico Goianiense",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-16T22:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Mirassol vs Internacional",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-16T23:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Sport Recife vs Fortaleza",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-16T23:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Boca Juniors vs Talleres",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-17T00:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Necaxa vs Atlas",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-17T01:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Atlante FC vs Pumas",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-17T03:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Tijuana vs Puebla",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-17T03:05:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.57,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
