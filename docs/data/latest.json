@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-16T02:44:35.144679+00:00",
+  "generated_at": "2026-10-16T10:30:16.346227+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
     {
       "match": "Sydney FC vs Western Sydney Wanderers",
       "competition": "A-League",
       "commence_time": "2026-10-16T09:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.7,
+        "pari": "PLUS DE 0.5 BUTS",
+        "cote": 1.52,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -20,13 +20,7 @@
       "match": "Henan FC vs Tianjin Jinmen Tiger FC",
       "competition": "Super League - China",
       "commence_time": "2026-10-16T11:35:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -35,7 +29,7 @@
       "commence_time": "2026-10-16T13:15:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.79,
+        "cote": 1.63,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -74,7 +68,7 @@
       "commence_time": "2026-10-16T16:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.75,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -99,11 +93,24 @@
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-10-16T16:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "AC Horsens vs Randers FC",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-10-16T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
       },
       "score": null
     }
