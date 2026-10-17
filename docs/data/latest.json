@@ -1,92 +1,53 @@
 {
-  "generated_at": "2026-10-17T02:36:23.016651+00:00",
+  "generated_at": "2026-10-17T10:00:22.246767+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Necaxa vs Atlas",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-17T01:02:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atlante FC vs Pumas",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-17T03:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Tijuana vs Puebla",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-17T03:05:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Auckland FC vs Melbourne City",
+      "match": "Central Coast Mariners vs Newcastle Jets FC",
       "competition": "A-League",
-      "commence_time": "2026-10-17T04:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Shimizu S Pulse vs Gamba Osaka",
-      "competition": "J League",
-      "commence_time": "2026-10-17T04:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Tokyo Verdy vs FC Tokyo",
-      "competition": "J League",
-      "commence_time": "2026-10-17T05:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Hiroshima Sanfrecce FC vs Kyoto Purple Sanga",
-      "competition": "J League",
-      "commence_time": "2026-10-17T05:00:00Z",
+      "commence_time": "2026-10-17T08:40:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.58,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Kashiwa Reysol vs Nagoya Grampus",
+      "competition": "J League",
+      "commence_time": "2026-10-17T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "1. FC Köln vs Hamburger SV",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-10-17T10:02:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Erzurum BB vs Eyüpspor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-17T10:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.73,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -95,12 +56,12 @@
       "score": null
     },
     {
-      "match": "JEF United Chiba vs Yokohama F Marinos",
-      "competition": "J League",
-      "commence_time": "2026-10-17T05:00:00Z",
+      "match": "VfL Wolfsburg vs 1. FC Heidenheim",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-17T11:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.75,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -108,10 +69,68 @@
       "score": null
     },
     {
-      "match": "Cerezo Osaka vs Kawasaki Frontale",
-      "competition": "J League",
-      "commence_time": "2026-10-17T06:00:00Z",
-      "modele_a": null,
+      "match": "1. FC Kaiserslautern vs VfL Bochum",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-17T11:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Dalian Yingbo vs Shenzhen Peng City FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-10-17T11:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.58,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Greuther Fürth vs Eintracht Braunschweig",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-17T11:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kryliya Sovetov vs FC Fakel Voronezh",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-10-17T11:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Lahti vs TPS Turku",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-17T11:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
