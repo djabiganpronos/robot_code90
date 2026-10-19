@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-10-19T02:50:44.456487+00:00",
+  "generated_at": "2026-10-19T11:50:35.602887+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Monterrey vs Pachuca",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-19T01:01:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.44,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Al-Fayha vs Al-Ahli",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-19T15:05:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
+        "cote": 1.6,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -47,23 +34,10 @@
       "competition": "Serie A - Italy",
       "commence_time": "2026-10-19T16:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Rodina Moscow vs Gazovik Orenburg",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-10-19T16:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -114,6 +88,19 @@
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.56,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Varbergs BoIS vs Helsingborgs IF",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-10-19T17:05:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.63,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
