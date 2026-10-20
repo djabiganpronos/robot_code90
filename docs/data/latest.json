@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:01:12.275770+00:00",
+  "generated_at": "2026-10-20T10:48:30.028447+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-10-20T15:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.72,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -34,10 +34,10 @@
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-20T16:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -48,7 +48,7 @@
       "commence_time": "2026-10-20T16:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.61,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -60,10 +60,10 @@
       "competition": "Superettan - Sweden",
       "commence_time": "2026-10-20T17:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE IFK NORRKOPING",
-        "cote": 1.69,
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
