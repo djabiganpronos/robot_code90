@@ -1,82 +1,17 @@
 {
-  "generated_at": "2026-10-20T21:08:22.554017+00:00",
+  "generated_at": "2026-10-21T02:55:46.170288+00:00",
   "erreur": null,
   "nb_matchs": 10,
   "matchs": [
-    {
-      "match": "Paris Saint Germain vs Barcelona",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-20T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.1,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Napoli vs Bodø/Glimt",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-20T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.06,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Londrina vs Cuiabá",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-20T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Guadalajara vs Necaxa",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-21T00:07:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Vasco da Gama vs Boca Juniors",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-10-21T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.48,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "FC Juárez vs Atlante FC",
       "competition": "Liga MX",
       "commence_time": "2026-10-21T01:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.03,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -84,12 +19,12 @@
     {
       "match": "Atlético San Luis vs Querétaro",
       "competition": "Liga MX",
-      "commence_time": "2026-10-21T01:00:00Z",
+      "commence_time": "2026-10-21T01:01:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.03,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -100,7 +35,7 @@
       "commence_time": "2026-10-21T03:10:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.73,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -130,6 +65,71 @@
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Shimizu S Pulse vs FC Machida Zelvia",
+      "competition": "J League",
+      "commence_time": "2026-10-21T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Tokyo vs Kashiwa Reysol",
+      "competition": "J League",
+      "commence_time": "2026-10-21T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Fagiano Okayama vs Mito HollyHock",
+      "competition": "J League",
+      "commence_time": "2026-10-21T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "V-Varen Nagasaki vs Hiroshima Sanfrecce FC",
+      "competition": "J League",
+      "commence_time": "2026-10-21T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kyoto Purple Sanga vs Kashima Antlers",
+      "competition": "J League",
+      "commence_time": "2026-10-21T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
