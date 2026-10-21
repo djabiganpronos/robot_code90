@@ -1,147 +1,17 @@
 {
-  "generated_at": "2026-10-21T11:00:21.395219+00:00",
+  "generated_at": "2026-10-21T16:27:15.178459+00:00",
   "erreur": null,
-  "nb_matchs": 18,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Avispa Fukuoka vs Gamba Osaka",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.4,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Nagoya Grampus vs Cerezo Osaka",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Shimizu S Pulse vs FC Machida Zelvia",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.38,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Tokyo vs Kashiwa Reysol",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Fagiano Okayama vs Mito HollyHock",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "V-Varen Nagasaki vs Hiroshima Sanfrecce FC",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:03:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Kyoto Purple Sanga vs Kashima Antlers",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Kawasaki Frontale vs Vissel Kobe",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Yokohama F Marinos vs Tokyo Verdy",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:03:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Urawa Red Diamonds vs JEF United Chiba",
-      "competition": "J League",
-      "commence_time": "2026-10-21T10:33:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.47,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "PK-35 vs Jaro",
       "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-21T15:30:00Z",
+      "commence_time": "2026-10-21T15:32:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -152,7 +22,7 @@
       "commence_time": "2026-10-21T16:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.63,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -163,13 +33,7 @@
       "match": "Lille vs Galatasaray",
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-21T16:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -178,7 +42,7 @@
       "commence_time": "2026-10-21T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.77,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -191,7 +55,7 @@
       "commence_time": "2026-10-21T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.54,
+        "cote": 1.57,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -204,7 +68,7 @@
       "commence_time": "2026-10-21T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.84,
+        "cote": 1.74,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -216,10 +80,10 @@
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-21T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
       },
       "score": null
@@ -229,8 +93,21 @@
       "competition": "UEFA Champions League",
       "commence_time": "2026-10-21T19:00:00Z",
       "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Inter Milan vs Shakhtar Donetsk",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-10-21T19:00:00Z",
+      "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
