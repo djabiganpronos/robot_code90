@@ -1,132 +1,28 @@
 {
-  "generated_at": "2026-10-21T21:06:55.839066+00:00",
+  "generated_at": "2026-10-22T02:54:38.523947+00:00",
   "erreur": null,
-  "nb_matchs": 15,
+  "nb_matchs": 11,
   "matchs": [
     {
-      "match": "Bayern Munich vs Arsenal",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-21T19:00:00Z",
+      "match": "Toluca vs Tijuana",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-22T01:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.43,
+        "cote": 1.1,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Aston Villa vs Viking FK",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-21T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Real Betis vs Feyenoord",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-21T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.37,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Inter Milan vs Shakhtar Donetsk",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-21T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.44,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Sporting Lisbon vs LASK",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-21T19:00:00Z",
+      "match": "Puebla vs Monterrey",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-22T01:01:00Z",
       "modele_a": {
         "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.15,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Reading vs Leyton Orient",
-      "competition": "League 1",
-      "commence_time": "2026-10-21T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Real Madrid vs RB Leipzig",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-10-21T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Montevideo City Torque vs Clube Atlético Mineiro",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-10-21T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Cincinnati vs D.C. United",
-      "competition": "MLS",
-      "commence_time": "2026-10-21T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Palmeiras-SP vs Fluminense-RJ",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-10-22T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.61,
+        "cote": 1.1,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -136,36 +32,10 @@
     {
       "match": "Atlas vs América",
       "competition": "Liga MX",
-      "commence_time": "2026-10-22T01:00:00Z",
+      "commence_time": "2026-10-22T01:02:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Puebla vs Monterrey",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-22T01:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Toluca vs Tijuana",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-22T01:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.77,
+        "pari": "MOINS DE 7.5 BUTS",
+        "cote": 1.11,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -178,7 +48,7 @@
       "commence_time": "2026-10-22T03:10:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.61,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -191,7 +61,79 @@
       "commence_time": "2026-10-22T03:10:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Hazem vs Al-Fayha",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-22T13:40:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Kairat vs Panathinaikos FC",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-22T14:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Fateh vs Al-Shabab",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-22T14:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.56,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Ararat-Armenia vs AZ Alkmaar",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "OFI Crete vs Bayer Leverkusen",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "FK Jablonec vs Brighton and Hove Albion",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.73,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
