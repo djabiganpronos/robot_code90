@@ -1,41 +1,28 @@
 {
-  "generated_at": "2026-10-22T10:59:07.996417+00:00",
+  "generated_at": "2026-10-22T16:27:39.453864+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
-    {
-      "match": "Al-Hazem vs Al-Fayha",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-22T13:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "FC Kairat vs Panathinaikos FC",
       "competition": "UEFA Europa Conference League",
       "commence_time": "2026-10-22T14:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "pari": "MOINS DE 6.5 BUTS",
+        "cote": 1.18,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     },
     {
       "match": "Al-Fateh vs Al-Shabab",
       "competition": "Saudi Pro League",
-      "commence_time": "2026-10-22T14:45:00Z",
+      "commence_time": "2026-10-22T14:46:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.56,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -47,11 +34,11 @@
       "competition": "UEFA Europa League",
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "pari": "VICTOIRE AZ ALKMAAR",
+        "cote": 1.35,
+        "indice_fixe": 84,
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -68,7 +55,7 @@
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.76,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -81,7 +68,7 @@
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.78,
+        "cote": 1.85,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -94,10 +81,49 @@
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.79,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Iberia 1999 vs Mjällby AIF",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Getafe vs FC Lugano",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Nordsjaelland vs PFC CSKA Sofia",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
