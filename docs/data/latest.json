@@ -1,73 +1,8 @@
 {
-  "generated_at": "2026-10-22T02:54:38.523947+00:00",
+  "generated_at": "2026-10-22T10:59:07.996417+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Toluca vs Tijuana",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-22T01:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.1,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Puebla vs Monterrey",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-22T01:01:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.1,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atlas vs América",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-22T01:02:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 7.5 BUTS",
-        "cote": 1.11,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Pachuca vs Cruz Azul",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-22T03:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Santos Laguna vs Pumas",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-22T03:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Al-Hazem vs Al-Fayha",
       "competition": "Saudi Pro League",
@@ -113,7 +48,7 @@
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.85,
+        "cote": 1.78,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -132,8 +67,34 @@
       "competition": "UEFA Europa Conference League",
       "commence_time": "2026-10-22T16:45:00Z",
       "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Dinamo Zagreb vs NEC Nijmegen",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
         "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.73,
+        "cote": 1.78,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Red Star Belgrade vs FC Copenhagen",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-10-22T16:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
