@@ -1,125 +1,8 @@
 {
-  "generated_at": "2026-10-22T21:06:21.850965+00:00",
+  "generated_at": "2026-10-23T02:58:01.269163+00:00",
   "erreur": null,
-  "nb_matchs": 16,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Bournemouth vs AC Milan",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.06,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "AGF Aarhus vs KF Egnatia",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-10-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.07,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "AS Monaco vs SC Freiburg",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-10-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.0,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Jagiellonia Białystok vs Anderlecht",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.04,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Omonoia FC vs Benfica",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.07,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Besiktas JK vs Crystal Palace",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.12,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "TSG Hoffenheim vs Lyon",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.06,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "NK Celje vs Salzburg",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-10-22T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Flamengo-RJ vs Estudiantes La Plata",
-      "competition": "Copa Libertadores",
-      "commence_time": "2026-10-23T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Brisbane Roar vs Perth Glory",
       "competition": "A-League",
@@ -152,7 +35,7 @@
       "commence_time": "2026-10-23T15:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.64,
+        "cote": 1.6,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -201,7 +84,20 @@
         "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "VfL Bochum vs VfL Wolfsburg",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-23T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
