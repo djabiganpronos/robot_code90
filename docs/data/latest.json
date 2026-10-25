@@ -1,202 +1,104 @@
 {
-  "generated_at": "2026-10-25T02:47:25.213215+00:00",
+  "generated_at": "2026-10-25T10:32:16.363651+00:00",
   "erreur": null,
-  "nb_matchs": 16,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Sporting Kansas City vs Austin FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-25T00:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.01,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Houston Dynamo vs Minnesota United FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-25T00:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.03,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Monterrey vs Guadalajara",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-25T01:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Real Salt Lake vs St. Louis City SC",
-      "competition": "MLS",
-      "commence_time": "2026-10-25T01:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Colorado Rapids vs Vancouver Whitecaps FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-25T01:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Wellington Phoenix FC vs Central Coast Mariners",
-      "competition": "A-League",
-      "commence_time": "2026-10-25T02:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Portland Timbers vs Charlotte FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-25T02:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "San Diego FC vs Seattle Sounders FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-25T02:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Pumas vs Tigres",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-25T03:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Sydney FC vs Adelaide United",
-      "competition": "A-League",
-      "commence_time": "2026-10-25T04:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Nagoya Grampus vs Yokohama F Marinos",
-      "competition": "J League",
-      "commence_time": "2026-10-25T05:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cerezo Osaka vs JEF United Chiba",
-      "competition": "J League",
-      "commence_time": "2026-10-25T06:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Urawa Red Diamonds vs V-Varen Nagasaki",
-      "competition": "J League",
-      "commence_time": "2026-10-25T06:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Tokyo vs Mito HollyHock",
-      "competition": "J League",
-      "commence_time": "2026-10-25T07:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.43,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Kawasaki Frontale vs Fagiano Okayama",
-      "competition": "J League",
-      "commence_time": "2026-10-25T07:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "FK Rostov vs Lokomotiv Moscow",
       "competition": "Premier League - Russia",
       "commence_time": "2026-10-25T10:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Fortuna Sittard vs Excelsior",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-10-25T11:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Śląsk Wrocław vs Wieczysta Kraków",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-10-25T11:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.47,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Inter Milan vs Fiorentina",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-10-25T11:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.25 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Hibernian vs Celtic",
+      "competition": "Premiership - Scotland",
+      "commence_time": "2026-10-25T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "TSG Hoffenheim vs FSV Mainz 05",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-10-25T12:00:00Z",
       "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Norrby IF vs IFK Norrkoping",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-10-25T12:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Jaro vs PK-35",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-10-25T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
