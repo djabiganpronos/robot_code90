@@ -1,100 +1,15 @@
 {
-  "generated_at": "2026-10-26T22:11:00.087358+00:00",
+  "generated_at": "2026-10-27T03:19:42.924112+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Universidad de Chile vs Everton de Viña del Mar",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-10-26T21:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Union Santa Fe vs Estudiantes",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-26T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "América Mineiro vs Cuiabá",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-26T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Coritiba vs Grêmio",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-26T22:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Flamengo vs Atletico Mineiro",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-26T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Juventude vs Nautico PE",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-26T23:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE JUVENTUDE",
-        "cote": 1.41,
-        "indice_fixe": 84,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Instituto de Córdoba vs Deportivo Riestra",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-27T00:15:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Abha Club vs Al-Faisaly KSA FC",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-27T12:40:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.84,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -107,10 +22,10 @@
       "commence_time": "2026-10-27T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.83,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
@@ -123,6 +38,71 @@
         "cote": 1.6,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "VfL Bochum vs FSV Mainz 05",
+      "competition": "DFB-Pokal",
+      "commence_time": "2026-10-27T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Rot-Weiss Essen vs RB Leipzig",
+      "competition": "DFB-Pokal",
+      "commence_time": "2026-10-27T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Sassuolo vs Lazio",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-10-27T17:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "AIK vs IF Elfsborg",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-10-27T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Benevento vs US Catanzaro 1929",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-10-27T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
