@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T03:19:42.924112+00:00",
+  "generated_at": "2026-10-27T11:25:46.890586+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,13 +7,7 @@
       "match": "Abha Club vs Al-Faisaly KSA FC",
       "competition": "Saudi Pro League",
       "commence_time": "2026-10-27T12:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -21,10 +15,10 @@
       "competition": "DFB-Pokal",
       "commence_time": "2026-10-27T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
+        "pari": "PLUS DE 3.5 BUTS",
         "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -35,7 +29,7 @@
       "commence_time": "2026-10-27T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.67,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -47,10 +41,10 @@
       "competition": "DFB-Pokal",
       "commence_time": "2026-10-27T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
+        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -61,7 +55,7 @@
       "commence_time": "2026-10-27T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.67,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -72,13 +66,7 @@
       "match": "Sassuolo vs Lazio",
       "competition": "Serie A - Italy",
       "commence_time": "2026-10-27T17:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -87,7 +75,7 @@
       "commence_time": "2026-10-27T18:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.63,
+        "cote": 1.56,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
