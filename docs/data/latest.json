@@ -1,152 +1,22 @@
 {
-  "generated_at": "2026-10-28T17:58:20.267580+00:00",
+  "generated_at": "2026-10-28T22:20:15.260566+00:00",
   "erreur": null,
-  "nb_matchs": 19,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "AC Oulu vs VPS Vaasa",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-28T16:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.01,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "SC Freiburg vs VfL Wolfsburg",
+      "match": "Holstein Kiel vs TSG Hoffenheim",
       "competition": "DFB-Pokal",
-      "commence_time": "2026-10-28T17:00:02Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "SC Paderborn vs VfB Stuttgart",
-      "competition": "DFB-Pokal",
-      "commence_time": "2026-10-28T17:00:04Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "SSV Jeddeloh vs Hertha Berlin",
-      "competition": "DFB-Pokal",
-      "commence_time": "2026-10-28T17:00:07Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Dynamo Dresden vs FC Schalke 04",
-      "competition": "DFB-Pokal",
-      "commence_time": "2026-10-28T17:02:50Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "AC Milan vs Bologna",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-28T17:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.0 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Venezia vs Inter Milan",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-28T17:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE INTER MILAN",
-        "cote": 1.45,
-        "indice_fixe": 84,
-        "motif": "Cote extérieur en fourchette favorite",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Parma vs Udinese",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-28T17:30:00Z",
+      "commence_time": "2026-10-28T19:45:11Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Chelsea vs AS Roma",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-10-28T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.24,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Bayern Munich vs Real Madrid",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-10-28T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.39,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Servette FC vs Leuven",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-10-28T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "IF Brommapojkarna vs BK Hacken",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-10-28T18:00:00Z",
+      "match": "Bragantino-SP vs Chapecoense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-28T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
+        "cote": 1.78,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -154,9 +24,22 @@
       "score": null
     },
     {
-      "match": "Degerfors IF vs Västerås SK",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-10-28T18:00:00Z",
+      "match": "Fluminense vs Internacional",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-28T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Santos vs Palmeiras",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-28T22:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.83,
@@ -167,12 +50,12 @@
       "score": null
     },
     {
-      "match": "IFK Goteborg vs Djurgardens IF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-10-28T18:00:00Z",
+      "match": "New York City FC vs Atlanta United FC",
+      "competition": "MLS",
+      "commence_time": "2026-10-28T23:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.53,
+        "cote": 1.56,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -180,12 +63,12 @@
       "score": null
     },
     {
-      "match": "Halmstads BK vs Malmo FF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-10-28T18:00:00Z",
+      "match": "Universidad Católica (CHI) vs Audax Italiano",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-10-28T23:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.48,
+        "cote": 1.64,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -193,51 +76,38 @@
       "score": null
     },
     {
-      "match": "Pisa vs Palermo",
-      "competition": "Serie B - Italy",
-      "commence_time": "2026-10-28T18:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Carrarese vs Arezzo",
-      "competition": "Serie B - Italy",
-      "commence_time": "2026-10-28T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Juve Stabia vs Hellas Verona",
-      "competition": "Serie B - Italy",
-      "commence_time": "2026-10-28T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Manchester City vs Brighton and Hove Albion",
-      "competition": "EFL Cup",
-      "commence_time": "2026-10-28T19:30:00Z",
+      "match": "Charlotte FC vs CF Montreal",
+      "competition": "MLS",
+      "commence_time": "2026-10-28T23:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.64,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Toronto FC vs D.C. United",
+      "competition": "MLS",
+      "commence_time": "2026-10-28T23:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Inter Miami CF vs FC Cincinnati",
+      "competition": "MLS",
+      "commence_time": "2026-10-28T23:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.64,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
