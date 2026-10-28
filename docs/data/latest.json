@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:35:22.506709+00:00",
+  "generated_at": "2026-10-28T11:57:37.617697+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-10-28T16:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.74,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -73,10 +73,10 @@
       "competition": "Serie A - Italy",
       "commence_time": "2026-10-28T17:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
+        "pari": "VICTOIRE AC MILAN",
+        "cote": 1.73,
         "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -87,10 +87,10 @@
       "commence_time": "2026-10-28T17:30:00Z",
       "modele_a": {
         "pari": "VICTOIRE INTER MILAN",
-        "cote": 1.37,
+        "cote": 1.38,
         "indice_fixe": 84,
         "motif": "Cote extérieur en fourchette favorite",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -98,7 +98,13 @@
       "match": "Parma vs Udinese",
       "competition": "Serie A - Italy",
       "commence_time": "2026-10-28T17:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
