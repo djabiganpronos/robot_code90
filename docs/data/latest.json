@@ -1,60 +1,8 @@
 {
-  "generated_at": "2026-10-29T03:56:09.131521+00:00",
+  "generated_at": "2026-10-29T12:07:32.608553+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "San Jose Earthquakes vs Colorado Rapids",
-      "competition": "MLS",
-      "commence_time": "2026-10-29T02:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Seattle Sounders FC vs Houston Dynamo",
-      "competition": "MLS",
-      "commence_time": "2026-10-29T02:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Vancouver Whitecaps FC vs San Diego FC",
-      "competition": "MLS",
-      "commence_time": "2026-10-29T02:40:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "América vs Tijuana",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-29T03:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Al-Khaleej vs Al-Hazem",
       "competition": "Saudi Pro League",
@@ -126,7 +74,7 @@
       "commence_time": "2026-10-29T17:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.25 BUTS",
-        "cote": 1.82,
+        "cote": 1.81,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -139,7 +87,7 @@
       "commence_time": "2026-10-29T17:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.56,
+        "cote": 1.57,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
