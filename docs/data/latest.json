@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-29T12:07:32.608553+00:00",
+  "generated_at": "2026-10-29T22:19:24.057507+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Al-Khaleej vs Al-Hazem",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-29T14:35:00Z",
+      "match": "Atletico Mineiro vs Cruzeiro",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-29T22:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.67,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,12 +17,12 @@
       "score": null
     },
     {
-      "match": "FC Inter Turku vs HJK Helsinki",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-29T16:00:00Z",
+      "match": "Vasco da Gama vs Flamengo",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-29T23:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.61,
+        "cote": 1.68,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -30,25 +30,19 @@
       "score": null
     },
     {
-      "match": "KuPS Kuopio vs IF Gnistan",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-10-29T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "match": "Grêmio vs Atletico Paranaense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-30T00:30:00Z",
+      "modele_a": null,
       "score": null
     },
     {
-      "match": "Peña Sport vs SD Huesca",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-10-29T17:00:00Z",
+      "match": "Brisbane Roar vs Auckland FC",
+      "competition": "A-League",
+      "commence_time": "2026-10-30T09:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.83,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -56,38 +50,12 @@
       "score": null
     },
     {
-      "match": "Werder Bremen vs TSG Hoffenheim",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-10-29T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Frosinone vs Lecce",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-10-29T17:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.25 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Hammarby IF vs IK Sirius",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-10-29T17:30:00Z",
+      "match": "Abha Club vs Al-Ittihad",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-30T12:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
+        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -95,12 +63,38 @@
       "score": null
     },
     {
-      "match": "Austria Wien vs Juventus",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-10-29T17:45:00Z",
+      "match": "Diriyah Club vs Neom",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-30T14:50:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Cracovia Kraków vs Motor Lublin",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-10-30T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Torku Konyaspor vs Galatasaray",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-30T17:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.59,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
