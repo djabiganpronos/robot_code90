@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-30T17:51:13.928091+00:00",
+  "generated_at": "2026-10-30T21:52:17.234077+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 13,
   "matchs": [
     {
-      "match": "Cracovia Kraków vs Motor Lublin",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-10-30T17:00:00Z",
+      "match": "SV Zulte-Waregem vs Club Brugge",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-10-30T19:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.85,
+        "pari": "MOINS DE 6.5 BUTS",
+        "cote": 1.02,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,64 +17,51 @@
       "score": null
     },
     {
-      "match": "Torku Konyaspor vs Galatasaray",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-10-30T17:00:00Z",
+      "match": "Villarreal vs Espanyol",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-10-30T20:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.62,
+        "pari": "VICTOIRE ESPANYOL",
+        "cote": 1.5,
         "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "Arminia Bielefeld vs Eintracht Braunschweig",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-10-30T17:30:00Z",
+      "match": "Sheffield United vs Wrexham AFC",
+      "competition": "Championship",
+      "commence_time": "2026-10-30T20:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.17,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Lille vs RC Lens",
+      "competition": "Ligue 1 - France",
+      "commence_time": "2026-10-30T20:05:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.71,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "FC Energie Cottbus vs VfL Bochum",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-10-30T17:30:00Z",
+      "match": "Casa Pia vs Sporting Lisbon",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-10-30T20:17:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Al-Shabab vs Al-Ahli",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-30T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Bodø/Glimt vs Viking FK",
-      "competition": "Eliteserien - Norway",
-      "commence_time": "2026-10-30T18:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.61,
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.7,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -82,12 +69,51 @@
       "score": null
     },
     {
-      "match": "Fortuna Düsseldorf vs SV Meppen",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-10-30T18:00:00Z",
+      "match": "Atlético Huracán vs CA Tigre BA",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Colo Colo vs Universidad de Concepción",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-10-30T22:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.57,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Coquimbo Unido vs Union La Calera",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Estudiantes de Río Cuarto vs Gimnasia La Plata",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-30T22:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -95,56 +121,43 @@
       "score": null
     },
     {
-      "match": "IK Oddevold vs IK Brage",
-      "competition": "Superettan - Sweden",
-      "commence_time": "2026-10-30T18:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE IK ODDEVOLD",
-        "cote": 1.61,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Le Havre vs Paris Saint Germain",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-10-30T18:00:00Z",
+      "match": "Criciuma vs Ponte Preta",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-10-30T22:30:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Lyngby vs Randers FC",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-10-30T18:00:00Z",
+      "match": "Corinthians vs Mirassol",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-10-30T23:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Racing Club vs Aldosivi Mar del Plata",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-31T00:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Nice vs Rennes",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-10-30T18:00:00Z",
+      "match": "Sarmiento de Junin vs Rosario Central",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-10-31T00:15:00Z",
       "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Grazer AK vs Hartberg",
-      "competition": "Austrian Football Bundesliga",
-      "commence_time": "2026-10-30T18:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
       "score": null
     }
   ],
