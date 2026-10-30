@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-10-29T22:19:24.057507+00:00",
+  "generated_at": "2026-10-30T03:58:01.476523+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Atletico Mineiro vs Cruzeiro",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-29T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Vasco da Gama vs Flamengo",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-29T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Grêmio vs Atletico Paranaense",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-30T00:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
     {
       "match": "Brisbane Roar vs Auckland FC",
       "competition": "A-League",
@@ -55,7 +22,7 @@
       "commence_time": "2026-10-30T12:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.66,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -97,6 +64,45 @@
         "cote": 1.59,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Arminia Bielefeld vs Eintracht Braunschweig",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-30T17:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Energie Cottbus vs VfL Bochum",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-30T17:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Shabab vs Al-Ahli",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-10-30T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
