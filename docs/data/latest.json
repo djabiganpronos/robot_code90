@@ -1,43 +1,17 @@
 {
-  "generated_at": "2026-10-30T11:58:43.946170+00:00",
+  "generated_at": "2026-10-30T17:51:13.928091+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 12,
   "matchs": [
-    {
-      "match": "Abha Club vs Al-Ittihad",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-30T12:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Diriyah Club vs Neom",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-10-30T14:50:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Cracovia Kraków vs Motor Lublin",
       "competition": "Ekstraklasa - Poland",
       "commence_time": "2026-10-30T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -47,8 +21,8 @@
       "competition": "Turkey Super League",
       "commence_time": "2026-10-30T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.57,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.62,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -60,10 +34,10 @@
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-10-30T17:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -73,10 +47,10 @@
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-10-30T17:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -87,7 +61,7 @@
       "commence_time": "2026-10-30T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.67,
+        "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -100,10 +74,76 @@
       "commence_time": "2026-10-30T18:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.61,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Fortuna Düsseldorf vs SV Meppen",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-10-30T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "IK Oddevold vs IK Brage",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-10-30T18:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE IK ODDEVOLD",
+        "cote": 1.61,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Le Havre vs Paris Saint Germain",
+      "competition": "Ligue 1 - France",
+      "commence_time": "2026-10-30T18:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Lyngby vs Randers FC",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-10-30T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.53,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Nice vs Rennes",
+      "competition": "Ligue 1 - France",
+      "commence_time": "2026-10-30T18:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Grazer AK vs Hartberg",
+      "competition": "Austrian Football Bundesliga",
+      "commence_time": "2026-10-30T18:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
