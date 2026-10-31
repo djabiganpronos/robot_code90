@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-31T03:42:35.344309+00:00",
+  "generated_at": "2026-10-31T11:33:33.536226+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Puebla vs Pumas",
-      "competition": "Liga MX",
-      "commence_time": "2026-10-31T03:00:00Z",
+      "match": "Erzurum BB vs Çorum FK",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-10-31T10:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.49,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.4,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,45 +17,12 @@
       "score": null
     },
     {
-      "match": "Newcastle Jets FC vs Wellington Phoenix FC",
-      "competition": "A-League",
-      "commence_time": "2026-10-31T04:00:00Z",
+      "match": "Wisła Płock vs Piast Gliwice",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-10-31T11:15:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Jeonbuk Hyundai Motors vs Daejeon Citizen",
-      "competition": "K League 1",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Fagiano Okayama vs FC Tokyo",
-      "competition": "J League",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Mito HollyHock vs Hiroshima Sanfrecce FC",
-      "competition": "J League",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.8,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.67,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -63,12 +30,38 @@
       "score": null
     },
     {
-      "match": "Kyoto Purple Sanga vs Shimizu S Pulse",
-      "competition": "J League",
-      "commence_time": "2026-10-31T05:00:00Z",
+      "match": "1. FC Kaiserslautern vs Hertha Berlin",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-31T12:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.83,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SV Darmstadt 98 vs 1. FC Magdeburg",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-31T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "IFK Norrkoping vs Östersunds FK",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-10-31T12:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.72,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -76,40 +69,66 @@
       "score": null
     },
     {
-      "match": "Kashima Antlers vs Cerezo Osaka",
-      "competition": "J League",
-      "commence_time": "2026-10-31T06:00:00Z",
+      "match": "VfL Wolfsburg vs VfL Osnabrück",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-10-31T12:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE KASHIMA ANTLERS",
-        "cote": 1.7,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.36,
         "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Melbourne City vs Sydney FC",
-      "competition": "A-League",
-      "commence_time": "2026-10-31T06:00:00Z",
+      "match": "Rubin Kazan vs FC Fakel Voronezh",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-10-31T12:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Lincoln City vs Birmingham City",
+      "competition": "Championship",
+      "commence_time": "2026-10-31T12:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Bradford City vs Huddersfield Town",
+      "competition": "League 1",
+      "commence_time": "2026-10-31T12:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Leyton Orient vs Cambridge United",
+      "competition": "League 1",
+      "commence_time": "2026-10-31T12:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Vissel Kobe vs Nagoya Grampus",
-      "competition": "J League",
-      "commence_time": "2026-10-31T06:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
