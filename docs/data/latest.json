@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-30T21:52:17.234077+00:00",
+  "generated_at": "2026-10-31T03:42:35.344309+00:00",
   "erreur": null,
-  "nb_matchs": 13,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "SV Zulte-Waregem vs Club Brugge",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-10-30T19:45:00Z",
+      "match": "Puebla vs Pumas",
+      "competition": "Liga MX",
+      "commence_time": "2026-10-31T03:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.02,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.49,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,51 +17,12 @@
       "score": null
     },
     {
-      "match": "Villarreal vs Espanyol",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-10-30T20:00:00Z",
+      "match": "Newcastle Jets FC vs Wellington Phoenix FC",
+      "competition": "A-League",
+      "commence_time": "2026-10-31T04:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE ESPANYOL",
-        "cote": 1.5,
-        "indice_fixe": 78,
-        "motif": "Cote extérieur en fourchette favorite",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Sheffield United vs Wrexham AFC",
-      "competition": "Championship",
-      "commence_time": "2026-10-30T20:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.17,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Lille vs RC Lens",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-10-30T20:05:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Casa Pia vs Sporting Lisbon",
-      "competition": "Primeira Liga - Portugal",
-      "commence_time": "2026-10-30T20:17:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.7,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.53,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -69,95 +30,88 @@
       "score": null
     },
     {
-      "match": "Atlético Huracán vs CA Tigre BA",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-30T22:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Colo Colo vs Universidad de Concepción",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-10-30T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Coquimbo Unido vs Union La Calera",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-10-30T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.77,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Estudiantes de Río Cuarto vs Gimnasia La Plata",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-30T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Criciuma vs Ponte Preta",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-10-30T22:30:00Z",
+      "match": "Jeonbuk Hyundai Motors vs Daejeon Citizen",
+      "competition": "K League 1",
+      "commence_time": "2026-10-31T05:00:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Corinthians vs Mirassol",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-10-30T23:00:00Z",
+      "match": "Fagiano Okayama vs FC Tokyo",
+      "competition": "J League",
+      "commence_time": "2026-10-31T05:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Mito HollyHock vs Hiroshima Sanfrecce FC",
+      "competition": "J League",
+      "commence_time": "2026-10-31T05:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kyoto Purple Sanga vs Shimizu S Pulse",
+      "competition": "J League",
+      "commence_time": "2026-10-31T05:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kashima Antlers vs Cerezo Osaka",
+      "competition": "J League",
+      "commence_time": "2026-10-31T06:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE KASHIMA ANTLERS",
+        "cote": 1.7,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Melbourne City vs Sydney FC",
+      "competition": "A-League",
+      "commence_time": "2026-10-31T06:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Racing Club vs Aldosivi Mar del Plata",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-31T00:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Sarmiento de Junin vs Rosario Central",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-10-31T00:15:00Z",
-      "modele_a": null,
+      "match": "Vissel Kobe vs Nagoya Grampus",
+      "competition": "J League",
+      "commence_time": "2026-10-31T06:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
