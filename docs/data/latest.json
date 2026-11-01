@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-11-01T03:50:26.480842+00:00",
+  "generated_at": "2026-11-01T12:31:13.567466+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 17,
   "matchs": [
     {
-      "match": "Colorado Rapids vs Chicago Fire",
-      "competition": "MLS",
-      "commence_time": "2026-11-01T01:40:00Z",
+      "match": "Amed SK vs Eyüpspor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-01T10:29:00Z",
       "modele_a": {
         "pari": "MOINS DE 6.5 BUTS",
-        "cote": 1.01,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "América vs Toluca",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-01T03:10:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.51,
+        "cote": 1.02,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -30,12 +17,39 @@
       "score": null
     },
     {
-      "match": "Melbourne Victory vs Central Coast Mariners",
-      "competition": "A-League",
-      "commence_time": "2026-11-01T04:00:00Z",
+      "match": "FC Zwolle vs ADO Den Haag",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-11-01T11:15:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Como vs Venezia",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-11-01T11:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Varbergs BoIS vs Ljungskile SK",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-11-01T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.44,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC St. Pauli vs 1. FC Nürnberg",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-01T12:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
+        "cote": 1.4,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -43,12 +57,25 @@
       "score": null
     },
     {
-      "match": "Yokohama F Marinos vs Kawasaki Frontale",
-      "competition": "J League",
-      "commence_time": "2026-11-01T04:00:00Z",
+      "match": "1. FC Saarbrücken vs Waldhof Mannheim",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-11-01T12:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.77,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Cercle Brugge KSV vs Royal Antwerp",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-11-01T12:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.66,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -56,51 +83,127 @@
       "score": null
     },
     {
-      "match": "JEF United Chiba vs Avispa Fukuoka",
-      "competition": "J League",
-      "commence_time": "2026-11-01T05:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Ulsan Hyundai FC vs Gangwon FC",
-      "competition": "K League 1",
-      "commence_time": "2026-11-01T05:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Pohang Steelers vs Jeju United FC",
-      "competition": "K League 1",
-      "commence_time": "2026-11-01T05:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "V-Varen Nagasaki vs Tokyo Verdy",
-      "competition": "J League",
-      "commence_time": "2026-11-01T05:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "FC Machida Zelvia vs Gamba Osaka",
-      "competition": "J League",
-      "commence_time": "2026-11-01T07:00:00Z",
+      "match": "Hannover 96 vs Dynamo Dresden",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-01T12:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.36,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Greuther Fürth vs Holstein Kiel",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-01T12:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Viborg FF vs AC Horsens",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.53,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "AC Oulu vs KuPS Kuopio",
+      "competition": "Veikkausliiga - Finland",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "BSC Young Boys vs FC Zurich",
+      "competition": "Swiss Superleague",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Basaksehir vs Samsunspor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "CD Eldense vs Granada CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Falkirk F.C. vs Celtic",
+      "competition": "Premiership - Scotland",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "FC Anyang vs Bucheon FC 1995",
-      "competition": "K League 1",
-      "commence_time": "2026-11-01T07:30:00Z",
-      "modele_a": null,
+      "match": "Djurgardens IF vs Degerfors IF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Trabzonspor vs Gazişehir Gaziantep",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-01T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
       "score": null
     }
   ],
