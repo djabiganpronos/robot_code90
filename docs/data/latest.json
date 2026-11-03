@@ -1,48 +1,87 @@
 {
-  "generated_at": "2026-11-03T13:27:38.033720+00:00",
+  "generated_at": "2026-11-03T22:46:40.580325+00:00",
   "erreur": null,
-  "nb_matchs": 7,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Galatasaray vs VfB Stuttgart",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-11-03T17:45:00Z",
+      "match": "Chapecoense vs Mirassol",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-03T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Internacional vs Coritiba",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-04T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Rennes vs Olympiakos Piraeus",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-11-04T15:30:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Shakhtar Donetsk vs Sporting Lisbon",
+      "match": "AEK Athens vs Real Madrid",
       "competition": "UEFA Champions League",
-      "commence_time": "2026-11-03T17:45:00Z",
+      "commence_time": "2026-11-04T17:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.63,
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.75,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "IK Sirius vs Halmstads BK",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-11-03T18:00:00Z",
+      "match": "Fenerbahce vs Liverpool",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-11-04T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "pari": "VICTOIRE LIVERPOOL",
+        "cote": 1.43,
+        "indice_fixe": 84,
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "Blackburn Rovers vs Stoke City",
-      "competition": "Championship",
-      "commence_time": "2026-11-03T19:45:00Z",
+      "match": "Club Portugalete vs Real Unión",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-04T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "SD Amorebieta vs UD Logroñés",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-04T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.79,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -50,38 +89,25 @@
       "score": null
     },
     {
-      "match": "Charlton Athletic vs Bolton Wanderers",
-      "competition": "Championship",
-      "commence_time": "2026-11-03T19:45:00Z",
+      "match": "Reus FC Reddis vs Barakaldo",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-04T19:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "Queens Park Rangers vs Burnley",
-      "competition": "Championship",
-      "commence_time": "2026-11-03T19:45:00Z",
+      "match": "CD Minera vs FC Cartagena",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-04T19:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Derby County vs Norwich City",
-      "competition": "Championship",
-      "commence_time": "2026-11-03T19:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
