@@ -1,73 +1,8 @@
 {
-  "generated_at": "2026-11-03T00:20:57.161723+00:00",
+  "generated_at": "2026-11-03T13:27:38.033720+00:00",
   "erreur": null,
-  "nb_matchs": 13,
+  "nb_matchs": 7,
   "matchs": [
-    {
-      "match": "Bragantino-SP vs Santos",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-02T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Goiás vs Clube de Regatas Brasil",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-02T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Deportes Concepción vs Palestino",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-02T23:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE DEPORTES CONCEPCIÓN",
-        "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Atlético Tucuman vs Argentinos Juniors",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-03T00:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.45,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Independiente Rivadavia vs Banfield",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-03T00:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "Galatasaray vs VfB Stuttgart",
       "competition": "UEFA Champions League",
@@ -89,38 +24,12 @@
       "score": null
     },
     {
-      "match": "Anaitasuna vs Alavés",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-03T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "CD Pamplona vs SD Eibar",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-03T18:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
       "match": "IK Sirius vs Halmstads BK",
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-11-03T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.76,
+        "cote": 1.75,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -163,6 +72,19 @@
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Derby County vs Norwich City",
+      "competition": "Championship",
+      "commence_time": "2026-11-03T19:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
