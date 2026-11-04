@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:27:56.232918+00:00",
+  "generated_at": "2026-11-04T13:38:45.601229+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -16,7 +16,7 @@
       "commence_time": "2026-11-04T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.75,
+        "cote": 1.76,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -29,7 +29,7 @@
       "commence_time": "2026-11-04T17:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE LIVERPOOL",
-        "cote": 1.39,
+        "cote": 1.36,
         "indice_fixe": 84,
         "motif": "Cote extérieur en fourchette favorite",
         "tendance_publique": "1X2"
@@ -92,13 +92,7 @@
       "match": "KV Kortrijk vs KV Mechelen",
       "competition": "Belgium First Div",
       "commence_time": "2026-11-04T19:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     }
   ],
