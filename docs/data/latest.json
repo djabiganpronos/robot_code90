@@ -1,22 +1,41 @@
 {
-  "generated_at": "2026-11-04T13:38:45.601229+00:00",
+  "generated_at": "2026-11-04T23:05:36.006728+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Rennes vs Olympiakos Piraeus",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-04T15:30:00Z",
-      "modele_a": null,
+      "match": "Atletico Paranaense vs Vasco da Gama",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-04T22:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ATLETICO PARANAENSE",
+        "cote": 1.4,
+        "indice_fixe": 84,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
-      "match": "AEK Athens vs Real Madrid",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-11-04T17:45:00Z",
+      "match": "Flamengo vs Grêmio",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-04T22:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.76,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Botafogo vs Atletico Mineiro",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-05T00:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.69,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -24,75 +43,94 @@
       "score": null
     },
     {
-      "match": "Fenerbahce vs Liverpool",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-11-04T17:45:00Z",
+      "match": "Sao Paulo vs Corinthians",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-05T00:30:00Z",
       "modele_a": {
-        "pari": "VICTOIRE LIVERPOOL",
-        "cote": 1.36,
-        "indice_fixe": 84,
-        "motif": "Cote extérieur en fourchette favorite",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "Club Portugalete vs Real Unión",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-04T18:00:00Z",
+      "match": "AC Milan vs Ferencváros TC",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.63,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "AGF Aarhus vs SC Braga",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 88,
+        "cote": 1.82,
+        "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Midtjylland vs Ajax",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.46,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
       },
       "score": null
     },
     {
-      "match": "SD Amorebieta vs UD Logroñés",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-04T19:00:00Z",
+      "match": "Anderlecht vs Salzburg",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
+        "cote": 1.64,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Reus FC Reddis vs Barakaldo",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-04T19:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "CD Minera vs FC Cartagena",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-04T19:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "KV Kortrijk vs KV Mechelen",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-11-04T19:30:00Z",
-      "modele_a": null,
+      "match": "Atalanta BC vs FC Kairat",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.35,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Sparta Prague vs Bournemouth",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
