@@ -1,34 +1,8 @@
 {
-  "generated_at": "2026-11-03T22:46:40.580325+00:00",
+  "generated_at": "2026-11-04T04:27:56.232918+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Chapecoense vs Mirassol",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-03T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Internacional vs Coritiba",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-04T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "Rennes vs Olympiakos Piraeus",
       "competition": "UEFA Europa League",
@@ -55,7 +29,7 @@
       "commence_time": "2026-11-04T17:45:00Z",
       "modele_a": {
         "pari": "VICTOIRE LIVERPOOL",
-        "cote": 1.43,
+        "cote": 1.39,
         "indice_fixe": 84,
         "motif": "Cote extérieur en fourchette favorite",
         "tendance_publique": "1X2"
@@ -67,10 +41,10 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-04T18:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
       },
       "score": null
@@ -80,10 +54,10 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-04T19:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -93,11 +67,11 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-04T19:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.72,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.66,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
@@ -106,11 +80,24 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-04T19:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "KV Kortrijk vs KV Mechelen",
+      "competition": "Belgium First Div",
+      "commence_time": "2026-11-04T19:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.83,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
