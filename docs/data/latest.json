@@ -1,60 +1,8 @@
 {
-  "generated_at": "2026-11-04T23:05:36.006728+00:00",
+  "generated_at": "2026-11-05T04:43:37.074398+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Atletico Paranaense vs Vasco da Gama",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-04T22:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE ATLETICO PARANAENSE",
-        "cote": 1.4,
-        "indice_fixe": 84,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Flamengo vs Grêmio",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-04T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Botafogo vs Atletico Mineiro",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-05T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.69,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Sao Paulo vs Corinthians",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-05T00:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.51,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "AC Milan vs Ferencváros TC",
       "competition": "UEFA Europa League",
@@ -87,7 +35,7 @@
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.46,
+        "cote": 1.44,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -130,6 +78,32 @@
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Crystal Palace vs TSG Hoffenheim",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Thun vs Hearts",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-11-05T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
       },
       "score": null
     }
