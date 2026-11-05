@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:43:37.074398+00:00",
+  "generated_at": "2026-11-05T13:51:27.474227+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.63,
+        "cote": 1.72,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -21,10 +21,10 @@
       "competition": "UEFA Europa Conference League",
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -35,7 +35,7 @@
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.44,
+        "cote": 1.43,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -47,10 +47,10 @@
       "competition": "UEFA Europa League",
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.69,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -61,7 +61,7 @@
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.35,
+        "cote": 1.27,
         "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
@@ -74,7 +74,7 @@
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.6,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -87,7 +87,7 @@
       "commence_time": "2026-11-05T17:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.62,
+        "cote": 1.76,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
