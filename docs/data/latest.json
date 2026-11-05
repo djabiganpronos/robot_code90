@@ -1,27 +1,14 @@
 {
-  "generated_at": "2026-11-05T13:51:27.474227+00:00",
+  "generated_at": "2026-11-05T23:08:49.027813+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
     {
-      "match": "AC Milan vs Ferencváros TC",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-05T17:45:00Z",
+      "match": "Gimnasia La Plata vs Belgrano de Cordoba",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-05T22:15:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "AGF Aarhus vs SC Braga",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-05T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
+        "pari": "PLUS DE 4.25 BUTS",
         "cote": 1.85,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
@@ -30,51 +17,38 @@
       "score": null
     },
     {
-      "match": "FC Midtjylland vs Ajax",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-05T17:45:00Z",
+      "match": "Botafogo-SP vs Londrina",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-05T22:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.43,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Over"
       },
       "score": null
     },
     {
-      "match": "Anderlecht vs Salzburg",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-05T17:45:00Z",
+      "match": "Palmeiras vs Remo",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-05T22:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.69,
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.6,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Atalanta BC vs FC Kairat",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-05T17:45:00Z",
+      "match": "Cruzeiro vs Bahia",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-06T00:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.27,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Sparta Prague vs Bournemouth",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-05T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
+        "cote": 1.53,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -82,12 +56,25 @@
       "score": null
     },
     {
-      "match": "Crystal Palace vs TSG Hoffenheim",
-      "competition": "UEFA Europa League",
-      "commence_time": "2026-11-05T17:45:00Z",
+      "match": "Sydney FC vs Central Coast Mariners",
+      "competition": "A-League",
+      "commence_time": "2026-11-06T08:40:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.76,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Lokomotiv Moscow vs Rubin Kazan",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-11-06T16:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.84,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -95,15 +82,67 @@
       "score": null
     },
     {
-      "match": "FC Thun vs Hearts",
-      "competition": "UEFA Europa Conference League",
-      "commence_time": "2026-11-05T17:45:00Z",
+      "match": "Gazişehir Gaziantep vs Kasimpasa SK",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-06T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Motor Lublin vs Wisła Płock",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-11-06T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 85,
+        "cote": 1.56,
+        "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Bayern Munich vs Werder Bremen",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-06T17:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Dynamo Dresden vs Greuther Fürth",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-06T17:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Eintracht Braunschweig vs FC Energie Cottbus",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-06T17:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
