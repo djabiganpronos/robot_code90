@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-11-06T13:36:59.544157+00:00",
+  "generated_at": "2026-11-06T22:37:40.070087+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 13,
   "matchs": [
     {
-      "match": "Lokomotiv Moscow vs Rubin Kazan",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-11-06T16:30:00Z",
+      "match": "Famalicão vs Arouca",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-11-06T20:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.04,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Independiente vs Deportivo Riestra",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-06T22:14:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Union Santa Fe vs Velez Sarsfield BA",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-06T22:14:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.43,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "San Lorenzo vs Platense",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-06T22:15:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Gazişehir Gaziantep vs Kasimpasa SK",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-11-06T17:00:00Z",
+      "match": "Operario PR vs Sport Recife",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-06T22:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Motor Lublin vs Wisła Płock",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-11-06T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Bayern Munich vs Werder Bremen",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-06T17:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Dynamo Dresden vs Greuther Fürth",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-06T17:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.5,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -63,12 +63,12 @@
       "score": null
     },
     {
-      "match": "Eintracht Braunschweig vs FC Energie Cottbus",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-06T17:30:00Z",
+      "match": "Vitoria vs Fluminense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-06T23:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.74,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -76,11 +76,24 @@
       "score": null
     },
     {
-      "match": "Eintracht Frankfurt vs VfL Wolfsburg",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-06T17:30:00Z",
+      "match": "Atlético San Luis vs FC Juárez",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-07T01:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Banfield vs Atlético Tucuman",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-07T01:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.68,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -89,14 +102,66 @@
       "score": null
     },
     {
-      "match": "FC Viktoria Köln 1904 vs 1. FC Saarbrücken",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-11-06T18:00:00Z",
+      "match": "CA Tigre BA vs Sarmiento de Junin",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-07T01:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.75,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.57,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Necaxa vs Tijuana",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-07T01:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Atlante FC vs Santos Laguna",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-07T03:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Auckland FC vs Wellington Phoenix FC",
+      "competition": "A-League",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Shimizu S Pulse vs Tokyo Verdy",
+      "competition": "J League",
+      "commence_time": "2026-11-07T04:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
