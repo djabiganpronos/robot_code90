@@ -1,60 +1,8 @@
 {
-  "generated_at": "2026-11-05T23:08:49.027813+00:00",
+  "generated_at": "2026-11-06T04:43:10.568866+00:00",
   "erreur": null,
-  "nb_matchs": 11,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Gimnasia La Plata vs Belgrano de Cordoba",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-05T22:15:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.25 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Botafogo-SP vs Londrina",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-05T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Palmeiras vs Remo",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-05T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cruzeiro vs Bahia",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-06T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Sydney FC vs Central Coast Mariners",
       "competition": "A-League",
@@ -87,7 +35,7 @@
       "commence_time": "2026-11-06T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.73,
+        "cote": 1.78,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -139,7 +87,20 @@
       "commence_time": "2026-11-06T17:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.8,
+        "cote": 1.74,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Eintracht Frankfurt vs VfL Wolfsburg",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-06T17:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.68,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
