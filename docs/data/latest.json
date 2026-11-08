@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-08T12:36:57.484536+00:00",
+  "generated_at": "2026-11-08T21:34:27.036744+00:00",
   "erreur": null,
-  "nb_matchs": 17,
+  "nb_matchs": 14,
   "matchs": [
     {
-      "match": "FC Copenhagen vs Brondby IF",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-11-08T11:00:00Z",
+      "match": "RC Lens vs Marseille",
+      "competition": "Ligue 1 - France",
+      "commence_time": "2026-11-08T19:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.83,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.29,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,51 +17,12 @@
       "score": null
     },
     {
-      "match": "Heerenveen vs Feyenoord",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-11-08T11:15:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Napoli vs Lazio",
+      "match": "Fiorentina vs Juventus",
       "competition": "Serie A - Italy",
-      "commence_time": "2026-11-08T11:32:00Z",
+      "commence_time": "2026-11-08T19:48:00Z",
       "modele_a": {
-        "pari": "VICTOIRE LAZIO",
-        "cote": 1.68,
-        "indice_fixe": 78,
-        "motif": "Cote extérieur en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Stafford Rangers FC vs Grimsby Town",
-      "competition": "FA Cup",
-      "commence_time": "2026-11-08T12:01:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "1. FC Heidenheim vs Hannover 96",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-08T12:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.6,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.52,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -69,9 +30,22 @@
       "score": null
     },
     {
-      "match": "1. FC Magdeburg vs FC St. Pauli",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-08T12:30:00Z",
+      "match": "Atlético Madrid vs Barcelona",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-11-08T20:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.0 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "CF Estrela vs Benfica",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-11-08T20:31:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.57,
@@ -82,12 +56,12 @@
       "score": null
     },
     {
-      "match": "VfL Bochum vs Karlsruher SC",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-08T12:30:00Z",
+      "match": "Rio Ave FC vs Braga",
+      "competition": "Primeira Liga - Portugal",
+      "commence_time": "2026-11-08T20:31:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.47,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.77,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -95,25 +69,12 @@
       "score": null
     },
     {
-      "match": "SV Meppen vs Jahn Regensburg",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-11-08T12:30:38Z",
+      "match": "Union La Calera vs Huachipato",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-11-08T20:31:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Club Brugge vs Anderlecht",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-11-08T12:31:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.56,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -121,9 +82,87 @@
       "score": null
     },
     {
-      "match": "AGF Aarhus vs AC Horsens",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-11-08T13:00:00Z",
+      "match": "Ceará vs América Mineiro",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-08T22:15:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE CEARÁ",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Goiás vs Ponte Preta",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-08T22:15:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.33,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Central Córdoba vs Lanus",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-08T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Universidad de Concepción vs O'Higgins",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-11-08T23:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Querétaro vs Puebla",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-09T00:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "León vs Guadalajara",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-09T02:10:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "1. FC Köln vs RB Leipzig",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-09T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.55,
@@ -134,86 +173,14 @@
       "score": null
     },
     {
-      "match": "HJK Helsinki vs AC Oulu",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-11-08T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.29,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Halmstads BK vs Djurgardens IF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-11-08T13:00:00Z",
+      "match": "Kristiansund BK vs Vålerenga",
+      "competition": "Eliteserien - Norway",
+      "commence_time": "2026-11-09T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.4,
+        "cote": 1.8,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Elche CF vs Real Betis",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-11-08T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "KuPS Kuopio vs FC Inter Turku",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-11-08T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC St Gallen vs FC Lugano",
-      "competition": "Swiss Superleague",
-      "commence_time": "2026-11-08T13:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Çorum FK vs Fenerbahce",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-11-08T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Under"
-      },
-      "score": null
-    },
-    {
-      "match": "IF Gnistan vs VPS Vaasa",
-      "competition": "Veikkausliiga - Finland",
-      "commence_time": "2026-11-08T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
