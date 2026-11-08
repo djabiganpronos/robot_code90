@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-11-07T21:20:03.860798+00:00",
+  "generated_at": "2026-11-08T03:54:37.109054+00:00",
   "erreur": null,
-  "nb_matchs": 33,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Grêmio Novorizontino vs Fortaleza",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-07T19:10:00Z",
+      "match": "Pumas vs América",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-08T03:10:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Widzew Łódź vs Pogoń Szczecin",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-11-07T19:22:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.03,
+        "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -30,188 +17,24 @@
       "score": null
     },
     {
-      "match": "Grasshopper Zürich vs FC Lausanne-Sport",
-      "competition": "Swiss Superleague",
-      "commence_time": "2026-11-07T19:30:00Z",
+      "match": "Macarthur FC vs Brisbane Roar",
+      "competition": "A-League",
+      "commence_time": "2026-11-08T04:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Daejeon Citizen vs Incheon United",
+      "competition": "K League 1",
+      "commence_time": "2026-11-08T05:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.13,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Hertha Berlin vs VfL Wolfsburg",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-07T19:31:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.23,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "AS Roma vs Sassuolo",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-11-07T19:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "RAAL La Louvière vs Cercle Brugge KSV",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-11-07T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Royal Antwerp vs Lommel SK",
-      "competition": "Belgium First Div",
-      "commence_time": "2026-11-07T19:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Excelsior vs Go Ahead Eagles",
-      "competition": "Dutch Eredivisie",
-      "commence_time": "2026-11-07T20:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.0 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Peterborough United vs Reading",
-      "competition": "FA Cup",
-      "commence_time": "2026-11-07T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "St Mirren vs Rangers",
-      "competition": "Premiership - Scotland",
-      "commence_time": "2026-11-07T20:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Valencia vs Real Madrid",
-      "competition": "La Liga - Spain",
-      "commence_time": "2026-11-07T20:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Paris Saint Germain vs Troyes",
-      "competition": "Ligue 1 - France",
-      "commence_time": "2026-11-07T20:05:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Argentinos Juniors vs Atlético Huracán",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-07T20:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.36,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Boca Juniors vs Defensa y Justicia",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-07T20:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Rosario Central vs Estudiantes de Río Cuarto",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-07T20:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Sporting Lisbon vs Moreirense FC",
-      "competition": "Primeira Liga - Portugal",
-      "commence_time": "2026-11-07T20:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Everton de Viña del Mar vs Deportes Concepción",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-07T20:32:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "New York Red Bulls vs Atlanta United FC",
-      "competition": "MLS",
-      "commence_time": "2026-11-07T21:10:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.68,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -220,12 +43,12 @@
       "score": null
     },
     {
-      "match": "CF Montreal vs Vancouver Whitecaps FC",
-      "competition": "MLS",
-      "commence_time": "2026-11-07T21:10:00Z",
+      "match": "FC Machida Zelvia vs Hiroshima Sanfrecce FC",
+      "competition": "J League",
+      "commence_time": "2026-11-08T05:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.63,
+        "cote": 1.82,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -233,12 +56,12 @@
       "score": null
     },
     {
-      "match": "Inter Miami CF vs Charlotte FC",
-      "competition": "MLS",
-      "commence_time": "2026-11-07T21:10:00Z",
+      "match": "FC Seoul vs Ulsan Hyundai FC",
+      "competition": "K League 1",
+      "commence_time": "2026-11-08T05:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
+        "cote": 1.5,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -246,164 +69,47 @@
       "score": null
     },
     {
-      "match": "Chicago Fire vs Columbus Crew SC",
-      "competition": "MLS",
-      "commence_time": "2026-11-07T21:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.44,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "D.C. United vs New York City FC",
-      "competition": "MLS",
-      "commence_time": "2026-11-07T21:10:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Cincinnati vs Nashville SC",
-      "competition": "MLS",
-      "commence_time": "2026-11-07T21:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Orlando City SC vs New England Revolution",
-      "competition": "MLS",
-      "commence_time": "2026-11-07T21:10:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Philadelphia Union vs Toronto FC",
-      "competition": "MLS",
-      "commence_time": "2026-11-07T21:10:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atlas vs Pachuca",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-07T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Vila Nova vs Criciuma",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-07T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.71,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cuiabá vs Juventude",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-07T23:00:00Z",
+      "match": "Vissel Kobe vs Urawa Red Diamonds",
+      "competition": "J League",
+      "commence_time": "2026-11-08T05:00:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Austin FC vs Portland Timbers",
-      "competition": "MLS",
-      "commence_time": "2026-11-08T00:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Dallas vs Colorado Rapids",
-      "competition": "MLS",
-      "commence_time": "2026-11-08T00:00:00Z",
+      "match": "Adelaide United vs Melbourne Victory",
+      "competition": "A-League",
+      "commence_time": "2026-11-08T06:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Houston Dynamo vs St. Louis City SC",
-      "competition": "MLS",
-      "commence_time": "2026-11-08T00:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Real Salt Lake vs LA Galaxy",
-      "competition": "MLS",
-      "commence_time": "2026-11-08T00:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Seattle Sounders FC vs Los Angeles FC",
-      "competition": "MLS",
-      "commence_time": "2026-11-08T00:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gamba Osaka vs Cerezo Osaka",
+      "competition": "J League",
+      "commence_time": "2026-11-08T06:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Beijing FC vs Chongqing Tonglianglong FC",
+      "competition": "Super League - China",
+      "commence_time": "2026-11-08T07:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.44,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
