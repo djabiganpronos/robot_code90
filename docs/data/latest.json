@@ -1,78 +1,19 @@
 {
-  "generated_at": "2026-11-09T14:55:09.317067+00:00",
+  "generated_at": "2026-11-10T01:04:03.780608+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "1. FC Köln vs RB Leipzig",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-09T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Kristiansund BK vs Vålerenga",
-      "competition": "Eliteserien - Norway",
-      "commence_time": "2026-11-09T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Plymouth Parkway FC vs Berkhamsted FC",
-      "competition": "FA Cup",
-      "commence_time": "2026-11-09T19:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE PLYMOUTH PARKWAY FC",
-        "cote": 1.81,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Las Palmas vs CD Eldense",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-09T19:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Sabadell FC vs Real Sociedad B",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-09T19:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
       "match": "BK Hacken vs Chelsea",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-10T17:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
@@ -84,7 +25,7 @@
         "cote": 1.44,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
@@ -93,8 +34,67 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-10T18:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.76,
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "CF Trival Valderas vs Leganés",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Mijas Las Lagunas vs Real Jaen",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "SD Amorebieta vs UD Logroñés",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "AS Roma vs Servette FC",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-10T20:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.75 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Paris Saint Germain vs Bayern Munich",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-10T20:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.44,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
