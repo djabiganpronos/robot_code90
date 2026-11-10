@@ -1,22 +1,15 @@
 {
-  "generated_at": "2026-11-10T14:08:17.321253+00:00",
+  "generated_at": "2026-11-10T22:44:07.546543+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "BK Hacken vs Chelsea",
+      "match": "Leuven vs HB Køge",
       "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-10T17:45:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Real Madrid vs Paris FC",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-10T17:45:00Z",
+      "commence_time": "2026-11-11T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.44,
+        "cote": 1.55,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -24,71 +17,84 @@
       "score": null
     },
     {
-      "match": "Anaitasuna vs Alavés",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-10T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "CD Pamplona vs SD Eibar",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-10T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Barnet vs Leyton Orient",
+      "match": "Sheffield Wednesday vs Accrington Stanley",
       "competition": "EFL Trophy",
-      "commence_time": "2026-11-10T19:00:00Z",
+      "commence_time": "2026-11-11T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Barnsley vs Oldham Athletic",
+      "competition": "EFL Trophy",
+      "commence_time": "2026-11-11T19:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE BARNSLEY",
+        "cote": 1.79,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Benfica vs Austria Wien",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-11T20:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.53,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Juventus vs Lyon",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-11T20:00:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Bristol Rovers vs Reading",
-      "competition": "EFL Trophy",
-      "commence_time": "2026-11-10T19:00:00Z",
+      "match": "Londrina vs Nautico PE",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-11T22:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE READING",
-        "cote": 1.63,
-        "indice_fixe": 78,
-        "motif": "Cote extérieur en fourchette favorite",
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Burton Albion vs Notts County",
-      "competition": "EFL Trophy",
-      "commence_time": "2026-11-10T19:00:00Z",
+      "match": "Armenia vs Cyprus",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-12T17:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "CF Trival Valderas vs Leganés",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-10T19:00:00Z",
+      "match": "Turkey vs Belgium",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-12T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.76,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.69,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
