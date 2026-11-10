@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:04:03.780608+00:00",
+  "generated_at": "2026-11-10T14:08:17.321253+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,13 +7,7 @@
       "match": "BK Hacken vs Chelsea",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-10T17:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -30,14 +24,60 @@
       "score": null
     },
     {
+      "match": "Anaitasuna vs Alavés",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-10T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
       "match": "CD Pamplona vs SD Eibar",
       "competition": "Copa del Rey",
       "commence_time": "2026-11-10T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.75,
+        "cote": 1.78,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Barnet vs Leyton Orient",
+      "competition": "EFL Trophy",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Bristol Rovers vs Reading",
+      "competition": "EFL Trophy",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE READING",
+        "cote": 1.63,
+        "indice_fixe": 78,
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Burton Albion vs Notts County",
+      "competition": "EFL Trophy",
+      "commence_time": "2026-11-10T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -47,56 +87,10 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-10T19:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.83,
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.76,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Mijas Las Lagunas vs Real Jaen",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-10T19:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "SD Amorebieta vs UD Logroñés",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-10T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "AS Roma vs Servette FC",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-10T20:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.75 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Paris Saint Germain vs Bayern Munich",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-10T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.44,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
