@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T22:44:07.546543+00:00",
+  "generated_at": "2026-11-11T04:12:21.624906+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -22,7 +22,7 @@
       "commence_time": "2026-11-11T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.81,
+        "cote": 1.83,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -59,7 +59,13 @@
       "match": "Juventus vs Lyon",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-11T20:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 4.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
@@ -67,10 +73,10 @@
       "competition": "Brazil Série B",
       "commence_time": "2026-11-11T22:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
