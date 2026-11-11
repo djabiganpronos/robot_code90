@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:12:21.624906+00:00",
+  "generated_at": "2026-11-11T13:24:21.640851+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-11-11T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.73,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -21,10 +21,10 @@
       "competition": "EFL Trophy",
       "commence_time": "2026-11-11T19:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 3.25 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
@@ -34,24 +34,11 @@
       "competition": "EFL Trophy",
       "commence_time": "2026-11-11T19:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE BARNSLEY",
-        "cote": 1.79,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Benfica vs Austria Wien",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-11T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
+        "pari": "PLUS DE 3.75 BUTS",
+        "cote": 1.8,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -60,10 +47,10 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-11T20:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.0 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 3.75 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -73,8 +60,8 @@
       "competition": "Brazil Série B",
       "commence_time": "2026-11-11T22:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.81,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -104,6 +91,19 @@
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Barcelona vs Arsenal",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-12T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.75 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
