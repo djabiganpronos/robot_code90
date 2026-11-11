@@ -1,69 +1,17 @@
 {
-  "generated_at": "2026-11-11T13:24:21.640851+00:00",
+  "generated_at": "2026-11-11T23:56:34.131270+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Leuven vs HB Køge",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-11T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Sheffield Wednesday vs Accrington Stanley",
-      "competition": "EFL Trophy",
-      "commence_time": "2026-11-11T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.25 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Barnsley vs Oldham Athletic",
-      "competition": "EFL Trophy",
-      "commence_time": "2026-11-11T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.75 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Juventus vs Lyon",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-11T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.75 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Londrina vs Nautico PE",
       "competition": "Brazil Série B",
       "commence_time": "2026-11-11T22:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -74,10 +22,10 @@
       "commence_time": "2026-11-12T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.64,
+        "cote": 1.62,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -90,6 +38,19 @@
         "cote": 1.69,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "CD Puertollano vs Albacete",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-12T17:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ALBACETE",
+        "cote": 1.54,
+        "indice_fixe": 78,
+        "motif": "Cote extérieur en fourchette favorite",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -98,12 +59,58 @@
       "match": "Barcelona vs Arsenal",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-12T17:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "CDA Navalcarnero vs Real Betis",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-12T18:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.75 BUTS",
-        "cote": 1.78,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Tarancón vs Levante",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-12T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.76,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Albania vs Finland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-12T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.57,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "San Marino vs Belarus",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-12T19:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
