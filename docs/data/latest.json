@@ -1,41 +1,28 @@
 {
-  "generated_at": "2026-11-12T14:29:09.430491+00:00",
+  "generated_at": "2026-11-12T23:05:29.647146+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Armenia vs Cyprus",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-12T17:00:00Z",
+      "match": "Ponte Preta vs Operario PR",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-12T22:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.45,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "São Bernardo vs Athletic Club (MG)",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-12T23:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Turkey vs Belgium",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-12T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "CD Puertollano vs Albacete",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-12T17:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.8,
+        "cote": 1.81,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -43,32 +30,12 @@
       "score": null
     },
     {
-      "match": "Barcelona vs Arsenal",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-12T17:45:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "CDA Navalcarnero vs Real Betis",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-12T18:00:00Z",
+      "match": "Moldova vs Kazakhstan",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-13T17:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Tarancón vs Levante",
-      "competition": "Copa del Rey",
-      "commence_time": "2026-11-12T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.75 BUTS",
-        "cote": 1.74,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.55,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -76,27 +43,92 @@
       "score": null
     },
     {
-      "match": "Albania vs Finland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-12T19:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.5,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "San Marino vs Belarus",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-12T19:45:00Z",
+      "match": "Hamburger SV vs FSV Mainz 05",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-13T17:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.53,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Dijon vs Orléans",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-13T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Leganés vs Burgos CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-13T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Andorra vs Gibraltar",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-13T19:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Liechtenstein vs Azerbaijan",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-13T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Bulgaria vs Iceland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-13T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Luxembourg vs Estonia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-13T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.52,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
