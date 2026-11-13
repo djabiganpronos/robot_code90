@@ -1,34 +1,8 @@
 {
-  "generated_at": "2026-11-12T23:05:29.647146+00:00",
+  "generated_at": "2026-11-13T04:38:56.052022+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Ponte Preta vs Operario PR",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-12T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.45,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "São Bernardo vs Athletic Club (MG)",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-12T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Moldova vs Kazakhstan",
       "competition": "UEFA Nations League",
@@ -100,7 +74,7 @@
       "commence_time": "2026-11-13T19:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.61,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -126,7 +100,7 @@
       "commence_time": "2026-11-13T19:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.52,
+        "cote": 1.49,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
