@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-13T13:46:51.266568+00:00",
+  "generated_at": "2026-11-13T23:08:29.652254+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Moldova vs Kazakhstan",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-13T17:00:00Z",
+      "match": "TSG Hoffenheim vs SC Freiburg",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-14T11:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.56,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -17,76 +17,51 @@
       "score": null
     },
     {
-      "match": "Hamburger SV vs FSV Mainz 05",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-13T17:30:00Z",
+      "match": "Exeter City vs Cheltenham Town",
+      "competition": "League 2",
+      "commence_time": "2026-11-14T12:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Real Valladolid CF vs CD Castellón",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
+        "cote": 1.66,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "Dijon vs Orléans",
+      "match": "FC Versailles vs Rodez AF",
       "competition": "Coupe de France",
-      "commence_time": "2026-11-13T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "commence_time": "2026-11-14T13:00:00Z",
+      "modele_a": null,
       "score": null
     },
     {
-      "match": "US St Philbert de Grandlieu vs VFC La Roche-sur-Yon",
+      "match": "Tourcoing vs Stade de Reims",
       "competition": "Coupe de France",
-      "commence_time": "2026-11-13T19:00:00Z",
+      "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Leganés vs Burgos CF",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-13T19:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.6,
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.68,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Andorra vs Gibraltar",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-13T19:45:00Z",
+      "match": "Werder Bremen vs Union Berlin",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Liechtenstein vs Azerbaijan",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-13T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
+        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.64,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -95,12 +70,25 @@
       "score": null
     },
     {
-      "match": "Bulgaria vs Iceland",
+      "match": "CA Boulay vs Sochaux",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-14T13:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kosovo vs Israel",
       "competition": "UEFA Nations League",
-      "commence_time": "2026-11-13T19:45:00Z",
+      "commence_time": "2026-11-14T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.74,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
