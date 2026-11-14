@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-14T12:51:15.487148+00:00",
+  "generated_at": "2026-11-14T21:53:21.369586+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 14,
   "matchs": [
     {
-      "match": "TSG Hoffenheim vs SC Freiburg",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-14T11:00:00Z",
+      "match": "Clube de Regatas Brasil vs Ceará",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-14T19:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 0.5 BUTS",
-        "cote": 1.01,
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.81,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,78 +17,51 @@
       "score": null
     },
     {
-      "match": "Exeter City vs Cheltenham Town",
-      "competition": "League 2",
-      "commence_time": "2026-11-14T12:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Real Valladolid CF vs CD Castellón",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-14T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Versailles vs Rodez AF",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-14T13:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Tourcoing vs Stade de Reims",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-14T13:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Werder Bremen vs Union Berlin",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-14T13:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "CA Boulay vs Sochaux",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-14T13:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Kosovo vs Israel",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-14T14:00:00Z",
+      "match": "Sport Recife vs Goiás",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-14T19:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.6,
+        "indice_fixe": 88,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Austria vs Iceland",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-14T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.33,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Sweden vs Bosnia & Herzegovina",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-14T19:45:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 5.5 BUTS",
+        "cote": 1.52,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Oviedo vs Girona FC",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-14T20:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.02,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -96,12 +69,38 @@
       "score": null
     },
     {
-      "match": "Port Vale vs Accrington Stanley",
-      "competition": "League 2",
-      "commence_time": "2026-11-14T15:00:00Z",
+      "match": "Mirassol vs Atletico Mineiro",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-14T21:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.85,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Querétaro vs Monterrey",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-14T23:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Chapecoense vs Vasco da Gama",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-14T23:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.57,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -109,9 +108,74 @@
       "score": null
     },
     {
-      "match": "Wigan Athletic vs Barnsley",
-      "competition": "League 1",
-      "commence_time": "2026-11-14T15:00:00Z",
+      "match": "Tenerife vs AD Ceuta FC",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-15T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "CS Sedan vs Bourges FC",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-15T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Paris 13 Atletico vs Red Star",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-15T13:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "AS Atlas Paillade vs Cannes",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-15T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.0 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Latvia vs Armenia",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-15T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Cyprus vs Montenegro",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-15T14:00:00Z",
       "modele_a": null,
       "score": null
     }
