@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:08:29.652254+00:00",
+  "generated_at": "2026-11-14T04:33:49.256197+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -75,7 +75,7 @@
       "commence_time": "2026-11-14T13:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.68,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -88,7 +88,7 @@
       "commence_time": "2026-11-14T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.74,
+        "cote": 1.68,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
