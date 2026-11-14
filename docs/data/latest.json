@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-14T04:33:49.256197+00:00",
+  "generated_at": "2026-11-14T12:51:15.487148+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
       "match": "TSG Hoffenheim vs SC Freiburg",
       "competition": "Frauen-Bundesliga",
       "commence_time": "2026-11-14T11:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.56,
+        "pari": "MOINS DE 0.5 BUTS",
+        "cote": 1.01,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -29,7 +29,7 @@
       "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
+        "cote": 1.56,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -48,10 +48,10 @@
       "competition": "Coupe de France",
       "commence_time": "2026-11-14T13:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -75,7 +75,7 @@
       "commence_time": "2026-11-14T13:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -88,11 +88,31 @@
       "commence_time": "2026-11-14T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.7,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
+      "score": null
+    },
+    {
+      "match": "Port Vale vs Accrington Stanley",
+      "competition": "League 2",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Wigan Athletic vs Barnsley",
+      "competition": "League 1",
+      "commence_time": "2026-11-14T15:00:00Z",
+      "modele_a": null,
       "score": null
     }
   ],
