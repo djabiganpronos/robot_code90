@@ -1,112 +1,8 @@
 {
-  "generated_at": "2026-11-14T21:53:21.369586+00:00",
+  "generated_at": "2026-11-15T04:22:41.159704+00:00",
   "erreur": null,
-  "nb_matchs": 14,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Clube de Regatas Brasil vs Ceará",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-14T19:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Sport Recife vs Goiás",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-14T19:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Austria vs Iceland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-14T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.33,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Sweden vs Bosnia & Herzegovina",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-14T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 5.5 BUTS",
-        "cote": 1.52,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Oviedo vs Girona FC",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-14T20:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.02,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Mirassol vs Atletico Mineiro",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-14T21:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Querétaro vs Monterrey",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-14T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.67,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Chapecoense vs Vasco da Gama",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-14T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.57,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "Tenerife vs AD Ceuta FC",
       "competition": "La Liga 2 - Spain",
@@ -126,7 +22,7 @@
       "commence_time": "2026-11-15T13:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.8,
+        "cote": 1.81,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -139,10 +35,10 @@
       "commence_time": "2026-11-15T13:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.82,
+        "cote": 1.85,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
@@ -165,7 +61,7 @@
       "commence_time": "2026-11-15T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.76,
+        "cote": 1.68,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -177,6 +73,32 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-11-15T14:00:00Z",
       "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "GFA Rumilly Vallières vs Saint Etienne",
+      "competition": "Coupe de France",
+      "commence_time": "2026-11-15T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "1. FC Nürnberg vs 1. FC Köln",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-15T15:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
