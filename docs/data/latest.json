@@ -1,28 +1,22 @@
 {
-  "generated_at": "2026-11-15T04:22:41.159704+00:00",
+  "generated_at": "2026-11-15T13:18:05.654665+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 11,
   "matchs": [
     {
-      "match": "Tenerife vs AD Ceuta FC",
-      "competition": "La Liga 2 - Spain",
+      "match": "Paris 13 Atletico vs Red Star",
+      "competition": "Coupe de France",
       "commence_time": "2026-11-15T13:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
       "match": "CS Sedan vs Bourges FC",
       "competition": "Coupe de France",
-      "commence_time": "2026-11-15T13:00:00Z",
+      "commence_time": "2026-11-15T13:02:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.81,
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.83,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -30,14 +24,14 @@
       "score": null
     },
     {
-      "match": "Paris 13 Atletico vs Red Star",
-      "competition": "Coupe de France",
-      "commence_time": "2026-11-15T13:00:00Z",
+      "match": "Tenerife vs AD Ceuta FC",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-15T13:03:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.48,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -47,10 +41,10 @@
       "competition": "Coupe de France",
       "commence_time": "2026-11-15T14:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.0 BUTS",
-        "cote": 1.74,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -61,7 +55,7 @@
       "commence_time": "2026-11-15T14:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
+        "cote": 1.57,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -80,10 +74,10 @@
       "competition": "Coupe de France",
       "commence_time": "2026-11-15T14:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
+        "pari": "PLUS DE 3.0 BUTS",
         "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -98,6 +92,45 @@
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "RB Leipzig vs Eintracht Frankfurt",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-15T15:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Granada CF vs Las Palmas",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-15T15:15:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Belarus vs Albania",
+      "competition": "UEFA Nations League",
+      "commence_time": "2026-11-15T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
