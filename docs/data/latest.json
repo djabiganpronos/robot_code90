@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:23:21.960263+00:00",
+  "generated_at": "2026-11-16T04:21:14.130931+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -48,7 +48,7 @@
       "commence_time": "2026-11-16T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.41,
+        "cote": 1.4,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -61,7 +61,7 @@
       "commence_time": "2026-11-16T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.7,
+        "cote": 1.68,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
