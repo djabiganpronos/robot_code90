@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:26:05.367846+00:00",
+  "generated_at": "2026-11-17T15:22:26.785802+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -8,10 +8,10 @@
       "competition": "EFL Trophy",
       "commence_time": "2026-11-17T19:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE LUTON",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
+        "pari": "MOINS DE 3.75 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -22,7 +22,7 @@
       "commence_time": "2026-11-17T19:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.71,
+        "cote": 1.58,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -33,7 +33,13 @@
       "match": "Bosnia & Herzegovina vs Romania",
       "competition": "UEFA Nations League",
       "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
       "score": null
     },
     {
@@ -42,7 +48,7 @@
       "commence_time": "2026-11-17T19:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.73,
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -68,7 +74,7 @@
       "commence_time": "2026-11-17T19:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.54,
+        "cote": 1.55,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -81,7 +87,7 @@
       "commence_time": "2026-11-17T19:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
+        "cote": 1.58,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -93,10 +99,10 @@
       "competition": "UEFA Nations League",
       "commence_time": "2026-11-17T19:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.66,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
