@@ -1,14 +1,53 @@
 {
-  "generated_at": "2026-11-17T15:22:26.785802+00:00",
+  "generated_at": "2026-11-18T00:22:47.979834+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Luton vs Peterborough United",
-      "competition": "EFL Trophy",
-      "commence_time": "2026-11-17T19:00:00Z",
+      "match": "BK Hacken vs Manchester City",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-18T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.75 BUTS",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.46,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Real Madrid vs Inter Milan",
+      "competition": "UEFA Champions League Women",
+      "commence_time": "2026-11-18T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.37,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Club Portugalete vs Real Unión",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Utebo FC vs Sabadell FC",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.83,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -17,93 +56,54 @@
       "score": null
     },
     {
-      "match": "Israel vs Austria",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
+      "match": "Alcoyano vs Mallorca",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.58,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Badajoz vs Tenerife",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Reus FC Reddis vs Barakaldo",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T19:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "CD Minera vs FC Cartagena",
+      "competition": "Copa del Rey",
+      "commence_time": "2026-11-18T19:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.0 BUTS",
+        "cote": 1.75,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Bosnia & Herzegovina vs Romania",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Denmark vs Norway",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.82,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Ukraine vs Georgia",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Hungary vs Northern Ireland",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Republic of Ireland vs Kosovo",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.58,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Poland vs Sweden",
-      "competition": "UEFA Nations League",
-      "commence_time": "2026-11-17T19:45:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
       },
       "score": null
     }
