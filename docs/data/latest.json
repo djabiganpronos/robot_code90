@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:22:47.979834+00:00",
+  "generated_at": "2026-11-18T14:56:54.989372+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-11-18T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.46,
+        "cote": 1.3,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -22,7 +22,7 @@
       "commence_time": "2026-11-18T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.37,
+        "cote": 1.27,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +35,7 @@
       "commence_time": "2026-11-18T18:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.85,
+        "cote": 1.81,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +48,7 @@
       "commence_time": "2026-11-18T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.81,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -60,10 +60,10 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-18T19:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "VICTOIRE MALLORCA",
+        "cote": 1.48,
+        "indice_fixe": 84,
+        "motif": "Cote extérieur en fourchette favorite",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -87,7 +87,7 @@
       "commence_time": "2026-11-18T19:30:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.83,
+        "cote": 1.82,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -99,10 +99,10 @@
       "competition": "Copa del Rey",
       "commence_time": "2026-11-18T19:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.0 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
