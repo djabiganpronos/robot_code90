@@ -1,93 +1,15 @@
 {
-  "generated_at": "2026-11-18T23:47:38.656062+00:00",
+  "generated_at": "2026-11-19T05:31:49.648527+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Coritiba vs Santos",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-18T22:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Remo vs Chapecoense",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-18T23:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Flamengo vs Atletico Paranaense",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-18T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.72,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cruzeiro vs Palmeiras",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-18T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.76,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Grêmio vs Bahia",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-19T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Corinthians vs Botafogo",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-19T00:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "Austria Wien vs Bayern Munich",
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-19T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.24,
+        "cote": 1.28,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -126,7 +48,7 @@
       "commence_time": "2026-11-19T20:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.52,
+        "cote": 1.58,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -138,8 +60,8 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-19T20:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 6.25 BUTS",
-        "cote": 1.82,
+        "pari": "PLUS DE 5.75 BUTS",
+        "cote": 1.76,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -157,6 +79,26 @@
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Over"
       },
+      "score": null
+    },
+    {
+      "match": "Vasco da Gama vs Internacional",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-19T22:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.69,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Orlando City SC vs FC Cincinnati",
+      "competition": "MLS",
+      "commence_time": "2026-11-20T00:30:00Z",
+      "modele_a": null,
       "score": null
     }
   ],
