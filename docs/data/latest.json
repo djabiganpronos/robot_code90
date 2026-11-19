@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T05:31:49.648527+00:00",
+  "generated_at": "2026-11-19T15:03:43.987418+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -9,7 +9,7 @@
       "commence_time": "2026-11-19T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.28,
+        "cote": 1.24,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -22,7 +22,7 @@
       "commence_time": "2026-11-19T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.49,
+        "cote": 1.46,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -35,7 +35,7 @@
       "commence_time": "2026-11-19T20:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.55,
+        "cote": 1.59,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -48,7 +48,7 @@
       "commence_time": "2026-11-19T20:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.58,
+        "cote": 1.42,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -60,11 +60,11 @@
       "competition": "UEFA Champions League Women",
       "commence_time": "2026-11-19T20:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 5.75 BUTS",
-        "cote": 1.76,
+        "pari": "PLUS DE 6.0 BUTS",
+        "cote": 1.78,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -75,9 +75,9 @@
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.8,
-        "indice_fixe": 85,
+        "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
+        "tendance_publique": "1X2"
       },
       "score": null
     },
@@ -87,7 +87,7 @@
       "commence_time": "2026-11-19T22:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.69,
+        "cote": 1.68,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
@@ -98,7 +98,13 @@
       "match": "Orlando City SC vs FC Cincinnati",
       "competition": "MLS",
       "commence_time": "2026-11-20T00:30:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 3.75 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
