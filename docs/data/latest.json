@@ -1,61 +1,22 @@
 {
-  "generated_at": "2026-11-20T14:45:15.838457+00:00",
+  "generated_at": "2026-11-20T23:34:31.142833+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "FK Rostov vs Kryliya Sovetov",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-11-20T16:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.25 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Piast Gliwice vs Korona Kielce",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-11-20T17:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "SV Darmstadt 98 vs 1. FC Heidenheim",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-20T17:30:00Z",
+      "match": "Velez Sarsfield BA vs Belgrano de Cordoba",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-20T23:00:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Arminia Bielefeld vs 1. FC Magdeburg",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-20T17:30:00Z",
+      "match": "Palestino vs Union La Calera",
+      "competition": "Primera División - Chile",
+      "commence_time": "2026-11-20T23:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.75 BUTS",
-        "cote": 1.84,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Union Berlin vs Bayer Leverkusen",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-20T17:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.57,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
@@ -63,12 +24,71 @@
       "score": null
     },
     {
-      "match": "AGF Aarhus vs Lyngby",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-11-20T18:00:00Z",
+      "match": "Puebla vs Atlético San Luis",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-21T01:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE AGF AARHUS",
-        "cote": 1.7,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Juárez vs Atlas",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-21T03:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Tijuana vs Atlante FC",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-21T03:10:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Auckland FC vs Melbourne Victory",
+      "competition": "A-League",
+      "commence_time": "2026-11-21T04:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Pohang Steelers vs FC Anyang",
+      "competition": "K League 1",
+      "commence_time": "2026-11-21T05:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.66,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Machida Zelvia vs V-Varen Nagasaki",
+      "competition": "J League",
+      "commence_time": "2026-11-21T05:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FC MACHIDA ZELVIA",
+        "cote": 1.52,
         "indice_fixe": 78,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -76,12 +96,12 @@
       "score": null
     },
     {
-      "match": "Molde vs Bodø/Glimt",
-      "competition": "Eliteserien - Norway",
-      "commence_time": "2026-11-20T18:00:00Z",
+      "match": "Jeonbuk Hyundai Motors vs FC Seoul",
+      "competition": "K League 1",
+      "commence_time": "2026-11-21T05:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.19,
+        "cote": 1.78,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -89,15 +109,15 @@
       "score": null
     },
     {
-      "match": "TSV Havelse vs FC Viktoria Köln 1904",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-11-20T18:00:00Z",
+      "match": "Hiroshima Sanfrecce FC vs Yokohama F Marinos",
+      "competition": "J League",
+      "commence_time": "2026-11-21T05:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
