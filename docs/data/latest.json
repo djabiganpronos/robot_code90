@@ -1,88 +1,10 @@
 {
-  "generated_at": "2026-11-19T15:03:43.987418+00:00",
+  "generated_at": "2026-11-20T00:10:19.078253+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Austria Wien vs Bayern Munich",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.24,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Paris FC vs HB Køge",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T17:45:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.46,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Benfica vs AS Roma",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T20:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.59,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Arsenal vs Lyon",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.42,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Barcelona vs Servette FC",
-      "competition": "UEFA Champions League Women",
-      "commence_time": "2026-11-19T20:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 6.0 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
       "match": "Vitoria vs Bragantino-SP",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-19T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.8,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Vasco da Gama vs Internacional",
       "competition": "Brazil Série A",
       "commence_time": "2026-11-19T22:30:00Z",
       "modele_a": {
@@ -95,16 +17,102 @@
       "score": null
     },
     {
+      "match": "Vasco da Gama vs Internacional",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-19T22:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
       "match": "Orlando City SC vs FC Cincinnati",
       "competition": "MLS",
       "commence_time": "2026-11-20T00:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Sao Paulo vs Fluminense",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-20T00:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.75 BUTS",
-        "cote": 1.85,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
+      "score": null
+    },
+    {
+      "match": "Seattle Sounders FC vs Real Salt Lake",
+      "competition": "MLS",
+      "commence_time": "2026-11-20T03:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Western Sydney Wanderers vs Adelaide United",
+      "competition": "A-League",
+      "commence_time": "2026-11-20T08:40:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE WESTERN SYDNEY WANDERERS",
+        "cote": 1.7,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kashiwa Reysol vs JEF United Chiba",
+      "competition": "J League",
+      "commence_time": "2026-11-20T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kashima Antlers vs Shimizu S Pulse",
+      "competition": "J League",
+      "commence_time": "2026-11-20T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Vissel Kobe vs Mito HollyHock",
+      "competition": "J League",
+      "commence_time": "2026-11-20T10:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FK Rostov vs Kryliya Sovetov",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-11-20T16:30:00Z",
+      "modele_a": null,
       "score": null
     }
   ],
