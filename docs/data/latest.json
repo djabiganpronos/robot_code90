@@ -1,63 +1,17 @@
 {
-  "generated_at": "2026-11-20T23:34:31.142833+00:00",
+  "generated_at": "2026-11-21T05:13:12.038461+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 16,
   "matchs": [
-    {
-      "match": "Velez Sarsfield BA vs Belgrano de Cordoba",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-20T23:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Palestino vs Union La Calera",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-20T23:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Puebla vs Atlético San Luis",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-21T01:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Juárez vs Atlas",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-21T03:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
     {
       "match": "Tijuana vs Atlante FC",
       "competition": "Liga MX",
       "commence_time": "2026-11-21T03:10:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.02,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -66,7 +20,13 @@
       "match": "Auckland FC vs Melbourne Victory",
       "competition": "A-League",
       "commence_time": "2026-11-21T04:00:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
@@ -75,7 +35,7 @@
       "commence_time": "2026-11-21T05:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.66,
+        "cote": 1.56,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -88,7 +48,7 @@
       "commence_time": "2026-11-21T05:00:00Z",
       "modele_a": {
         "pari": "VICTOIRE FC MACHIDA ZELVIA",
-        "cote": 1.52,
+        "cote": 1.5,
         "indice_fixe": 78,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -100,10 +60,10 @@
       "competition": "K League 1",
       "commence_time": "2026-11-21T05:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.62,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -114,10 +74,116 @@
       "commence_time": "2026-11-21T05:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.85,
+        "cote": 1.83,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Kyoto Purple Sanga vs Urawa Red Diamonds",
+      "competition": "J League",
+      "commence_time": "2026-11-21T05:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Tokyo Verdy vs Nagoya Grampus",
+      "competition": "J League",
+      "commence_time": "2026-11-21T05:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Kawasaki Frontale vs Avispa Fukuoka",
+      "competition": "J League",
+      "commence_time": "2026-11-21T06:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Central Coast Mariners vs Perth Glory",
+      "competition": "A-League",
+      "commence_time": "2026-11-21T06:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Cerezo Osaka vs FC Tokyo",
+      "competition": "J League",
+      "commence_time": "2026-11-21T06:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE FC TOKYO",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gamba Osaka vs Fagiano Okayama",
+      "competition": "J League",
+      "commence_time": "2026-11-21T07:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gangwon FC vs Daejeon Citizen",
+      "competition": "K League 1",
+      "commence_time": "2026-11-21T07:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.68,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Incheon United vs Ulsan Hyundai FC",
+      "competition": "K League 1",
+      "commence_time": "2026-11-21T07:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Brisbane Roar vs Sydney FC",
+      "competition": "A-League",
+      "commence_time": "2026-11-21T08:40:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Gazovik Orenburg vs FC Baltika Kaliningrad",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-11-21T10:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
