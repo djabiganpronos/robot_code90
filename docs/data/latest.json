@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-21T05:13:12.038461+00:00",
+  "generated_at": "2026-11-21T14:01:18.656781+00:00",
   "erreur": null,
-  "nb_matchs": 16,
+  "nb_matchs": 44,
   "matchs": [
     {
-      "match": "Tijuana vs Atlante FC",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-21T03:10:00Z",
+      "match": "1. FC Nürnberg vs Eintracht Braunschweig",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-21T11:59:00Z",
       "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.02,
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.35,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -17,12 +17,64 @@
       "score": null
     },
     {
-      "match": "Auckland FC vs Melbourne Victory",
-      "competition": "A-League",
-      "commence_time": "2026-11-21T04:00:00Z",
+      "match": "Hannover 96 vs Greuther Fürth",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-21T12:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.25 BUTS",
-        "cote": 1.84,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.2,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "VfL Wolfsburg vs Holstein Kiel",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-21T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.24,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Östersunds FK vs Varbergs BoIS",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-11-21T12:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.03,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Enköpings SK vs Örebro SK",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-11-21T12:01:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 6.5 BUTS",
+        "cote": 1.04,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Blackpool vs Wigan Athletic",
+      "competition": "League 1",
+      "commence_time": "2026-11-21T12:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.68,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -30,98 +82,25 @@
       "score": null
     },
     {
-      "match": "Pohang Steelers vs FC Anyang",
-      "competition": "K League 1",
-      "commence_time": "2026-11-21T05:00:00Z",
+      "match": "Reading vs Bromley FC",
+      "competition": "League 1",
+      "commence_time": "2026-11-21T12:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Machida Zelvia vs V-Varen Nagasaki",
-      "competition": "J League",
-      "commence_time": "2026-11-21T05:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE FC MACHIDA ZELVIA",
-        "cote": 1.5,
+        "pari": "PLUS DE 1.5 BUTS",
+        "cote": 1.43,
         "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Jeonbuk Hyundai Motors vs FC Seoul",
-      "competition": "K League 1",
-      "commence_time": "2026-11-21T05:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.62,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Hiroshima Sanfrecce FC vs Yokohama F Marinos",
-      "competition": "J League",
-      "commence_time": "2026-11-21T05:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "Kyoto Purple Sanga vs Urawa Red Diamonds",
-      "competition": "J League",
-      "commence_time": "2026-11-21T05:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Tokyo Verdy vs Nagoya Grampus",
-      "competition": "J League",
-      "commence_time": "2026-11-21T05:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Kawasaki Frontale vs Avispa Fukuoka",
-      "competition": "J League",
-      "commence_time": "2026-11-21T06:00:00Z",
+      "match": "Norwich City vs Cardiff City",
+      "competition": "Championship",
+      "commence_time": "2026-11-21T12:30:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Central Coast Mariners vs Perth Glory",
-      "competition": "A-League",
-      "commence_time": "2026-11-21T06:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Cerezo Osaka vs FC Tokyo",
-      "competition": "J League",
-      "commence_time": "2026-11-21T06:00:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE FC TOKYO",
-        "cote": 1.64,
+        "pari": "VICTOIRE CARDIFF CITY",
+        "cote": 1.79,
         "indice_fixe": 78,
         "motif": "Cote extérieur en fourchette favorite",
         "tendance_publique": "Neutre"
@@ -129,11 +108,38 @@
       "score": null
     },
     {
-      "match": "Gamba Osaka vs Fagiano Okayama",
-      "competition": "J League",
-      "commence_time": "2026-11-21T07:00:00Z",
+      "match": "Gillingham vs Crewe Alexandra",
+      "competition": "League 2",
+      "commence_time": "2026-11-21T12:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Southampton vs Derby County",
+      "competition": "Championship",
+      "commence_time": "2026-11-21T12:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Manchester City vs Fulham",
+      "competition": "EPL",
+      "commence_time": "2026-11-21T12:30:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.5,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Millwall vs Queens Park Rangers",
+      "competition": "Championship",
+      "commence_time": "2026-11-21T12:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.0 BUTS",
         "cote": 1.76,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
@@ -142,12 +148,25 @@
       "score": null
     },
     {
-      "match": "Gangwon FC vs Daejeon Citizen",
-      "competition": "K League 1",
-      "commence_time": "2026-11-21T07:30:00Z",
+      "match": "Newport County vs Swindon Town",
+      "competition": "League 2",
+      "commence_time": "2026-11-21T12:30:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.68,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Alavés vs Deportivo La Coruña",
+      "competition": "La Liga - Spain",
+      "commence_time": "2026-11-21T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -155,31 +174,328 @@
       "score": null
     },
     {
-      "match": "Incheon United vs Ulsan Hyundai FC",
-      "competition": "K League 1",
-      "commence_time": "2026-11-21T07:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Brisbane Roar vs Sydney FC",
-      "competition": "A-League",
-      "commence_time": "2026-11-21T08:40:00Z",
+      "match": "Amed SK vs Çaykur Rizespor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-21T13:00:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Gazovik Orenburg vs FC Baltika Kaliningrad",
-      "competition": "Premier League - Russia",
-      "commence_time": "2026-11-21T10:00:00Z",
+      "match": "Fortuna Düsseldorf vs SG Sonnenhof Großaspach",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-11-21T13:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.25 BUTS",
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.55,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Galatasaray vs Samsunspor",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-21T13:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Sabadell FC vs Granada CF",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-21T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.47,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Stade Lavallois vs Montpellier",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-11-21T13:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Tromso vs Viking FK",
+      "competition": "Eliteserien - Norway",
+      "commence_time": "2026-11-21T13:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE TROMSO",
+        "cote": 1.66,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "TSG Hoffenheim II vs SC Preußen Münster",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-11-21T13:00:02Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.8,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SC Fortuna Köln vs SV Meppen",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-11-21T13:01:10Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "1. FC Köln vs Werder Bremen",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-21T13:02:01Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Jahn Regensburg vs FC Würzburger Kickers",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-11-21T13:03:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SC Verl vs Rot-Weiss Essen",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-11-21T13:03:03Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Cracovia Kraków vs Jagiellonia Białystok",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-11-21T13:46:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "AIK vs Degerfors IF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Ascoli vs Vicenza",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ASCOLI",
+        "cote": 1.72,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Sampdoria vs Benevento",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.25 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Como vs Cagliari",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Carrarese vs Virtus Entella",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Südtirol vs Cremonese",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Modena vs Juve Stabia",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE MODENA",
+        "cote": 1.68,
+        "indice_fixe": 78,
+        "motif": "Cote domicile en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Lazio vs Lecce",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Lunds BK vs Norrby IF",
+      "competition": "Superettan - Sweden",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.74,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Mjällby AIF vs Malmo FF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-11-21T14:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.82,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Bayer Leverkusen vs SC Paderborn",
+      "competition": "Bundesliga - Germany",
+      "commence_time": "2026-11-21T14:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Borussia Monchengladbach vs Borussia Dortmund",
+      "competition": "Bundesliga - Germany",
+      "commence_time": "2026-11-21T14:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.25 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Eintracht Frankfurt vs TSG Hoffenheim",
+      "competition": "Bundesliga - Germany",
+      "commence_time": "2026-11-21T14:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Elversberg vs SC Freiburg",
+      "competition": "Bundesliga - Germany",
+      "commence_time": "2026-11-21T14:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Union Berlin vs RB Leipzig",
+      "competition": "Bundesliga - Germany",
+      "commence_time": "2026-11-21T14:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE RB LEIPZIG",
+        "cote": 1.51,
+        "indice_fixe": 78,
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "Over"
+      },
+      "score": null
+    },
+    {
+      "match": "Rubin Kazan vs Zenit St Petersburg",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-11-21T14:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE ZENIT ST PETERSBURG",
+        "cote": 1.61,
+        "indice_fixe": 78,
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kilmarnock vs Aberdeen",
+      "competition": "Premiership - Scotland",
+      "commence_time": "2026-11-21T15:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.0 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Accrington Stanley vs Salford City",
+      "competition": "League 2",
+      "commence_time": "2026-11-21T15:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.75 BUTS",
         "cote": 1.85,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
