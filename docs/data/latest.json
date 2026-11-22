@@ -1,67 +1,28 @@
 {
-  "generated_at": "2026-11-21T22:41:06.633486+00:00",
+  "generated_at": "2026-11-22T04:38:46.925289+00:00",
   "erreur": null,
-  "nb_matchs": 12,
+  "nb_matchs": 9,
   "matchs": [
     {
-      "match": "Bahia vs Coritiba",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-21T20:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.04,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "O'Higgins vs Universidad de Chile",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-21T21:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 0.75 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 88,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "FC Dallas vs Portland Timbers",
-      "competition": "MLS",
-      "commence_time": "2026-11-21T21:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
-      },
-      "score": null
-    },
-    {
-      "match": "Clube Atlético Mineiro vs Boca Juniors",
-      "competition": "Copa Sudamericana",
-      "commence_time": "2026-11-21T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Pachuca vs Toluca",
+      "match": "Tigres vs América",
       "competition": "Liga MX",
-      "commence_time": "2026-11-21T22:50:00Z",
+      "commence_time": "2026-11-22T03:00:00Z",
       "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.85,
+        "pari": "PLUS DE 0.5 BUTS",
+        "cote": 1.51,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Gwangju FC vs Bucheon FC 1995",
+      "competition": "K League 1",
+      "commence_time": "2026-11-22T05:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.8,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -69,81 +30,69 @@
       "score": null
     },
     {
-      "match": "Inter Miami CF vs Columbus Crew SC",
-      "competition": "MLS",
-      "commence_time": "2026-11-21T23:00:00Z",
+      "match": "Sangju Sangmu FC vs Jeju United FC",
+      "competition": "K League 1",
+      "commence_time": "2026-11-22T05:00:00Z",
       "modele_a": {
-        "pari": "VICTOIRE INTER MIAMI CF",
-        "cote": 1.64,
-        "indice_fixe": 78,
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.76,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Erzurum BB vs Goztepe",
+      "competition": "Turkey Super League",
+      "commence_time": "2026-11-22T10:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Dinamo Moscow vs FC Krasnodar",
+      "competition": "Premier League - Russia",
+      "commence_time": "2026-11-22T11:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "FC Twente Enschede vs Willem II",
+      "competition": "Dutch Eredivisie",
+      "commence_time": "2026-11-22T11:15:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Raków Częstochowa vs Widzew Łódź",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-11-22T11:15:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Juventus vs Venezia",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-11-22T11:30:00Z",
+      "modele_a": {
+        "pari": "VICTOIRE JUVENTUS",
+        "cote": 1.39,
+        "indice_fixe": 84,
         "motif": "Cote domicile en fourchette favorite",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Santos Laguna vs León",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-21T23:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.0 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Universidad de Concepción vs Ñublense",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-21T23:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Chapecoense vs Cruzeiro",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-22T00:00:00Z",
+      "match": "Burnley vs Blackburn Rovers",
+      "competition": "Championship",
+      "commence_time": "2026-11-22T12:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 78,
+        "cote": 1.85,
+        "indice_fixe": 85,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Pumas vs Monterrey",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-22T01:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Wellington Phoenix FC vs Macarthur FC",
-      "competition": "A-League",
-      "commence_time": "2026-11-22T02:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Tigres vs América",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-22T03:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "tendance_publique": "Over"
       },
       "score": null
     }
