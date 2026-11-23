@@ -1,158 +1,8 @@
 {
-  "generated_at": "2026-11-22T23:05:55.444823+00:00",
+  "generated_at": "2026-11-23T05:16:00.365946+00:00",
   "erreur": null,
-  "nb_matchs": 14,
+  "nb_matchs": 8,
   "matchs": [
-    {
-      "match": "Colo Colo vs Universidad Católica (CHI)",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-22T21:04:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.41,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Nashville SC vs FC Cincinnati",
-      "competition": "MLS",
-      "commence_time": "2026-11-22T21:25:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE FC CINCINNATI",
-        "cote": 1.74,
-        "indice_fixe": 78,
-        "motif": "Cote extérieur en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Atletico Goianiense vs Vila Nova",
-      "competition": "Brazil Série B",
-      "commence_time": "2026-11-22T21:30:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Fluminense vs Mirassol",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-22T21:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 0.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "River Plate vs Lanus",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-22T22:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.25 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
-    {
-      "match": "Bragantino-SP vs Vasco da Gama",
-      "competition": "Brazil Série A",
-      "commence_time": "2026-11-22T22:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.49,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Guadalajara vs Cruz Azul",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-22T23:07:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Chicago Fire vs Charlotte FC",
-      "competition": "MLS",
-      "commence_time": "2026-11-22T23:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE CHICAGO FIRE",
-        "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Deportes Limache vs La Serena",
-      "competition": "Primera División - Chile",
-      "commence_time": "2026-11-22T23:30:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.61,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Instituto de Córdoba vs Atlético Huracán",
-      "competition": "Primera División - Argentina",
-      "commence_time": "2026-11-23T01:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 1.5 BUTS",
-        "cote": 1.47,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Querétaro vs Necaxa",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-23T01:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.55,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Vancouver Whitecaps FC vs Real Salt Lake",
-      "competition": "MLS",
-      "commence_time": "2026-11-23T01:30:00Z",
-      "modele_a": {
-        "pari": "VICTOIRE VANCOUVER WHITECAPS FC",
-        "cote": 1.46,
-        "indice_fixe": 84,
-        "motif": "Cote domicile en fourchette favorite",
-        "tendance_publique": "1X2"
-      },
-      "score": null
-    },
     {
       "match": "Asteras Tripolis vs Aris Thessaloniki",
       "competition": "Super League - Greece",
@@ -165,6 +15,66 @@
       "competition": "Turkey Super League",
       "commence_time": "2026-11-23T17:00:00Z",
       "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Bayern Munich vs TSG Hoffenheim",
+      "competition": "Frauen-Bundesliga",
+      "commence_time": "2026-11-23T17:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 4.5 BUTS",
+        "cote": 1.72,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Brondby IF vs FC Midtjylland",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Hammarby IF vs IFK Goteborg",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Örgryte IS vs Kalmar FF",
+      "competition": "Allsvenskan - Sweden",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Wieczysta Kraków vs Motor Lublin",
+      "competition": "Ekstraklasa - Poland",
+      "commence_time": "2026-11-23T18:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "AD Ceuta FC vs Almería",
+      "competition": "La Liga 2 - Spain",
+      "commence_time": "2026-11-23T19:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.75 BUTS",
+        "cote": 1.85,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
