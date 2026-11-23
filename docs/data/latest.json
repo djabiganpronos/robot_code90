@@ -1,15 +1,8 @@
 {
-  "generated_at": "2026-11-23T05:16:00.365946+00:00",
+  "generated_at": "2026-11-23T17:06:43.322824+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
-    {
-      "match": "Asteras Tripolis vs Aris Thessaloniki",
-      "competition": "Super League - Greece",
-      "commence_time": "2026-11-23T15:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
     {
       "match": "Basaksehir vs Çorum FK",
       "competition": "Turkey Super League",
@@ -20,10 +13,10 @@
     {
       "match": "Bayern Munich vs TSG Hoffenheim",
       "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-23T17:00:00Z",
+      "commence_time": "2026-11-23T17:00:44Z",
       "modele_a": {
         "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.72,
+        "cote": 1.7,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -41,13 +34,7 @@
       "match": "Hammarby IF vs IFK Goteborg",
       "competition": "Allsvenskan - Sweden",
       "commence_time": "2026-11-23T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
+      "modele_a": null,
       "score": null
     },
     {
@@ -68,13 +55,34 @@
       "match": "AD Ceuta FC vs Almería",
       "competition": "La Liga 2 - Spain",
       "commence_time": "2026-11-23T19:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Monza vs Fiorentina",
+      "competition": "Serie A - Italy",
+      "commence_time": "2026-11-23T19:45:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Nantes vs Grenoble",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-11-23T19:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.75 BUTS",
-        "cote": 1.85,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
+      "score": null
+    },
+    {
+      "match": "Sochaux vs USL Dunkerque",
+      "competition": "Ligue 2 - France",
+      "commence_time": "2026-11-23T19:45:00Z",
+      "modele_a": null,
       "score": null
     }
   ],
