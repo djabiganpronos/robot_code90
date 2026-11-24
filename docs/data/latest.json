@@ -1,77 +1,48 @@
 {
-  "generated_at": "2026-11-23T17:06:43.322824+00:00",
+  "generated_at": "2026-11-24T03:42:35.742336+00:00",
   "erreur": null,
-  "nb_matchs": 10,
+  "nb_matchs": 8,
   "matchs": [
     {
-      "match": "Basaksehir vs Çorum FK",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-11-23T17:00:00Z",
+      "match": "Galatasaray vs Aston Villa",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-11-24T17:45:00Z",
       "modele_a": null,
       "score": null
     },
     {
-      "match": "Bayern Munich vs TSG Hoffenheim",
-      "competition": "Frauen-Bundesliga",
-      "commence_time": "2026-11-23T17:00:44Z",
+      "match": "Bodø/Glimt vs LASK",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-11-24T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 4.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.28,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Brondby IF vs FC Midtjylland",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-11-23T18:00:00Z",
-      "modele_a": null,
+      "match": "Juve Stabia vs US Catanzaro 1929",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-24T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     },
     {
-      "match": "Hammarby IF vs IFK Goteborg",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-11-23T18:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Örgryte IS vs Kalmar FF",
-      "competition": "Allsvenskan - Sweden",
-      "commence_time": "2026-11-23T18:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Wieczysta Kraków vs Motor Lublin",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-11-23T18:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "AD Ceuta FC vs Almería",
-      "competition": "La Liga 2 - Spain",
-      "commence_time": "2026-11-23T19:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Monza vs Fiorentina",
-      "competition": "Serie A - Italy",
-      "commence_time": "2026-11-23T19:45:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Nantes vs Grenoble",
-      "competition": "Ligue 2 - France",
-      "commence_time": "2026-11-23T19:45:00Z",
+      "match": "Cesena FC vs Ascoli",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-24T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.83,
+        "cote": 1.8,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -79,10 +50,55 @@
       "score": null
     },
     {
-      "match": "Sochaux vs USL Dunkerque",
-      "competition": "Ligue 2 - France",
-      "commence_time": "2026-11-23T19:45:00Z",
-      "modele_a": null,
+      "match": "Benevento vs Empoli",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-24T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Vicenza vs Carrarese",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-24T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Tranmere Rovers vs Everton U21",
+      "competition": "EFL Trophy",
+      "commence_time": "2026-11-24T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
+      "score": null
+    },
+    {
+      "match": "Fleetwood Town vs Leeds United U21",
+      "competition": "EFL Trophy",
+      "commence_time": "2026-11-24T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.79,
+        "indice_fixe": 85,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Over"
+      },
       "score": null
     }
   ],
