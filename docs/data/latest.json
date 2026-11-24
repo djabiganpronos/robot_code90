@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:42:35.742336+00:00",
+  "generated_at": "2026-11-24T16:51:08.313434+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
@@ -7,7 +7,13 @@
       "match": "Galatasaray vs Aston Villa",
       "competition": "UEFA Champions League",
       "commence_time": "2026-11-24T17:45:00Z",
-      "modele_a": null,
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.61,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "1X2"
+      },
       "score": null
     },
     {
@@ -16,7 +22,7 @@
       "commence_time": "2026-11-24T17:45:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.28,
+        "cote": 1.23,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -55,7 +61,7 @@
       "commence_time": "2026-11-24T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.73,
+        "cote": 1.7,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -68,7 +74,7 @@
       "commence_time": "2026-11-24T19:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.73,
+        "cote": 1.67,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -79,25 +85,19 @@
       "match": "Tranmere Rovers vs Everton U21",
       "competition": "EFL Trophy",
       "commence_time": "2026-11-24T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.83,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
-      },
+      "modele_a": null,
       "score": null
     },
     {
-      "match": "Fleetwood Town vs Leeds United U21",
-      "competition": "EFL Trophy",
+      "match": "Virtus Entella vs Hellas Verona",
+      "competition": "Serie B - Italy",
       "commence_time": "2026-11-24T19:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.79,
-        "indice_fixe": 85,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Over"
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.6,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
       },
       "score": null
     }
