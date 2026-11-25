@@ -1,48 +1,28 @@
 {
-  "generated_at": "2026-11-25T01:50:09.858412+00:00",
+  "generated_at": "2026-11-25T16:39:15.277412+00:00",
   "erreur": null,
   "nb_matchs": 8,
   "matchs": [
     {
-      "match": "San Jose Earthquakes vs Houston Dynamo",
-      "competition": "MLS",
-      "commence_time": "2026-11-25T03:00:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "Avispa Fukuoka vs Yokohama F Marinos",
-      "competition": "J League",
-      "commence_time": "2026-11-25T10:00:00Z",
+      "match": "Sabah FK vs Barcelona",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-11-25T17:45:00Z",
       "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "pari": "PLUS DE 4.5 BUTS",
+        "cote": 1.77,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "1X2"
       },
       "score": null
     },
     {
-      "match": "FC Tokyo vs Hiroshima Sanfrecce FC",
-      "competition": "J League",
-      "commence_time": "2026-11-25T10:00:00Z",
+      "match": "Slavia Praha vs Villarreal",
+      "competition": "UEFA Champions League",
+      "commence_time": "2026-11-25T17:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
+        "pari": "MOINS DE 3.5 BUTS",
         "cote": 1.56,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Fagiano Okayama vs Shimizu S Pulse",
-      "competition": "J League",
-      "commence_time": "2026-11-25T10:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.65,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -50,38 +30,12 @@
       "score": null
     },
     {
-      "match": "JEF United Chiba vs Nagoya Grampus",
-      "competition": "J League",
-      "commence_time": "2026-11-25T10:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.75,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "V-Varen Nagasaki vs Kawasaki Frontale",
-      "competition": "J League",
-      "commence_time": "2026-11-25T10:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Mito HollyHock vs Tokyo Verdy",
-      "competition": "J League",
-      "commence_time": "2026-11-25T10:00:00Z",
+      "match": "Cremonese vs Avellino",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-25T18:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.45,
+        "cote": 1.73,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -89,12 +43,64 @@
       "score": null
     },
     {
-      "match": "Urawa Red Diamonds vs Cerezo Osaka",
-      "competition": "J League",
-      "commence_time": "2026-11-25T10:30:00Z",
+      "match": "Mantova vs Arezzo",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-25T19:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.56,
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Fleetwood Town vs Leeds United U21",
+      "competition": "EFL Trophy",
+      "commence_time": "2026-11-25T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Pisa vs Modena",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-25T19:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.78,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Padova vs Sampdoria",
+      "competition": "Serie B - Italy",
+      "commence_time": "2026-11-25T19:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.71,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Burnley vs Birmingham City",
+      "competition": "Championship",
+      "commence_time": "2026-11-25T19:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.72,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
