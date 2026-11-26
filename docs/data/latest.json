@@ -1,92 +1,94 @@
 {
-  "generated_at": "2026-11-25T16:39:15.277412+00:00",
+  "generated_at": "2026-11-26T01:26:27.468394+00:00",
   "erreur": null,
-  "nb_matchs": 8,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Sabah FK vs Barcelona",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-11-25T17:45:00Z",
+      "match": "Boca Juniors vs Independiente Rivadavia",
+      "competition": "Primera División - Argentina",
+      "commence_time": "2026-11-26T00:01:00Z",
       "modele_a": {
-        "pari": "PLUS DE 4.5 BUTS",
-        "cote": 1.77,
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.51,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "1X2"
+        "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Slavia Praha vs Villarreal",
-      "competition": "UEFA Champions League",
-      "commence_time": "2026-11-25T17:45:00Z",
+      "match": "Toluca vs Atlas",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-26T01:00:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Monterrey vs América",
+      "competition": "Liga MX",
+      "commence_time": "2026-11-26T03:10:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Al-Fateh vs Al-Riyadh",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-11-26T14:25:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Abha Club vs Al-Shabab",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-11-26T15:05:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Kairat vs Mjällby AIF",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-11-26T15:30:00Z",
+      "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "Al-Faisaly KSA FC vs Diriyah Club",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-11-26T17:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.75 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Olympiakos Piraeus vs AC Milan",
+      "competition": "UEFA Europa League",
+      "commence_time": "2026-11-26T17:45:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.84,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SK Brann vs AGF Aarhus",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-11-26T17:45:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
-        "cote": 1.56,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Cremonese vs Avellino",
-      "competition": "Serie B - Italy",
-      "commence_time": "2026-11-25T18:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.73,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Mantova vs Arezzo",
-      "competition": "Serie B - Italy",
-      "commence_time": "2026-11-25T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Fleetwood Town vs Leeds United U21",
-      "competition": "EFL Trophy",
-      "commence_time": "2026-11-25T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.81,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Pisa vs Modena",
-      "competition": "Serie B - Italy",
-      "commence_time": "2026-11-25T19:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.78,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Padova vs Sampdoria",
-      "competition": "Serie B - Italy",
-      "commence_time": "2026-11-25T19:00:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.71,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -95,15 +97,15 @@
       "score": null
     },
     {
-      "match": "Burnley vs Birmingham City",
-      "competition": "Championship",
-      "commence_time": "2026-11-25T19:45:00Z",
+      "match": "Hearts vs AS Monaco",
+      "competition": "UEFA Europa Conference League",
+      "commence_time": "2026-11-26T17:45:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.72,
+        "pari": "VICTOIRE AS MONACO",
+        "cote": 1.57,
         "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
+        "motif": "Cote extérieur en fourchette favorite",
+        "tendance_publique": "1X2"
       },
       "score": null
     }
