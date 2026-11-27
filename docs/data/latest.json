@@ -1,63 +1,17 @@
 {
-  "generated_at": "2026-11-27T01:24:15.547814+00:00",
+  "generated_at": "2026-11-27T15:58:24.039818+00:00",
   "erreur": null,
   "nb_matchs": 9,
   "matchs": [
-    {
-      "match": "Pachuca vs Guadalajara",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-27T01:03:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.49,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "León vs Cruz Azul",
-      "competition": "Liga MX",
-      "commence_time": "2026-11-27T03:10:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.64,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Macarthur FC vs Melbourne City",
-      "competition": "A-League",
-      "commence_time": "2026-11-27T08:40:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.68,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Al-Kholood vs Al-Khaleej",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-11-27T12:15:00Z",
-      "modele_a": null,
-      "score": null
-    },
     {
       "match": "Al-Qadsiah vs Al-Fayha",
       "competition": "Saudi Pro League",
       "commence_time": "2026-11-27T14:20:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
-        "cote": 1.63,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.7,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
@@ -68,7 +22,7 @@
       "commence_time": "2026-11-27T17:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.66,
+        "cote": 1.57,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -81,7 +35,7 @@
       "commence_time": "2026-11-27T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
+        "cote": 1.6,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -94,7 +48,7 @@
       "commence_time": "2026-11-27T17:00:00Z",
       "modele_a": {
         "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.53,
+        "cote": 1.43,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -105,7 +59,59 @@
       "match": "1. FC Heidenheim vs 1. FC Nürnberg",
       "competition": "Bundesliga 2 - Germany",
       "commence_time": "2026-11-27T17:30:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.73,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Al-Ittihad vs Neom",
+      "competition": "Saudi Pro League",
+      "commence_time": "2026-11-27T17:30:00Z",
       "modele_a": null,
+      "score": null
+    },
+    {
+      "match": "VfL Bochum vs SV Darmstadt 98",
+      "competition": "Bundesliga 2 - Germany",
+      "commence_time": "2026-11-27T17:30:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.65,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "SonderjyskE vs Brondby IF",
+      "competition": "Denmark Superliga",
+      "commence_time": "2026-11-27T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.54,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Hansa Rostock vs TSV Havelse",
+      "competition": "3. Liga - Germany",
+      "commence_time": "2026-11-27T18:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 3.5 BUTS",
+        "cote": 1.75,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
       "score": null
     }
   ],
