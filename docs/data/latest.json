@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-11-27T15:58:24.039818+00:00",
+  "generated_at": "2026-11-28T00:57:33.483674+00:00",
   "erreur": null,
-  "nb_matchs": 9,
+  "nb_matchs": 10,
   "matchs": [
     {
-      "match": "Al-Qadsiah vs Al-Fayha",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-11-27T14:20:00Z",
-      "modele_a": {
-        "pari": "MOINS DE 1.5 BUTS",
-        "cote": 1.7,
-        "indice_fixe": 82,
-        "motif": "Verrouillage marché (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "Alanyaspor vs Torku Konyaspor",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-11-27T17:00:00Z",
+      "match": "Vila Nova vs Atletico Goianiense",
+      "competition": "Brazil Série B",
+      "commence_time": "2026-11-27T23:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 2.5 BUTS",
-        "cote": 1.57,
+        "cote": 1.61,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
@@ -30,37 +17,76 @@
       "score": null
     },
     {
-      "match": "Çaykur Rizespor vs Kasimpasa SK",
-      "competition": "Turkey Super League",
-      "commence_time": "2026-11-27T17:00:00Z",
+      "match": "Fluminense vs Cruzeiro",
+      "competition": "Brazil Série A",
+      "commence_time": "2026-11-27T23:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.6,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 1.5 BUTS",
+        "cote": 1.03,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Raków Częstochowa vs Piast Gliwice",
-      "competition": "Ekstraklasa - Poland",
-      "commence_time": "2026-11-27T17:00:00Z",
-      "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.43,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
-        "tendance_publique": "Neutre"
-      },
-      "score": null
-    },
-    {
-      "match": "1. FC Heidenheim vs 1. FC Nürnberg",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-27T17:30:00Z",
+      "match": "Columbus Crew SC vs Inter Miami CF",
+      "competition": "MLS",
+      "commence_time": "2026-11-28T01:00:00Z",
       "modele_a": {
         "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Real Salt Lake vs Vancouver Whitecaps FC",
+      "competition": "MLS",
+      "commence_time": "2026-11-28T03:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 3.5 BUTS",
+        "cote": 1.56,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "Kyoto Purple Sanga vs Cerezo Osaka",
+      "competition": "J League",
+      "commence_time": "2026-11-28T05:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.64,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Seoul vs Daejeon Citizen",
+      "competition": "K League 1",
+      "commence_time": "2026-11-28T05:00:00Z",
+      "modele_a": {
+        "pari": "PLUS DE 2.5 BUTS",
+        "cote": 1.67,
+        "indice_fixe": 78,
+        "motif": "Flux offensif (seuil de cote)",
+        "tendance_publique": "Neutre"
+      },
+      "score": null
+    },
+    {
+      "match": "FC Anyang vs Jeju United FC",
+      "competition": "K League 1",
+      "commence_time": "2026-11-28T05:00:00Z",
+      "modele_a": {
+        "pari": "MOINS DE 2.5 BUTS",
         "cote": 1.73,
         "indice_fixe": 82,
         "motif": "Verrouillage marché (seuil de cote)",
@@ -69,44 +95,37 @@
       "score": null
     },
     {
-      "match": "Al-Ittihad vs Neom",
-      "competition": "Saudi Pro League",
-      "commence_time": "2026-11-27T17:30:00Z",
-      "modele_a": null,
-      "score": null
-    },
-    {
-      "match": "VfL Bochum vs SV Darmstadt 98",
-      "competition": "Bundesliga 2 - Germany",
-      "commence_time": "2026-11-27T17:30:00Z",
+      "match": "Shimizu S Pulse vs Urawa Red Diamonds",
+      "competition": "J League",
+      "commence_time": "2026-11-28T05:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.65,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.81,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "SonderjyskE vs Brondby IF",
-      "competition": "Denmark Superliga",
-      "commence_time": "2026-11-27T18:00:00Z",
+      "match": "Kashima Antlers vs Fagiano Okayama",
+      "competition": "J League",
+      "commence_time": "2026-11-28T06:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 2.5 BUTS",
-        "cote": 1.54,
-        "indice_fixe": 78,
-        "motif": "Flux offensif (seuil de cote)",
+        "pari": "MOINS DE 2.5 BUTS",
+        "cote": 1.83,
+        "indice_fixe": 82,
+        "motif": "Verrouillage marché (seuil de cote)",
         "tendance_publique": "Neutre"
       },
       "score": null
     },
     {
-      "match": "Hansa Rostock vs TSV Havelse",
-      "competition": "3. Liga - Germany",
-      "commence_time": "2026-11-27T18:00:00Z",
+      "match": "Vissel Kobe vs JEF United Chiba",
+      "competition": "J League",
+      "commence_time": "2026-11-28T06:00:00Z",
       "modele_a": {
-        "pari": "PLUS DE 3.5 BUTS",
+        "pari": "PLUS DE 2.5 BUTS",
         "cote": 1.75,
         "indice_fixe": 78,
         "motif": "Flux offensif (seuil de cote)",
